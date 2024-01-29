@@ -11,19 +11,14 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 <div class="alert mt-3 alert-info" style="">
 
-<h5>THANKS TO EVERYONE THAT MADE BMVC2023 A SUCCESS! SEE YOU AT BMVC2024 IN GLASGOW!</h5>
-<br>
-<h5>-Photos of the event can be found <a href="https://www.dropbox.com/scl/fo/32645asr98dhuekko2ucb/h?rlkey=kltc56b6qicjanw3gbjb4k583&dl=0">here</a>.</h5>
-<h5>-If you liked the <a href="https://www.attendr.app/">Attendr App</a> please rate it in the Google Play/Apple store. It would mean a lot to us!</h5>
-
-<h5>-Special Issue: Our sponsor, <a href="https://www.frontiersin.org/journals/imaging">Frontiers in Imaging</a> has launched a Research Topic for BMVC 2023, more information <a href="https://www.frontiersin.org/research-topics/61449/ai-insights-computer-vision---british-machine-vision-association-bmva">here</a>.</h5>
+<h5>BMVC2024 WILL BE IN GLASGOW!</h5>
 
 </div>
 
 
 ## Call for Papers
 
-The 34th BMVC will be held from 20th - 24th November 2023. We invite papers to be submitted for the conference and ask that potential authors read the [call for papers]({{site.baseurl}}{% link authors/call-for-papers.md %}) that details both the topics of interest for the conference. 
+The 35th BMVC will be held from 25th - 28th November 2024. We invite papers to be submitted for the conference and ask that potential authors read the [call for papers]({{site.baseurl}}{% link authors/call-for-papers.md %}) that details both the topics of interest for the conference. 
 
 
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
@@ -31,7 +26,7 @@ The 34th BMVC will be held from 20th - 24th November 2023. We invite papers to b
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/call-for-papers.md %}">See the Call for Papers</a></p>
     </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link dates.md %}">See the whole timeline</a></p>
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link dates.md %}">See the timeline</a></p>
     </div>
 </div>
 
@@ -39,7 +34,7 @@ The 34th BMVC will be held from 20th - 24th November 2023. We invite papers to b
 ## Information for Authors
 
 Please could prospective authors for BMVC papers read through the [instructions for authors]({{site.baseurl}}{% link authors/submit-your-paper.md %}) page that provides details on the requirements and formatting for paper submissions. 
-All papers should be submitted through the CMT website: <https://cmt3.research.microsoft.com/BMVC2022/>.
+All papers will be submitted through **TBC**.
 -->
 
 <!--
