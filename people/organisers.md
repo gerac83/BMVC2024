@@ -68,6 +68,14 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Jungong_Han.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jungong-han">Jungong Han</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
 </div>
 <br>
 <br>
@@ -120,37 +128,28 @@ index: 0
 <br>
 <br>
 
-
-<!-- <h4>Workshop Chairs <a href="mailto:workshop-chairs@bmvc2023.org" style="font-size:15px;">workshop-chairs@bmvc2023.org</a></h4>
+<h4>Workshop Chairs <a href="mailto:workshop-chairs@bmvc2023.org" style="font-size:15px;" hidden>workshop-chairs@bmvc2023.org</a></h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
-
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs/wsc1.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://arminmustafa.github.io/">Armin Mustafa</a></h4>
-        <p class="pb-2">University of Surrey</p>
+        <img src="../../imgs_2024/Ali_Gooya.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/aligooya/">Ali Gooya</a></h4>
+        <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs/wsc2.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://hazeldoughty.github.io/">Hazel Doughty</a></h4>
-        <p class="pb-2">Leiden University</p>
+        <img src="../../imgs_2024/Jefersson_A_dos_Santos.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jefersson-alex-dos-santos">Jefersson A. dos Santos</a></h4>
+        <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
 
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/wsc3.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://scholar.google.com/citations?user=HLYXVzIAAAAJ&hl=en">Pamela Johnston</a></h4>
-        <p class="pb-2">Robert Gordon University</p>
-    </div>
-</div>
 </div>
 <br>
-<br> -->
+<br>
 
 
 <!-- <h4>Sponsorship Chairs <a href="mailto:sponsorship-chairs@bmvc2023.org" style="font-size:15px;" hidden>sponsorship-chairs@bmvc2023.org</a></h4>
@@ -311,7 +310,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2024/Lipeng_Zhuang.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.imperial.ac.uk/people/g.yang">Lipeng Zhuang</a></h4>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/lipengzhuang/">Lipeng Zhuang</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
@@ -335,7 +334,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2024/Florent_Audonnet.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.imperial.ac.uk/people/g.yang">Florent Audonnet</a></h4>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/florentphilippejeanaudonnet/">Florent Audonnet</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
@@ -343,7 +342,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2024/default.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.imperial.ac.uk/people/g.yang">Yingdong Ru</a></h4>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/yingdongru/">Yingdong Ru</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
@@ -351,7 +350,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2024/default.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.imperial.ac.uk/people/g.yang">Oliver Summerell</a></h4>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/oliversummerell/">Oliver Summerell</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
@@ -359,7 +358,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2024/Ozgu_Goksu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.imperial.ac.uk/people/g.yang">Ozgu Goksu</a></h4>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/ozgugoksu/">Ozgu Goksu</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
