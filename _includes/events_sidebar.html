@@ -1,5 +1,4 @@
-
-<div class="card mt-2">
+<div class="card mt-2" hidden>
   <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
   {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
   <div class="container">
@@ -21,8 +20,7 @@
   {% endfor %}
   </div>
 </div>
-
-<br>
+<br hidden>
 
 
 <div class="card" hidden>

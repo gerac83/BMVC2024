@@ -30,13 +30,13 @@ permalink: /sponsors/
 }
 </style>
 
-<p class="mb-3" align="center"><strong>We are very grateful to our sponsors for supporting the conference this year:</strong></p>
+<!-- <p class="mb-3" align="center" ><strong>We are very grateful to our sponsors for supporting the conference this year:</strong></p>
 
 {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
 
 <section class="sponsors section ">
 {% for group in grouped_sponsors %}
-<!--<h3>{{-group.name-}}&nbsp;Sponsor</h3>-->
+<h3>{{-group.name-}}&nbsp;Sponsor</h3>
 {% for item in group.items %}
 <li class="list-inline-item">
   <div class="col-12 mt-3 mb-3">
@@ -54,7 +54,7 @@ permalink: /sponsors/
 
 <br>
 <br>
-<br>
+<br> -->
 
 
 <center>

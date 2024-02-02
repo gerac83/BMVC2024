@@ -41,11 +41,11 @@ sponsors:
   #   url: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
   #   url-external: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
 
-  - name: Glasgow
-    type: Special
-    logo: Glasgow.png
-    url: "https://www.gla.ac.uk/schools/computing"
-    url-external: "https://www.gla.ac.uk/schools/computing/"
+  # - name: Glasgow
+  #   type: Special
+  #   logo: Glasgow.png
+  #   url: "https://www.gla.ac.uk/schools/computing"
+  #   url-external: "https://www.gla.ac.uk/schools/computing/"
 
   # - name: NSC
   #   type: Special
