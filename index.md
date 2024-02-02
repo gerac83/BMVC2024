@@ -11,7 +11,7 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 <div class="alert mt-3 alert-info" style="">
 
-<h5>BMVC2024 WILL BE IN GLASGOW!</h5>
+<h5>BMVC'24 will be held in Glasgow!</h5>
 
 </div>
 

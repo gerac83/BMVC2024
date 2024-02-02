@@ -3,7 +3,8 @@ body a {
 }
 
 body a:hover {
-  color: #a8a8a8;
+  /* color: #a8a8a8; */
+  color: #003865;
   text-decoration: none;
 }
 
@@ -150,7 +151,8 @@ h3.card-subtitle.text-muted {
 
 .main-title {
   font-weight: 700;
-  color: #a8a8a8;
+  /* color: #a8a8a8; */
+  color: #003865;
   /*font-family: "Exo";*/
 }
 

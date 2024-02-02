@@ -17,5 +17,5 @@ pages:
   - title: People
     url: /people/organiser
     dropdown: true
-  - title: Sponsors
-    url: /sponsors/
+  #- title: Sponsors
+  #  url: /sponsors/
