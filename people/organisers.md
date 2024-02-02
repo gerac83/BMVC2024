@@ -72,7 +72,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2024/Jungong_Han.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jungong-han">Jungong Han</a></h4>
-        <p class="pb-2">University of Glasgow</p>
+        <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
 
@@ -318,7 +318,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2024/Yufan_Shi.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="">Shiyu Fan</a></h4>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/shiyufan/">Shiyu Fan</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
