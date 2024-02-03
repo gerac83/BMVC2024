@@ -367,7 +367,7 @@ index: 0
 <br>
 <br>
 
-<!-- <h4>Supported on behalf of the <a href="https://britishmachinevisionassociation.github.io/">BMVA</a> by</h4>
+<h4>Supported on behalf of the <a href="https://britishmachinevisionassociation.github.io/">BMVA</a> by</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -383,4 +383,4 @@ index: 0
     </div>
 {% endfor %}
 
-</div> -->
+</div>

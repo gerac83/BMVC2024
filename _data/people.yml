@@ -76,19 +76,19 @@ organisers:
     url: "https://www.mpi-inf.mpg.de/~yaliu/"
     job: 	Website Chair
 
-# bmva:
-#   - name: Toby Breckon
-#     img: /assets/images/mugshots/tb.png
-#     url: "https://breckon.org/toby/"
-#     job: Treasurer
-#   - name: Neill Campbell
-#     img: /assets/images/mugshots/nc.jpg
-#     url: "https://www.ndfcampbell.org/"
-#     job: Chairman
-#   - name: Andrew Gilbert
-#     img: /assets/images/mugshots/ag.jpeg
-#     url: "https://www.surrey.ac.uk/people/andrew-gilbert"
-#     job: Payments Master General
+bmva:
+  - name: Toby Breckon
+    img: /assets/images/mugshots/tb.png
+    url: "https://breckon.org/toby/"
+    job: Treasurer
+  - name: Neill Campbell
+    img: /assets/images/mugshots/nc.jpg
+    url: "https://www.ndfcampbell.org/"
+    job: Chairman
+  - name: Andrew Gilbert
+    img: /assets/images/mugshots/ag.jpeg
+    url: "https://www.surrey.ac.uk/people/andrew-gilbert"
+    job: Payments Master General
     
 # volunteers:
 #   - name: Caiwen Xu
