@@ -18,17 +18,20 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 ## Call for Papers
 
-The 35th BMVC will be held from 25th - 28th November 2024. We invite papers to be submitted for the conference and ask that potential authors read the [call for papers]({{site.baseurl}}{% link authors/call-for-papers.md %}) that details both the topics of interest for the conference. 
+The 35th BMVC will be held from 25th - 28th November 2024. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.
 
+**The call for papers and timeline will be announced soon!**
 
-<div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+<!-- [call for papers]({{site.baseurl}}{% link authors/call-for-papers.md %}) -->
+
+<!-- <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/call-for-papers.md %}">See the Call for Papers</a></p>
     </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link dates.md %}">See the timeline</a></p>
     </div>
-</div>
+</div> -->
 
 <!--
 ## Information for Authors

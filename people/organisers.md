@@ -8,7 +8,7 @@ index: 0
 <h3>Organising Committee</h3>
 <br>
 
-<h4>General Chair</h4>
+<h4>General Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -80,7 +80,7 @@ index: 0
 <br>
 <br>
 
-<h4>CMT Chairs</h4>
+<h4>Technical Program Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -104,7 +104,7 @@ index: 0
 <br>
 <br>
 
-<h4>Industrial / Keynote Chair</h4>
+<h4>Industrial / Keynote Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -279,7 +279,7 @@ index: 0
 <br>
 <br> -->
 
-<h4>Website Chair <a href="mailto:website-chair@bmvc2023.org" style="font-size:15px;" hidden>website-chair@bmvc2023.org</a></h4>
+<h4>Website Chairs <a href="mailto:website-chair@bmvc2023.org" style="font-size:15px;" hidden>website-chair@bmvc2023.org</a></h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -303,7 +303,7 @@ index: 0
 <br>
 <br>
 
-<h4>Social Chair</h4>
+<h4>Social Media Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
