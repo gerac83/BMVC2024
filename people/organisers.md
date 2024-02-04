@@ -151,134 +151,6 @@ index: 0
 <br>
 <br>
 
-
-<!-- <h4>Sponsorship Chairs <a href="mailto:sponsorship-chairs@bmvc2023.org" style="font-size:15px;" hidden>sponsorship-chairs@bmvc2023.org</a></h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/sc1.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.cardiff.ac.uk/people/view/364382-hicks-yulia">Yulia Hicks</a></h4>
-        <p class="pb-2">Cardiff Uniuversity</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/sc2.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.surrey.ac.uk/people/oscar-mendez-maldonado">Oscar Méndez</a></h4>
-        <p class="pb-2">University of Surrey</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/sc3.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://homepages.inf.ed.ac.uk/rbf/">Bob Fisher</a></h4>
-        <p class="pb-2">University of Edinburgh</p>
-    </div>
-</div>
-</div>
-<br>
-<br> -->
-
-<!-- <h4>Keynote Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/kc1.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://research.tees.ac.uk/en/persons/chrisina-jayne">Chrisina Jayne</a></h4>
-        <p class="pb-2">Teesside University</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/kc2.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://rgu-repository.worktribe.com/person/74625/eyad-elyan">Eyad Elyan</a></h4>
-        <p class="pb-2">Robert Gordon University</p>
-    </div>
-</div>
-
-</div>
-<br>
-<br> -->
-
-<!-- <h4>Proceeding Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/proc2.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://angelicaiaviles.wordpress.com/">Angelica Avilés-Rivero</a></h4>
-        <p class="pb-2">University of Cambridge</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/proc3.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://zchen06.github.io/">Zhixiang Chen</a></h4>
-        <p class="pb-2">University of Sheffield</p>
-    </div>
-</div>
-
-</div>
-<br>
-<br> -->
-
-<!-- <h4>Finance Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/fc1.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.csc.liv.ac.uk/~anguyen/">Anh Nguyen</a></h4>
-        <p class="pb-2">University of Liverpool</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs/fc2.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="http://pugeault.online.fr/">Nicolas Pugeault</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-</div>
-<br>
-<br> -->
-
-<!-- <h4>Doctoral Consortium Chairs  <a href="mailto:doctoral-consortium@bmvc2023.org" style="font-size:15px;" hidden>doctoral-consortium@bmvc2023.org</a></h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://daniela997.github.io/">Richard Menzies</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/dcc-2.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://rgu-repository.worktribe.com/person/1380694/sophie-haynes">Changrui Chen</a></h4>
-        <p class="pb-2">Robert Gordon University</p>
-    </div>
-</div>
-
-</div>
-<br>
-<br> -->
-
 <h4>Website Chairs <a href="mailto:website-chair@bmvc2023.org" style="font-size:15px;" hidden>website-chair@bmvc2023.org</a></h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -333,6 +205,14 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
+        <img src="../../imgs_2024/Ozgu_Goksu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/ozgugoksu/">Ozgu Goksu</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
         <img src="../../imgs_2024/Florent_Audonnet.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/florentphilippejeanaudonnet/">Florent Audonnet</a></h4>
         <p class="pb-2">University of Glasgow</p>
@@ -351,14 +231,6 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2024/default.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/oliversummerell/">Oliver Summerell</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Ozgu_Goksu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/ozgugoksu/">Ozgu Goksu</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
