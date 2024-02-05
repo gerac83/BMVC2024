@@ -221,7 +221,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2024/default.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2024/Yingdong_Ru.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/yingdongru/">Yingdong Ru</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
@@ -229,7 +229,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2024/default.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2024/Oliver_Summerell.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/oliversummerell/">Oliver Summerell</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
