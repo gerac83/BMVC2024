@@ -2,7 +2,7 @@ pages:
   - title: Home
     url: /
   - title: Dates
-   url: /dates/
+    url: /dates/
   #- title: Keynotes
   #  url: /keynotes/
   #- title: Attending
@@ -18,4 +18,4 @@ pages:
     url: /people/organiser
     dropdown: true
   - title: Sponsors
-   url: /sponsors/
+    url: /sponsors/
