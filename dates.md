@@ -17,7 +17,7 @@ permalink: /dates/
     {% for item in site.data.timeline.deadlines %}
         <tr>
           {% if item.title == 'Workshop Submission Deadline' or item.title == 'Paper Submission Deadline' or item.title == 'Supplementary Material Submission' or item.title == 'Workshop Acceptance Notification' or item.title == 'Review Period Starts' or item.title == 'Reviews Submitted' or item.title == 'Doctoral Consortium Submission Deadline' or item.title == 'Start of Rebuttal Period' or item.title == 'End of Rebuttal Period' or item.title == 'Reviewer Discussion & Final Revs' or item.title == 'Meta-Reviews Submitted' or item.title == 'Paper Decisions & Meta-Rev Consolidation' or item.title == 'Author Notifications' or item.title == 'Camera Ready' or item.title == 'Camera Ready for Workshops' or item.title == 'Poster Submissions' or item.title == 'Video Submissions'%} 
-            <td><s>{{item.title}}</s>&nbsp;
+            <td>{{item.title}}&nbsp;
                 {% for tag in item.tags %}
                 {% case tag.key %}
                   {% when "Authors" %}
@@ -36,7 +36,7 @@ permalink: /dates/
                   <span class="badge {{badge-color}} mt-2 mb-2" style="font-weight: normal;">{{ tag.key }}</span>
                 {% endfor %}
             </td>                
-            <td><s>{{item.date | date: '%A, %e %B %Y'}}</s></td>
+            <td>{{item.date | date: '%A, %e %B %Y'}}</td>
           {% else %}
             <td>{{item.title}}&nbsp;
                 {% for tag in item.tags %}
