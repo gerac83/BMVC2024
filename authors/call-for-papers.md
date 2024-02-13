@@ -67,15 +67,15 @@ Topics include, but are not limited to:
 
 Papers submitted under the "Brave new ideas" subject area are expected to move away from incremental benchmark gains. Proposed ideas should radically differ from the current research strand or propose a novel problem.
 
-### Reviewing Process BMVC 2024
+### Reviewing Process for BMVC 2024
 
-- Each paper will be reviewed by at least three reviewers. The Area Chair will provide a meta-review, summarising the reviewers' points and recommending a paper decision.
+- Each paper will be reviewed by at least three reviewers. The Area Chair will provide a meta-review, summarising the reviewers' points and recommending paper decisions.
 
-- The authors will have a period to produce a rebuttal to address the reviewers' points to the Area Chair only. Authors with papers accepted will need to incorporate reviewers' suggestions before the final camera-ready submission.
+- The authors will have a period to produce a rebuttal to address the reviewers' points. Authors with papers accepted will need to incorporate reviewers' suggestions before the final camera-ready submission.
 
-<!-- - The rebuttal will be handled by only by one Area Chair who will facilitate paper discussion ebtween reviewers and and request . Conflicts will be jointly managed by the ACs and Paper Selection Chairs. -->
+- The rebuttal will be handled by only by one Area Chair who will facilitate paper discussion between reviewers and request reviewers to clarify or revise their review. Conflicts will be managed by the ACs and Programme Chairs.
 
 **Please Note:** Due to the anticipated volume of papers for BMVC 2024 (based on recent year's experience), there will be NO extension granted to the submission deadline. In keeping with conferences in the field (e.g., [NeurIPS](https://neurips.cc), [CVPR](https://cvpr2022.thecvf.com)) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers. The submission site will ask authors to acknowledge this commitment, and failure to engage with the reviewing process might be grounds for rejection.
 
-Any queries to the Programme Chairs should be sent to [bmvc2024@googlegroups.com](mailto:bmvc2024@googlegroups.com).
+Any queries to the Programme Chairs should be sent to <a href="mailto:{{ site.email }}"> {{ site.email }}</a>.
 

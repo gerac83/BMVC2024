@@ -11,7 +11,7 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 <div class="alert mt-3 alert-info" style="">
 
-<h5>BMVC'24 will be held in Glasgow!</h5>
+<h6>BMVC'24 will be held in Glasgow!</h6>
 
 </div>
 
@@ -23,9 +23,9 @@ The 35th BMVC will be held from 25th - 28th November 2024. We invite papers to b
 <!-- [call for papers]({{site.baseurl}}{% link authors/call-for-papers.md %}) -->
 
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
-    <!-- <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/call-for-papers.md %}">See the Call for Papers</a></p>
-    </div> -->
+    </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link dates.md %}">See the timeline</a></p>
     </div>

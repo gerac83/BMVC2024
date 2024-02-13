@@ -29,7 +29,8 @@ formatted-title: The 35<sup>th</sup> British Machine Vision Conference
 brand: BMVC&thinsp;2024
 short-title: "BMVC 2024"
 conf_year: 2024
-email: bmvc2024@tbc.com
+email: bmvc.2024@gmail.com
+#bmvc2024@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website is for the 35th British Machine Vision Conference. 25th - 28th November 2024, Glasgow, UK.
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
@@ -41,7 +42,6 @@ url: "https://www.bmvc2024.org"
 conf-url: "https://www.bmvc2024.org"
 chat-url: "https://chat.bmvc2024.org"
 logo: "/assets/images/layout/bmvc-2024.png"
-pc-email: "bmvc@tbc.com"
 #twitter_username: BMVCconf
 twitter_username: BMVCconf
 github_username:  BritishMachineVisionAssociation

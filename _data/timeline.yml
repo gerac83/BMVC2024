@@ -1,18 +1,18 @@
 deadlines:
   - title: Workshop Submission Deadline
-    date: 2024-05-10
+    date: 2024-04-26
     tags:
       - key: Authors
   - title: Paper Submission Deadline
-    date: 2024-04-03
+    date: 2024-05-03
     tags:
       - key: Authors
   - title: Supplementary Material Submission
     date: 2024-05-10
     tags:
       - key: Authors
-  - title: Workshop Acceptance Notification
-    date: 2024-06-07
+  - title: Workshop Submission Deadline
+    date: 2024-05-17
     tags:
       - key: Authors
   - title: Review Period Starts
@@ -23,6 +23,10 @@ deadlines:
     date: 2024-06-03
     tags:
       - key: Reviewers
+  - title: Workshop Acceptance Notification
+    date: 2024-06-07
+    tags:
+      - key: Authors
   # - title: Doctoral Consortium Submission Deadline
   #   date: 
   #   tags:
@@ -68,11 +72,11 @@ deadlines:
   #   date: 2024-10-18
   #   tags:
   #     - key: Authors
-  - title: In-Person Conference Starts
+  - title: Conference Starts
     date: 2024-11-25
     tags:
       - key: Everyone
-  - title: In-Person Conference Ends
+  - title: Conference Ends
     date: 2024-11-28
     tags:
       - key: Everyone
