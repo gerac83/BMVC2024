@@ -10,7 +10,7 @@ The purpose of workshops is to provide a comprehensive forum on topics that will
 
 There will be competition for workshop space, time, and topic coverage. To enable the competitive selection process, proposals must be specific and detailed in justifying relevance and viability. Proposers may be asked to provide additional information, modify aspects of their proposals, or combine their proposals with another one. Also note that publication deadlines are very tight between the main conference acceptance notification and the workshop camera-ready deadline, so proposers have to be ready to undertake all the work related to soliciting and reviewing submissions and collecting final contributions.
 
-**Proposals should be submitted by 10th May 2024.**
+**Proposals should be submitted by 10th May 2024.** (17th May instead? as we moved the paper submission, 10th will collide with the supp. submission date)
 
 Proposals should include the following information:
 - Workshop title.
