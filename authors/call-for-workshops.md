@@ -4,7 +4,7 @@ title: Call for Workshops
 permalink: /authors/call-for-workshops/
 ---
 
-We are soliciting proposals for workshops to be held together with the 2023 British Machine Vision Conference (BMVC 2023). Workshops will take place on **XX** November 2024.
+We are soliciting proposals for workshops to be held together with the 2024 British Machine Vision Conference (BMVC 2024). Workshops will take place on **XX** November 2024.
 
 The purpose of workshops is to provide a comprehensive forum on topics that will not be fully explored during the main conference as well as to encourage in-depth discussion of technical and application issues. We also welcome "Challenge Workshops" that aim to compare new and established methods on common data sets. BMVC 2023 organizers will collect workshop registrations, provide facilities, and distribute electronic copies of the workshop proceedings.
 
