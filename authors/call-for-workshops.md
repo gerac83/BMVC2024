@@ -26,4 +26,4 @@ Proposals should include the following information:
 
 For any questions, please contact the workshop chairs via [workshop-chairs@XX.org](mailto:workshop-chairs@XX.org).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKFCd57eNGUOk8zY3cWjNrKQl56dy36xUm97_GmhVsFLR2mQ/viewform?embedded=true" width="670" height="2200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://forms.gle/V7nxEkMwWHtrD7286" width="670" height="2200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
