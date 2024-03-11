@@ -32,9 +32,9 @@ index: 0
 <br>
 <br>
 
-<h4>Programme Chairs <a href="mailto:bmvc2023@googlegroups.com" style="font-size:15px;" hidden>bmvc2023@googlegroups.com</a></h4>
+<h4>Programme Chairs <a href="mailto:programme-chairs@bmvc2024.org" style="font-size:15px;">programme-chairs@bmvc2024.org</a></h4>
 <br>
-<div class="row justify-content-around pl-4 pr-4">
+<div class="row justify-content-around pl-6 pr-6">
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
@@ -150,6 +150,32 @@ index: 0
 </div>
 <br>
 <br>
+
+
+<h4>Doctoral Consotium Chairs <a href="mailto:doctoral.consortium@bmvc2024.org" style="font-size:15px;" hidden>doctoral.consortium@bmvc2024.org</a></h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Changrui_Chen.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://geoch.top/">Changrui Chen</a></h4>
+        <p class="pb-2">University of Warwick</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/default.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.linkedin.com/in/richard-menzies-8113001ba/?originalSubdomain=uk">Richard Menzies</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
 
 <h4>Website Chairs <a href="mailto:website-chair@bmvc2023.org" style="font-size:15px;" hidden>website-chair@bmvc2023.org</a></h4>
 <br>
