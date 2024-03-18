@@ -14,10 +14,10 @@ permalink: /authors/submit-your-paper/
 <!-- <p>Please refer to the <a href="../../workshops/index.html">workshops page</a> for workshop paper submission instructions.</p> -->
 
 
-<p>Paper submission and registration are handled via the Conference Management Toolkit (CMT). Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission.</p>
+<p>Paper submission and registration are handled via OpenReview. Paper registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission.</p>
 
 
-<p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://cmt3.research.microsoft.com/BMVC2023/">Submit your Paper via CMT</a></p>
+<p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://cmt3.research.microsoft.com/BMVC2023/">Submit your Paper via OpenReview</a></p>
 
 <!--
 <div class="alert mt-3 alert-info" style="">
@@ -30,25 +30,31 @@ permalink: /authors/submit-your-paper/
 
 <h3>Formatting your paper</h3>
 
-A complete paper should be submitted in according to the formatting style ([please see below under typesetting]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting)). 
+A complete paper should be submitted according to the formatting style ([please see below under typesetting]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting)). 
 
 ### Submitted paper (for review)
 
-Papers submitted for review should be anonymous and instead include the paper ID as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the PDFLaTeX template) should be included, in order to facilitate the review process.
+Papers submitted for review should be anonymous and instead include the paper ID as allocated by OpenReview upon registration of the abstract/paper. The addition of line numbers (automatic in the PDFLaTeX template) should be included, in order to facilitate the review process.
 
-**Page limit:** A complete paper should be submitted in according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). **The length of papers submitted for stage one review should not exceed NINE pages excluding the references.** All appendices must be counted within the nine-page limit or supplied as supplementary material. 
+**Page limit:** A complete paper should be submitted according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). **The length of papers submitted for stage one review should not exceed NINE pages excluding the references.** All appendices must be supplied as supplementary material and do not count towards the NINE pages limit. 
 
 ### Paper policies
+
+**MAY REMOVE THIS**
 
 By submitting a manuscript to BMVC, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no paper which contains significant overlap with the contributions of this paper either is under review at the moment of submission or will be submitted during the {{short-title}} review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to {{site.short-title}}. Violation of any of these conditions will lead to rejection.
 
 <h3>Dual submission</h3>
+
+**MAY REMOVE THIS**
 
 <p>A publication, for the purposes of this policy, is defined to be a written work longer than four pages (excluding references) that was submitted for review by peers for either acceptance or rejection, and, after review, was accepted and appeared in a formal proceedings. This definition does not consider an arXiv.org or university technical report as a publication. Please see the entry on the <a title="FAQ" href="{{ site.baseurl }}{% link authors/faq.md %}">FAQ</a> for further details.</p>
 
 <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/faq.md %}">Please check the FAQ</a></p>
 
 <h3>Author&#8217;s responsibilities</h3>
+
+**MAY REMOVE THIS**
 
 <p>If there are papers that may appear to violate any of these conditions, it is the authors’ responsibility to</p>
 
@@ -80,10 +86,10 @@ This means that authors do not know the names of the area chair/reviewers of the
 </p>
 
 <p>
-<strong>Availability for review:</strong> As per the call for papers, in keeping with conferences in the field (e.g., <a href="https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28">NeurIPS</a>) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers. The CMT submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.
+<strong>Availability for review:</strong> As per the call for papers, in keeping with conferences in the field (e.g., <a href="https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28">NeurIPS</a>) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers. The OpenReview submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.
 </p>
 <p>
-Our expectation is that the majority of authors should make themselves available as reviewers. At the time of abstract submission on CMT, the author list should be entered on CMT and an option will be available for authors to indicate which authors will be able to review - requests for certain authors to not be considered as reviewers can also be entered with a suitable justification. For example, junior researchers (e.g., early PhD and below) or authors who are not computer vision researchers (e.g., providing domain expertise for experiments) would be considered reasonable justification.
+Our expectation is that the majority of authors should make themselves available as reviewers. At the time of abstract submission on OpenReview, the author list should be entered on the platform and an option will be available for authors to indicate which authors will be able to review - requests for certain authors to not be considered as reviewers can also be entered with a suitable justification. For example, junior researchers (e.g., early PhD and below) or authors who are not computer vision researchers (e.g., providing domain expertise for experiments) would be considered reasonable justification.
 </p>
 
 <p>
@@ -124,17 +130,14 @@ Our expectation is that the majority of authors should make themselves available
 <ul>
 <li>Videos to showcase results/demo of the proposed approach/system</li>
 <li>Images and other results in addition to the ones in the paper</li>
-<li> Anonymised related submissions to other conferences and journals</li>
+<li>Anonymised related submissions to other conferences and journals</li>
 <li>Appendices or technical reports containing extended proofs and mathematical derivations that are not essential to the understanding of the submitted paper</li>
 </ul>
 
-<p><strong>Supplementary material should be uploaded as a single ZIP file (up to 100MB) to the CMT website.</strong></p>
+<p><strong>Supplementary material should be uploaded as a single ZIP file (up to 100MB) to the OpenReview website.</strong></p>
 
 The authors should refer to the contents of the supplementary material appropriately in the paper. Note that reviewers will be encouraged to look at it, but are not obligated to do so. 
 
 <!--
 Supplementary material is to be submitted by the [supplemental material deadline]({{site.baseurl}}{% link dates.md %}).
 -->
-
-
-

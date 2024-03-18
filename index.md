@@ -17,6 +17,13 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 </div>
 
+## Call for Area Chairs and Reviewers
+
+We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!
+
+* Area Chairs: <a href="https://forms.gle/qbiDzc72ovrGsqcp7">https://forms.gle/qbiDzc72ovrGsqcp7</a>
+* Reviewers: <a href="https://forms.gle/mBWeWnBSJKxQcJFP8">https://forms.gle/mBWeWnBSJKxQcJFP8</a>
+
 
 ## Call for Papers
 
