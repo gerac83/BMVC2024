@@ -98,7 +98,6 @@ exclude:
   - sponsorship-backup.md
   - authors/instructions-for-presenting-authors.md
   - index_v0.md
-  - calls/call-for-workshops.md
   - calls/doctoral-consortium.md
   - authors/
   - authors/rebuttal-instructions.md
@@ -106,7 +105,6 @@ exclude:
   - authors/faq.md
   - authors/submit-your-paper.md
   - authors/submit-your-paper-old.md
-  
 #  - attending/
 
 #main_sponsors:
