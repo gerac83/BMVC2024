@@ -1,12 +1,12 @@
 ---
-layout: default_sparse
+layout: default
 title: Organisers
 permalink: /people/organisers/
 index: 0
 ---
 
-<h3>Organising Committee</h3>
-<br>
+<!-- <h3>Organising Committee</h3>
+<br> -->
 
 <h4>General Chairs</h4>
 <br>
@@ -32,7 +32,7 @@ index: 0
 <br>
 <br>
 
-<h4>Programme Chairs <a href="mailto:programme-chairs@bmvc2024.org" style="font-size:15px;">programme-chairs@bmvc2024.org</a></h4>
+<h4>Programme Chairs <a href="mailto:programme-chairs@bmvc2024.org" style="font-size:15px;" hidden>programme-chairs@bmvc2024.org</a></h4>
 <br>
 <div class="row justify-content-around pl-6 pr-6">
 
@@ -80,7 +80,7 @@ index: 0
 <br>
 <br>
 
-<h4>Technical Program Chairs</h4>
+<h4>Technical Program Chairs<a href="mailto:programme-chairs@bmvc2024.org" style="font-size:15px;" hidden>programme-chairs@bmvc2024.org</a></h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -128,7 +128,8 @@ index: 0
 <br>
 <br>
 
-<h4>Workshop Chairs <a href="mailto:workshop-chairs@bmvc2023.org" style="font-size:15px;" hidden>workshop-chairs@bmvc2023.org</a></h4>
+<h4>Workshop Chairs</h4>
+<!-- <p>Contact: <a href="mailto:workshop-chairs@bmvc2023.org">workshop-chairs@bmvc2023.org</a></p> -->
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 <div class="col-6 col-md-4 col-lg-3">

@@ -1,7 +1,7 @@
 ---
-layout: default_sparse
+layout: default
 title: Call for Papers
-permalink: /authors/call-for-papers/
+permalink: /calls/call-for-papers/
 ---
 
 <!--
@@ -77,5 +77,5 @@ Papers submitted under the "Brave new ideas" subject area are expected to move a
 
 **Please Note:** Due to the anticipated volume of papers for BMVC 2024 (based on recent year's experience), there will be NO extension granted to the submission deadline. In keeping with conferences in the field (e.g., [NeurIPS](https://neurips.cc), [CVPR](https://cvpr2022.thecvf.com)) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers. The submission site will ask authors to acknowledge this commitment, and failure to engage with the reviewing process might be grounds for rejection.
 
-Any queries to the Programme Chairs should be sent to <a href="mailto:{{ site.email }}"> {{ site.email }}</a>.
+Any queries to the Programme Chairs should be sent to [programme-chairs@bmvc2024.org](mailto:programme-chairs@bmvc2024.org).
 

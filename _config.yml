@@ -48,7 +48,7 @@ github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva
 #youtube_channel: channel/UCBDkH5yK4GyVoRkV8lYdwdw1
 
-deadline-time: "23:59 UK Time"
+deadline-time: "23:59 GMT"
 
 #cmt-url: "https://cmt3.research.microsoft.com/BMVC2023/"
 bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"
@@ -98,12 +98,14 @@ exclude:
   - sponsorship-backup.md
   - authors/instructions-for-presenting-authors.md
   - index_v0.md
-  # - authors/call-for-workshops.md
-  - authors/doctoral-consortium.md
+  - calls/call-for-workshops.md
+  - calls/doctoral-consortium.md
+  - authors/
   - authors/rebuttal-instructions.md
   - authors/reviewing-guidelines.md
   - authors/faq.md
   - authors/submit-your-paper.md
+  - authors/submit-your-paper-old.md
   
 #  - attending/
 

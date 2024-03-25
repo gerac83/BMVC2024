@@ -5,7 +5,7 @@ permalink: /dates/
 ---
 
 <p align="center"><strong>
-    Please note all deadlines are at 23:59 UK Time.
+    Please note all deadlines are at 23:59 {{ site.deadline-time }}.
 </strong></p>
 
 
@@ -24,10 +24,10 @@ permalink: /dates/
                      {% assign badge-color = "badge-success" %}
                   {% when "Reviewers" %}
                      {% assign badge-color = "badge-primary" %}
-                  {% when "AC" %}
+                  {% when "ACs" %}
                      {% assign badge-color = "badge-info" %}
-                  {% when "AC Buddies" %}
-                     {% assign badge-color = "badge-info" %}
+                  {% when "PCs" %}
+                     {% assign badge-color = "badge-secondary" %}
                   {% when "Everyone" %}
                      {% assign badge-color = "badge-dark" %}
                   {% else %}
@@ -45,10 +45,10 @@ permalink: /dates/
                      {% assign badge-color = "badge-success" %}
                   {% when "Reviewers" %}
                      {% assign badge-color = "badge-primary" %}
-                  {% when "AC" %}
+                  {% when "ACs" %}
                      {% assign badge-color = "badge-info" %}
-                  {% when "AC Buddies" %}
-                     {% assign badge-color = "badge-info" %}
+                  {% when "PCs" %}
+                     {% assign badge-color = "badge-secondary" %}
                   {% when "Everyone" %}
                      {% assign badge-color = "badge-dark" %}
                   {% else %}

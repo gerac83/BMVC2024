@@ -1,7 +1,7 @@
 ---
-layout: default_sparse
+layout: default
 title: Call for Workshops
-permalink: /authors/call-for-workshops/
+permalink: /calls/call-for-workshops/
 ---
 
 We are soliciting proposals for workshops to be held together with the 2024 British Machine Vision Conference (BMVC 2024). Workshops will take place on **Wednesday, 27th, and Thursday, 28th November 2024**.

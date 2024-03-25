@@ -4,11 +4,11 @@ deadlines:
     tags:
       - key: Authors
   - title: Paper Submission Deadline
-    date: 2024-05-03
+    date: 2024-05-10
     tags:
       - key: Authors
   - title: Supplementary Material Submission
-    date: 2024-05-10
+    date: 2024-05-17
     tags:
       - key: Authors
   - title: Workshop Submission Deadline
@@ -16,7 +16,7 @@ deadlines:
     tags:
       - key: Authors
   - title: Review Period Starts
-    date: 2024-05-13
+    date: 2024-05-20
     tags:
       - key: Reviewers
   - title: Reviews Submitted
@@ -31,27 +31,31 @@ deadlines:
   #   date: 
   #   tags:
   #     - key: Authors 
-  - title: Start of Rebuttal Period
+  - title: Start of AC/reviewer Discussion Period
     date: 2024-06-14
     tags:
-      - key: Authors      
-  - title: End of Rebuttal Period
+      - key: Reviewers
+      - key: ACs
+  - title: End of AC/reviewer Discussion Period
     date: 2024-06-21
     tags:
-      - key: Authors      
-  - title: Reviewer Discussion & Final Revs 
+      - key: Reviewers
+      - key: ACs   
+  - title: Wraping up & Final Revs 
     date: 2024-06-28
     tags:
       - key: Reviewers
-      - key: AC
+      - key: ACs
   - title: Meta-Reviews Submitted
     date: 2024-07-01
     tags:
-      - key: AC  
+      - key: ACs
+      - key: PCs
   - title: Paper Decisions & Meta-Review Consolidation
     date: 2024-07-12
     tags:
-      - key: AC 
+      - key: ACs
+      - key: PCs
   - title: Author Notifications
     date: 2024-07-19
     tags:

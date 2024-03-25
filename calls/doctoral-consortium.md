@@ -1,7 +1,7 @@
 ---
-layout: default_sparse
+layout: default
 title: Call for Papers - Doctoral Consortium
-permalink: /authors/doctoral-consortium/
+permalink: /calls/doctoral-consortium/
 ---
 
 We are delighted to invite submissions for the Doctoral Consortium at the upcoming [British Machine Vision Conference (BMVC)](https://bmvc2023.org), to take place on 20-24 November, 2023 in Aberdeen, Scotland, UK. The Doctoral Consortium will take place on Wednesday, 22nd November 2023, and will provide a unique opportunity for PhD students who are within 6 months (before or after) of graduating with their doctoral degree, to interact with experienced researchers in computer vision. Each student will be assigned a mentor who is a senior member of the community attending the conference, based on similarity of research interests. Students and mentors will attend a Doctoral Consortium event in person, giving students an opportunity to discuss their ongoing research and career plans with their mentor.
