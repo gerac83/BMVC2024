@@ -69,73 +69,73 @@ permalink: /sponsors/
         <tbody>
             <tr>
                 <th style="text-align: center">PACKAGE OFFERS</th>
+                <th style="text-align: center">PLATINUM + Reception Sponsor £9000</th>
                 <th style="text-align: center">PLATINUM £5000</th>
                 <th style="text-align: center">GOLD £3000</th>
                 <th style="text-align: center">SILVER £2000</th>
-                <th style="text-align: center">Welcome Reception Sponsor £9000</th>
             </tr>
             <tr>
                 <td>Company logo and link on the conference website</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
             </tr>
             <tr>
                 <td>Company logo on conference programmee</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
             </tr>
             <tr>
                 <td>1 Free registration</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
             </tr>
             <tr>
                 <td>1 Exhibition stand</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>1 Additional free registration</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>Acknowledgment in the opening address</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>A Young Researcher attendance bursary named after the company</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>Company names associated with invited talks, tutorials or prizes</td>
                 <td align="center">✔</td>
-                <td align="center">✘</td>
+                <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>Exclusive promotion opportunity at the Welcome Reception</td>
-                <td align="center">✘</td>
-                <td align="center">✘</td>
-                <td align="center">✘</td>
                 <td align="center">✔</td>
+                <td align="center">✘</td>
+                <td align="center">✘</td>
+                <td align="center">✘</td>
             </tr>
         </tbody>
     </table>
