@@ -14,8 +14,8 @@ pages:
   #- title: Programme
   #  url: /programme/
   #  dropdown: true
-  # - title: Authors
-  #   url: /authors/
+  - title: Authors
+    url: /authors/
     dropdown: true
   - title: People
     url: /people/organiser

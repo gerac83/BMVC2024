@@ -99,11 +99,10 @@ exclude:
   - authors/instructions-for-presenting-authors.md
   - index_v0.md
   - calls/doctoral-consortium.md
-  - authors/
   - authors/rebuttal-instructions.md
   - authors/reviewing-guidelines.md
   - authors/faq.md
-  - authors/submit-your-paper.md
+  # - authors/submit-your-paper.md
   - authors/submit-your-paper-old.md
 #  - attending/
 
