@@ -1,15 +1,13 @@
 ---
 layout: default
-title: How to Submit Your Paper
+title: Submit Your Paper
 permalink: /authors/submit-your-paper/
 ---
 
-## Author Guidelines
+## How to NOT get your paper rejected
 
-We invite authors to familiarise themselves with the Author Guidelines before submitting a paper to BMVC. **PCs will reject a paper if the paper and authors do not adhere to these guidelines.**
+We invite authors to familiarise with the [Author & Submission Policy]({{site.baseurl}}{% link authors/submission-policy.md %}) before submitting a paper to BMVC. **PCs will reject a paper if the paper and authors do not adhere to these.**
 <!-- Below, you can find a summary of the main points of this policy. -->
-
-**Author Guidelines will be available from April 1st, 2024.**
 
 ---
 
@@ -35,6 +33,9 @@ Papers submitted for review should be anonymous and instead include the paper ID
     </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/carlosfmorenog/BMVCTemplate">View the Github repository</a></p>
+    </div>
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://www.overleaf.com/latex/templates/author-guidelines-for-the-british-machine-vision-conference-2024/tnxgnwvggpsv">Get Overlead Template</a></p>
     </div>
 </div>
 
