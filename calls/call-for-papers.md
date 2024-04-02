@@ -33,37 +33,44 @@ The submission portal will be available from the 2nd of April, 2024.
 
 Topics include, but are not limited to:
 
-- 2D object recognition
-- 3D computer vision 
-- 3D object recognition
-- Action and behaviour recognition 
-- Adversarial learning, adversarial attack and defence methods
-- Biometrics, face, gesture, body pose
-- Computational photography
-- Datasets and evaluation 
-- Document Image Analysis
-- Efficient training and inference methods for networks 
-- Embodied vision: Active agents, simulation
-- Explainable AI, fairness, accountability, privacy, transparency and ethics in vision 
-- Image and video retrieval 
-- Image and video synthesis
-- Image classification
-- Low-level and physics-based vision 
-- Machine learning architectures and formulations 
-- Medical, biological and cell microscopy 
-- Motion and tracking 
-- Optimisation and learning methods 
-- Pose estimation
-- Privacy and Ethics in Vision
-- Representation learning
-- Scene analysis and understanding 
-- Transfer, low-shot, semi- and un- supervised learning 
-- Video analysis and understanding 
-- Vision + language, vision + other modalities 
+- 3D from X
+- 3D Shape modeling and processing
+- Action and event understanding
+- Adversarial attack and defense
+- Architecture and Space Design
+- Biometrics
+- Brave new ideas (not beating SOA but a new appraoch, theory, niche)
+- Computational Photography and Photogrammetry
+- Computer vision theory
+- Datasets and Evaluation
+- Deep learning architectures and techniques
+- Document analysis and understanding
+- Embodied vision: Active agents; simulation
+- Explainable AI
+- Fairness, privacy, ethics, social-good, transparency, accountability in vision
+- Generative models
+- Humans: Face, Gestures, Pose and Body Movement
+- Human-in-the-loop computer vision
+- Image Retrieval
+- Low-level and Physics-based Vision
+- Machine learning (other than deep learning)
+- Medical and Biological Image Analysis
+- Motion estimation and tracking
+- Multimodal learning
+- Recognition for X
+- Representation Learning
+- RGBD sensors and analytics
+- Scene Analysis and Understanding
+- Segmentation, grouping and shape analysis
+- Self-, semi-, meta-, unsupervised learning
+- Transfer, low-shot, continual, long-tail learning
+- Video analysis and Understanding
+- Vision and audio
+- Vision and graphics
+- Vision and language
+- Vision and robotics
 - Vision applications and systems
-- Vision for robotics and autonomous vehicles
-- Vision for Sustainable Practices
-- "Brave new ideas"
+- Visual reasoning and logical representation
 
 Papers submitted under the "Brave new ideas" subject area are expected to move away from incremental benchmark gains. Proposed ideas should radically differ from the current research strand or propose a novel problem.
 
@@ -75,7 +82,7 @@ Papers submitted under the "Brave new ideas" subject area are expected to move a
 
 - The rebuttal will be handled by only by one Area Chair who will facilitate paper discussion between reviewers and request reviewers to clarify or revise their review. Conflicts will be managed by the ACs and Programme Chairs.
 
-**Please Note:** Due to the anticipated volume of papers for BMVC 2024 (based on recent year's experience), there will be NO extension granted to the submission deadline. In keeping with conferences in the field (e.g., [NeurIPS](https://neurips.cc), [CVPR](https://cvpr2022.thecvf.com)) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers. The submission site will ask authors to acknowledge this commitment, and failure to engage with the reviewing process might be grounds for rejection.
+**Please Note:** Due to the anticipated volume of papers for BMVC 2024 (based on recent year's experience), there will be NO extension granted to the submission deadline. In keeping with conferences in the field (e.g., [NeurIPS](https://neurips.cc), [CVPR](https://cvpr2022.thecvf.com)) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers. **The submission site will ask authors to acknowledge this commitment, and failure to engage with the reviewing process might be grounds for rejection.**
 
 Any queries to the Programme Chairs should be sent to [programme-chairs@bmvc2024.org](mailto:programme-chairs@bmvc2024.org).
 
