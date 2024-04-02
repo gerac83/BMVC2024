@@ -5,7 +5,7 @@ permalink: /authors/submit-your-paper/
 ---
 
 
-<p>Paper submission and registration are handled via OpenReview. The submission portal will open on April 1st, 2024. Further instructions will be posted here in due course.</p>
+<p>Paper submission and registration are handled via OpenReview. The submission portal will open on April 2nd, 2024. Further instructions will be posted here in due course.</p>
 
 <!-- Paper registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission. -->
 

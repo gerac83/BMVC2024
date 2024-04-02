@@ -66,7 +66,7 @@ Supplementary material is to be submitted by the [supplemental material deadline
 
 ## Paper Submission
 
-<p>Paper submission and registration are handled via OpenReview. The submission portal will open on April 1st, 2024. Further instructions will be posted here in due course.</p>
+<p>Paper submission and registration are handled via OpenReview. The submission portal will open on April 2nd, 2024. Further instructions will be posted here in due course.</p>
 
 Paper registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the formatting instructions and policies before submission.
 

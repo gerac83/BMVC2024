@@ -20,7 +20,7 @@ Authors are invited to submit high-quality papers in image processing, computer 
 
 Please note that BMVC is a single-track meeting with oral and poster presentations. **The paper submission deadline will be on the 10th of May 2024**. Submitted papers should not exceed <b>NINE</b> pages (references are excluded), and appendices should be submitted via the supplementary information. You can find further information in the [Author & Submission Policy]({{site.baseurl}}{% link authors/submission-policy.md %}) and [Submit your Paper]({{site.baseurl}}{% link authors/submit-your-paper.md %}) pages.
 
-The submission portal will be available from the 1st of April, 2024.
+The submission portal will be available from the 2nd of April, 2024.
 <!-- <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://cmt3.research.microsoft.com/BMVC2023/">Submit your paper on CMT</a></p>
