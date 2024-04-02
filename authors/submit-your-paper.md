@@ -11,6 +11,25 @@ We invite authors to familiarise with the [Author & Submission Policy]({{site.ba
 
 ---
 
+## Paper Submission
+
+<p>Paper submission and registration are handled via OpenReview. The submission portal can be accessed by clicking on the following button, as well as instructions on how to create a profile in Openreview if this is your first time using Openreview. The submission portal will be available from April 2nd, 2024 at 23:59 GMT.</p>
+
+<div class="row no-gutters pt-0 d-xs-block ">
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://openreview.net/group?id=bmva.org/BMVC/2024/Conference">Submit your Paper via OpenReview</a></p>
+    </div>
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://docs.openreview.net/getting-started/creating-an-openreview-profile">How to create an Openreview profile</a></p>
+    </div>
+</div>
+
+**<span style="color:red">Authors who will use a personal email (e.g. gmail, etc.) to sign up to Openreview for the first time, need to create an Openreview profile asap! This is because it can take up to 2 weeks for profiles using public email services to be activated.</span>**
+
+Paper registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author & Submission Policy]({{site.baseurl}}{% link authors/submission-policy.md %}) before submission.
+
+---
+
 ## Formatting your paper
 
 A complete paper should be submitted according to the formatting style ([please see below under typesetting]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting)). 
@@ -61,13 +80,5 @@ Papers submitted for review should be anonymous and instead include the paper ID
 The authors should appropriately refer to the supplementary material in the paper. Note that reviewers will be encouraged to look at it but are not obligated to do so. 
 
 Supplementary material is to be submitted by the [supplemental material deadline]({{site.baseurl}}{% link dates.md %}).
-
----
-
-## Paper Submission
-
-<p>Paper submission and registration are handled via OpenReview. The submission portal will open on April 2nd, 2024. Further instructions will be posted here in due course.</p>
-
-Paper registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the formatting instructions and policies before submission.
 
 <!-- <p style="text-align: center;"><a class="btn btn-primary" role="button" href="" disabled>Submit your Paper via OpenReview</a></p> -->
