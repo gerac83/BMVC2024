@@ -11,9 +11,9 @@ We invite authors to familiarise with the [Author & Submission Policy]({{site.ba
 
 ---
 
-## Paper Submission
+## Asbtract and Paper Submission
 
-<p>Paper submission and registration are handled via OpenReview. The submission portal can be accessed by clicking on the following button, as well as instructions on how to create a profile in Openreview if this is your first time using Openreview. The submission portal will be available from April 2nd, 2024 at 23:59 GMT.</p>
+<p>Abstract and paper submission are handled via OpenReview. The submission portal can be accessed by clicking on the following button, as well as instructions on how to create a profile in Openreview if this is your first time using Openreview. The submission portal will be available from April 2nd, 2024 at 23:59 GMT.</p>
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
@@ -26,7 +26,7 @@ We invite authors to familiarise with the [Author & Submission Policy]({{site.ba
 
 **<span style="color:red">Authors who will use a personal email (e.g. gmail, etc.) to sign up to Openreview for the first time, need to create an Openreview profile asap! This is because it can take up to 2 weeks for profiles using public email services to be activated.</span>**
 
-Paper registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author & Submission Policy]({{site.baseurl}}{% link authors/submission-policy.md %}) before submission.
+Abstract registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author & Submission Policy]({{site.baseurl}}{% link authors/submission-policy.md %}) before submission.
 
 ---
 
