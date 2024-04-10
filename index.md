@@ -11,9 +11,11 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 <div class="alert mt-3 alert-info" style="">
 
-<h6>Follow us on Twitter (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>) for real-time updates about deadlines, the venue and the city! </h6> 
+<p><strong>BMVC will not have a rebuttal period this year!</strong> Further guidance for authors, reviewers and area chairs will be released soon.</p> 
 
-<h6>BMVC'24 will be held in Glasgow!</h6>
+<p><strong>Follow us on Twitter</strong> (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>) for real-time updates about deadlines, the venue and the city! </p> 
+
+<!-- <h6>BMVC'24 will be held in Glasgow!</h6> -->
 
 </div>
 
