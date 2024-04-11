@@ -34,11 +34,17 @@ Papers that are not correctly anonymised, do not use the template, or have more 
 
 ---
 
+## Authors acting as reviewers
+
+Given the growth in paper submissions, we expect all authors to be willing to serve as reviewers if asked to do so. To help us identify qualified reviewers and match submissions to reviewers, all authors are required to have an up-to-date OpenReview profile (see OpenReview author instructions). We will only acknowledge reviewers during the conference and on the BMVC website if the review is above a quality threshold (see [Reviewing policies]({{site.baseurl}}{% link authors/reviewing-guidelines.md %})).
+
+---
+
 ## Submission and review process
 
 BMVC 2024 will use OpenReview to manage submissions. Consistent with the review process for previous BMVC conferences, submissions under review will be visible only to their assigned members of the program committee (programme chairs, area chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process.
 
-Anyone who plans to submit a paper as an author or a co-author must create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible area chairs and reviewers. Authors also agree that they may act as reviewers for BMVC2024. OpenReview author instructions can be found in the link below.
+Anyone who plans to submit a paper as an author or a co-author must create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible area chairs and reviewers. OpenReview author instructions can be found in the link below.
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
@@ -118,9 +124,3 @@ The authors agree that if the paper is accepted, at least one of the authors wil
 The British Machine Vision Association will make all accepted papers publicly available one week before the conference. Authors wishing to submit a patent should understand that the paper's official public disclosure is one week before the conference or whenever the authors make it publicly available, whichever is first. BMVC considers papers confidential until published one week before the conference. However, BMVC notes that multiple organisations will have access during the review and production processes, so those seeking patents should discuss filing dates with their IP council. The conference assumes no liability for early disclosures.
 
 The copyright of accepted papers at BMVC remains with the authors. 
-
----
-
-## Authors acting as reviewers
-
-Given the growth in paper submissions, we expect all authors to be willing to serve as reviewers if asked to do so. To help us identify qualified reviewers and match submissions to reviewers, all authors are required to have an up-to-date OpenReview profile (see OpenReview author instructions). We will only acknowledge reviewers during the conference and on the BMVC website if the review is above a quality threshold (see [Reviewing policies]({{site.baseurl}}{% link authors/reviewing-guidelines.md %})).
