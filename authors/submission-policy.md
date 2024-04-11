@@ -38,7 +38,7 @@ Papers that are not correctly anonymised, do not use the template, or have more 
 
 BMVC 2024 will use OpenReview to manage submissions. Consistent with the review process for previous BMVC conferences, submissions under review will be visible only to their assigned members of the program committee (programme chairs, area chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process.
 
-Anyone who plans to submit a paper as an author or a co-author must create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible area chairs and reviewers. OpenReview author instructions can be found in the link below.
+Anyone who plans to submit a paper as an author or a co-author must create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to BMVC, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible area chairs and reviewers. Authors also agree that they may act as reviewers for BMVC2024. OpenReview author instructions can be found in the link below.
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
