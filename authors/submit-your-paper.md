@@ -11,7 +11,7 @@ We invite authors to familiarise with the [Author & Submission Policy]({{site.ba
 
 ---
 
-## Asbtract and Paper Submission
+## Abstract and Paper Submission
 
 <p>Abstract and paper submission are handled via OpenReview. The submission portal can be accessed by clicking on the following button, as well as instructions on how to create a profile in Openreview if this is your first time using Openreview. The submission portal will be available from April 2nd, 2024 at 23:59 GMT.</p>
 
@@ -54,7 +54,7 @@ Papers submitted for review should be anonymous and instead include the paper ID
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/carlosfmorenog/BMVCTemplate">View the Github repository</a></p>
     </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://www.overleaf.com/latex/templates/author-guidelines-for-the-british-machine-vision-conference-2024/tnxgnwvggpsv">Get Overlead Template</a></p>
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://www.overleaf.com/latex/templates/author-guidelines-for-the-british-machine-vision-conference-2024/tnxgnwvggpsv">Get Overleaf Template</a></p>
     </div>
 </div>
 

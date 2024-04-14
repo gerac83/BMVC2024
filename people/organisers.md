@@ -153,7 +153,7 @@ index: 0
 <br>
 
 
-<h4>Doctoral Consotium Chairs <a href="mailto:doctoral.consortium@bmvc2024.org" style="font-size:15px;" hidden>doctoral.consortium@bmvc2024.org</a></h4>
+<h4>Doctoral Consortium Chairs <a href="mailto:doctoral.consortium@bmvc2024.org" style="font-size:15px;" hidden>doctoral.consortium@bmvc2024.org</a></h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
