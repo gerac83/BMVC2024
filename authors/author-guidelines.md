@@ -1,11 +1,16 @@
 ---
 layout: default
+<<<<<<< HEAD:authors/submission-policy.md
 title: Author and Submission Policy
 permalink: /authors/submission-policy/
 index: 1
+=======
+title: Author Guidelines
+permalink: /authors/author-guidelines/
+>>>>>>> 11ea03de34179b179f58bc2439293f965ee5b89d:authors/author-guidelines.md
 ---
 
-<center><h1> BMVC Author & Submission Policy</h1></center>
+<center><h1> BMVC Author Guidelines</h1></center>
 
 ## Introduction
 

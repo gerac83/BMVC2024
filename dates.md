@@ -5,7 +5,7 @@ permalink: /dates/
 ---
 
 <p align="center"><strong>
-    Please note all deadlines are at 23:59 {{ site.deadline-time }}.
+    Please note all deadlines are at {{ site.deadline-time }}.
 </strong></p>
 
 
