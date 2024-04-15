@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Author and Submission Policy
-permalink: /authors/submission-policy/
+title: Author Guidelines
+permalink: /authors/author-guidelines/
 ---
 
-<center><h1> BMVC Author & Submission Policy</h1></center>
+<center><h1> BMVC Author Guidelines</h1></center>
 
 ## Introduction
 

@@ -6,7 +6,7 @@ permalink: /authors/submit-your-paper/
 
 ## How to NOT get your paper rejected
 
-We invite authors to familiarise with the [Author & Submission Policy]({{site.baseurl}}{% link authors/submission-policy.md %}) before submitting a paper to BMVC. **PCs will reject a paper if the paper and authors do not adhere to these.**
+We invite authors to familiarise with the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submitting a paper to BMVC. **PCs will reject a paper if the paper and authors do not adhere to these.**
 <!-- Below, you can find a summary of the main points of this policy. -->
 
 ---
@@ -26,7 +26,7 @@ We invite authors to familiarise with the [Author & Submission Policy]({{site.ba
 
 **<span style="color:red">Authors who will use a personal email (e.g. gmail, etc.) to sign up to Openreview for the first time, need to create an Openreview profile asap! This is because it can take up to 2 weeks for profiles using public email services to be activated.</span>**
 
-Abstract registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author & Submission Policy]({{site.baseurl}}{% link authors/submission-policy.md %}) before submission.
+Abstract registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submission.
 
 ---
 
