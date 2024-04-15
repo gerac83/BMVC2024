@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Reviewing Guidelines
 permalink: /authors/reviewing-guidelines/
+index: 3
 ---
 
 These guidelines will be released one week before the [abstract submision deadline]({{site.baseurl}}/dates/).

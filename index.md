@@ -6,22 +6,17 @@ layout: default_sidebar
 title: Home
 ---
 
-The British Machine Vision Conference (BMVC) is the British Machine Vision Association's (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.
-
+<p class="text-justify">The British Machine Vision Conference (BMVC) is the British Machine Vision Association's (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.</p>
 
 <div class="alert mt-3 alert-info" style="">
-
-<p><strong>BMVC will not have a rebuttal period this year!</strong> Further guidance for authors, reviewers and area chairs will be released soon.</p> 
-
-<p><strong>Follow us on Twitter</strong> (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>) for real-time updates about deadlines, the venue and the city! </p> 
-
-<!-- <h6>BMVC'24 will be held in Glasgow!</h6> -->
-
+    <p><strong>BMVC will not have a rebuttal period this year!</strong> Further guidance for authors, reviewers and area chairs will be released soon.</p>
+    <p><strong>Follow us on Twitter</strong> (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>) for real-time updates about deadlines, the venue and the city! </p>
+    <!-- <h6>BMVC'24 will be held in Glasgow!</h6> -->
 </div>
 
 ## Call for Area Chairs and Reviewers
 
-We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!
+<p class="text-justify">We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!</p>
 
 * Area Chairs: <a href="https://forms.gle/qbiDzc72ovrGsqcp7">https://forms.gle/qbiDzc72ovrGsqcp7</a>
 * Reviewers: <a href="https://forms.gle/mBWeWnBSJKxQcJFP8">https://forms.gle/mBWeWnBSJKxQcJFP8</a>
@@ -29,7 +24,7 @@ We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in th
 
 ## Call for Papers
 
-The 35th BMVC will be held from 25th - 28th November 2024. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.
+<p class="text-justify">The 35th BMVC will be held from 25th - 28th November 2024. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that details the topics of interest for the conference.</p>
 
 <!-- [call for papers]({{site.baseurl}}{% link calls/call-for-papers.md %}) -->
 
@@ -44,4 +39,4 @@ The 35th BMVC will be held from 25th - 28th November 2024. We invite papers to b
 
 ## About the BMVC
 
-The British Machine Vision Conference is organised by [The British Machine Vision Association and Society for Pattern Recognition](https://britishmachinevisionassociation.github.io/) for the purposes of the scholarly advancement of education and research in machine vision, pattern recognition and associated academic research areas, including the application of such scholarly research within industry. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).
+<p class="text-justify">The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/">The British Machine Vision Association and Society for Pattern Recognition</a> for the purposes of the scholarly advancement of education and research in machine vision, pattern recognition and associated academic research areas, including the application of such scholarly research within industry. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</p>

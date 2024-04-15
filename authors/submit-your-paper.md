@@ -2,6 +2,7 @@
 layout: default
 title: Submit Your Paper
 permalink: /authors/submit-your-paper/
+index: 2
 ---
 
 ## How to NOT get your paper rejected

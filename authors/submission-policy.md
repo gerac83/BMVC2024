@@ -2,6 +2,7 @@
 layout: default
 title: Author and Submission Policy
 permalink: /authors/submission-policy/
+index: 1
 ---
 
 <center><h1> BMVC Author & Submission Policy</h1></center>

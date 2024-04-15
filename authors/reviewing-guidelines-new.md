@@ -1,46 +1,22 @@
 ---
 layout: default_sparse
-title: Reviewing Guidelines
-permalink: /authors/reviewing-guidelines/
+title: Reviewing Guidelines New
+permalink: /authors/reviewing-guidelines-new/
+index: 3
 ---
 
+<p><strong>These reviewing guidelines are based on best practice from the CVPR 2024 - for further details please see the <a href="https://cvpr.thecvf.com/Conferences/2024/ReviewerGuidelines">CVPR Reviewer Guidlines</a>.</strong></p>
 
-<p><strong>These reviewing guidelines are based on best practice from the CVPR 2022 - for further details please see the <a href="https://cvpr2022.thecvf.com/reviewer-guidelines">CVPR Reviewer Guidlines</a>.</strong></p>
-
-<p><strong>To contact the Programme Chairs, please send emails to:</strong></p>
-<p style="text-align: center;"><a href="mailto:bmvc2023@googlegroups.com">bmvc2023@googlegroups.com</a></p>
-
-<hr class="wp-block-separator" />
-
-<!--
-<h2>Reviewing Timeline</h2>
-
-<div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
-<table class="table table-striped table-bordered" style="max-width: 750px;">
-  <tbody>
-    <tr><th scope="row">Deadline</th>
-        <th scope="row">Date (all deadlines {{site.deadline-time}})</th></tr>
-    {% for item in site.data.timeline.deadlines %}
-      {% assign item_is_reviewer = item.tags | where_exp: "i", "i.key == 'reviewers'" %}
-      {% if item_is_reviewer.size > 0 %}
-        <tr>
-            <td>{{item.title}}</td>
-            <td>{{item.date | date: '%A %e %b %Y'}}</td>
-        </tr>
-        {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
-</div>
+<p><strong>To contact the Programme Chairs, please send emails to:</strong><a href="mailto:bmvc2023@googlegroups.com"> bmvc2023@googlegroups.com</a></p>
+<!-- <p style="text-align: center;"><a href="mailto:bmvc2023@googlegroups.com">bmvc2023@googlegroups.com</a></p> -->
 
 <hr class="wp-block-separator" />
--->
 
 <h2>Guidelines</h2>
 
 <p dir="ltr"><strong>Blind Reviews</strong></p>
 
-<p dir="ltr">Our <a href="{{site.baseurl}}{% link authors/submit-your-paper.md %}">Author Guidelines</a> have instructed authors to make reasonable efforts to hide their identities, including omitting their names, affiliations, and acknowledgments. This information will of course be included in the published version. Likewise, reviewers should make all efforts to keep their identity invisible to the authors.</p>
+<p class="text-justify" dir="ltr">Our <a href="{{site.baseurl}}{% link authors/submit-your-paper.md %}">Author Guidelines</a> have instructed authors to make reasonable efforts to hide their identities, including omitting their names, affiliations, and acknowledgments. This information will of course be included in the published version. Likewise, reviewers should make all efforts to keep their identity invisible to the authors.</p>
 
 <p dir="ltr">With the increase in popularity of arXiv preprints, sometimes the authors of a paper may be known to the reviewer. Posting to arXiv is NOT considered a violation of anonymity on the part of the authors, and in most cases, reviewers who happen to know (or suspect) the authors’ identity can still review the paper as long as they feel that they can do an impartial job. An important general principle is to make every effort to treat papers fairly whether or not you know (or suspect) who wrote them. If you do not know the identity of the authors at the start of the process, DO NOT attempt to discover them by searching the Web for preprints.</p>
 
