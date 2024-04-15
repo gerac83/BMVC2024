@@ -90,8 +90,15 @@ exclude:
   - copy_to_aws.sh
   - old/
   - conference/
-  - programme/accepted-papers.md
+  - programme/oral.md
   - programme/paper-awards.md
+  - programme/accepted-papers.md
+  - programme/papers.md
+  - programme/poster.md
+  - programme/programme.md
+  - programme/schedule.md
+  - programme/workshop_papers.md
+  - programme/workshops.md
   - old_index.md
   - attending/guides.md
   - attending/code-of-conduct.md

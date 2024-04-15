@@ -10,7 +10,7 @@ index: 5
         <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
             <div class="text-center">
                 <img src="../../imgs_2024/Mubarak_Shah.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-                <h4 class="pt-2"><a href="">Mubarak Shah</a></h4>
+                <h4 class="pt-2"><a href="https://www.crcv.ucf.edu/person/mubarak-shah/">Mubarak Shah</a></h4>
                 <span class=""><small>University of Central Florida</small></span>
             </div>
         </div>
@@ -27,7 +27,7 @@ index: 5
         <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
             <div class="text-center">
                 <img src="../../imgs_2024/Federico_Tombari.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-                <h4 class="pt-2"><a href="https://gkioxari.github.io/">Federico Tombari</a></h4>
+                <h4 class="pt-2"><a href="https://federicotombari.github.io/">Federico Tombari</a></h4>
                 <span class=""><small>Google</small></span>
             </div>
         </div>
