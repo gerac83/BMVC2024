@@ -40,4 +40,21 @@ index: 5
             </div>
         </div>
     </div>
+    <div class="col-12"><div class="row pt-2 pb-2 align-items-center">
+        <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
+            <div class="text-center">
+                <img src="../../imgs_2024/Margarita_Chli.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+                <h4 class="pt-2"><a href="https://scholar.google.ch/citations?user=C0UhwEIAAAAJ&hl=en">Margarita Chli</a></h4>
+                <span class=""><small>University of Cyprus and ETH Zurich</small></span>
+            </div>
+        </div>
+        <div class="col-12 col-md-8 col-lg-9">
+            <div class="">
+                <h5 class="pt-1 text-center"><b></b></h5>
+                <p class="text-center mb-1"><small ></small></p>
+                <p class="pb-1 mb-1">{{ person.abstract }}</p>
+                <p class="pb-2 text-justify"><b>Bio: </b>Margarita Chli is a Professor of Robotic Vision and the director of the Vision for Robotics Lab, at the University of Cyprus and ETH Zurich. Her work has contributed to the first vision-based autonomous flight of a small drone and the first demonstration of collaborative monocular SLAM for a small swarm of drones. Margarita has given invited keynotes at the World Economic Forum in Davos, TEDx, and ICRA, and she was featured in Robohub's 2016 list of "25 women in Robotics you need to know about". In 2023 she won the ERC Consolidator Grant, one of the most prestigious grants in Europe for blue-sky research, to grow her team at the University of Cyprus to research advanced robotic perception.</p>
+            </div>
+        </div>
+    </div>
 </div>
