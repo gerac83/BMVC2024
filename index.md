@@ -14,12 +14,12 @@ title: Home
     <!-- <h6>BMVC'24 will be held in Glasgow!</h6> -->
 </div>
 
-## Call for Area Chairs and Reviewers
+<!-- ## Call for Area Chairs and Reviewers
 
 <p class="text-justify">We're seeking motivated Area Chairs and dedicated Reviewers! Self-nominate in the following links!</p>
 
 * Area Chairs: <a href="https://forms.gle/qbiDzc72ovrGsqcp7">https://forms.gle/qbiDzc72ovrGsqcp7</a>
-* Reviewers: <a href="https://forms.gle/mBWeWnBSJKxQcJFP8">https://forms.gle/mBWeWnBSJKxQcJFP8</a>
+* Reviewers: <a href="https://forms.gle/mBWeWnBSJKxQcJFP8">https://forms.gle/mBWeWnBSJKxQcJFP8</a> -->
 
 
 ## Call for Papers
