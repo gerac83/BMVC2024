@@ -35,6 +35,9 @@ title: Home
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link dates.md %}">Timeline</a></p>
     </div>
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/author-guidelines.md %}">Author Guidelines</a></p>
+    </div> 
 </div>
 
 ## About the BMVC

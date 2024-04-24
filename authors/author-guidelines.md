@@ -8,7 +8,7 @@ permalink: /authors/author-guidelines/
 
 ## Introduction
 
-This policy is inspired by [CVPR’2024 Author Guidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines). BMVC Programme Chairs adapted these guidelines to achieve the goals of BMVC 2024.
+These guidelines are inspired by [CVPR’2024 Author Guidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines). BMVC Programme Chairs adapted these guidelines to achieve the goals of BMVC 2024.
 
 All authors should carefully review the following policies that govern the submission and review process, as **failure to comply with these policies may result in the rejection of your submission** as well as possible additional sanctions in the case of dual submissions and plagiarism.
 
