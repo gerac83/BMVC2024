@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reviewing Guidelines
+title: Reviewing Guidelines New
 permalink: /authors/reviewing-guidelines-new/
 index: 3
 ---

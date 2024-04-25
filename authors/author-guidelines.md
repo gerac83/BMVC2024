@@ -6,6 +6,21 @@ permalink: /authors/author-guidelines/
 
 <center><h1> BMVC Author Guidelines</h1></center>
 
+## Contents
+* Introduction
+* Paper formatting
+* Authors acting as reviewers
+* Submission and review process
+* Confidentiality
+* Conflict responsibilities
+* Double-blind review
+* Plagiarism and LLMs
+* Dual submissions
+* Supplementary material submission
+* Supplementary material submission
+* Registration and Attendance Responsibilities
+* Publication
+
 ## Introduction
 
 These guidelines are inspired by [CVPR’2024 Author Guidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines). BMVC Programme Chairs adapted these guidelines to achieve the goals of BMVC 2024.
@@ -81,7 +96,9 @@ BMVC reviewing is double-blind in that authors do not know the names of the area
 
 ---
 
-## Plagiarism
+## Plagiarism and LLMs
+
+Authors take complete responsibility for their papers' accuracy and authenticity when submitting them to BMVC. To ensure a high standard of academic and professional integrity, authors must avoid misrepresentation, factual inaccuracies, and plagiarism at all costs. Any paper with citations of non-existent material or obvious factual inaccuracies will be rejected outright and will not be subject to review. It is important to note that attributing plagiarism or inaccuracy to LLMs or someone else is not a viable defence. As an author, it is your duty to ensure that every aspect of your paper is of the highest standard and that your contribution is both original and ethically sound.
 
 Plagiarism consists of appropriating the words or results of another without credit. We will actively check for plagiarism. Furthermore, the paper matching system is quite accurate. As a result, it regularly happens that a paper containing plagiarised material goes to a reviewer from whom the material was plagiarised; experience shows that such reviewers enthusiastically pursue plagiarism cases. Therefore, if a submission contains plagiarised material, the submission will be rejected.
 
