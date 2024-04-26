@@ -1,31 +1,35 @@
 ---
-layout: default_sparse
+layout: default
 title: Area Chair Guidelines
 permalink: /authors/area-chair-guidelines-new/
 index: 4
 ---
 
-<p class="text-justify">As an area chair, you will play a crucial role in helping us maintain the high reviewing standards of the conference. We expect you to have at least two years' experience as a postdoc and/or faculty, and to regularly publish in the lead computer vision venues (e.g. Google Scholar's top 20 venues for computer vision and pattern recognition). You will work alongside the Program Chairs to make BMVC 2024 a success, and help shape the future of computer vision research.</p>
-
-<p class="text-justify">Please note we expect all ACs to take a proactive role in ensuring papers receive high-quality reviews and meta-reviews, and therefore you must commit to being available and responsive during the relevant parts of the review period. <strong>You must ensure availability for the periods of the 10th May to 1st of July</strong> and take particular note of the following deadlines:</p>
-
-* **14th of May:** desk rejection decisions.
-* **4th of June:** flagging missing/low-quality reviews to PCs.
-* **5th of June:** contact emergency reviewers (if needed).
-* **14th of June - 21st of June:** review consolidation and discussion period.
-* **1st of July:** submission of the meta-reviews for all papers.
-
-### Content
+## Contents
 * Desk rejection
 * Reviews evaluation
 * Discussion period
 * Making a decision
 
-<hr class="wp-block-separator" />
+---
 
-#### Desk rejections of papers (10th of May)
+## Introduction
 
-<p class="text-justify" dir="ltr">Papers for which one of the following is true should be flagged by ACs and desk rejected:</p>
+As an area chair, you will play a crucial role in helping us maintain the high reviewing standards of the conference. We expect you to have at least two years' experience as a postdoc and/or faculty, and to regularly publish in the lead computer vision venues (e.g. Google Scholar's top 20 venues for computer vision and pattern recognition). You will work alongside the Program Chairs to make BMVC 2024 a success, and help shape the future of computer vision research.
+
+Please note we expect all ACs to take a proactive role in ensuring papers receive high-quality reviews and meta-reviews, and therefore you must commit to being available and responsive during the relevant parts of the review period. **You must ensure availability for the periods of the 10th May to 1st of July** and take particular note of the following deadlines:
+
+* **10th - 15th of May:** desk rejection decisions.
+* **4th of June:** flagging missing/low-quality reviews to PCs.
+* **5th of June:** contact emergency reviewers (if needed).
+* **14th - 21st of June:** review consolidation and discussion period.
+* **1st of July:** submission of the meta-reviews for all papers.
+
+---
+
+## Desk rejections of papers (10th - 15th of May)
+
+Papers for which one of the following is true should be flagged by ACs and desk rejected:
 
 * **Is the paper already published in essentially similar form elsewhere?**
     <ol type="a">
@@ -38,9 +42,9 @@ index: 4
     </ol>
 * **LLMs: Does the paper contain manifestly (and demonstrably) fake references?**
 * **Is the paper not following the format or length?**
-* **Is the paper out of scope (outside of the Computer Vision/Robotics/AI field)**
+* **Is the paper out of scope (outside of the Computer Vision/AI field)**
 
-<p class="text-justify" dir="ltr">Additionally, <strong>double submission is prohibited</strong>, so if it comes to your knowledge or is pointed out by a reviewer that a paper has been submitted for consideration in another venue, the paper should be flagged for desk rejection to the PCs.</p>
+Additionally, **double submission is prohibited**, so if it comes to your knowledge or is pointed out by a reviewer that a paper has been submitted for consideration in another venue, the paper should be flagged for desk rejection to the PCs.
 
 #### Evaluation of received reviews (3rd of June then 10th of June)
 
