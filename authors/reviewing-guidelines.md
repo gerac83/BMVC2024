@@ -20,7 +20,7 @@ These reviewing guidelines are inspired by the best practice from CVPR 2024 - fo
 
 Thank you for volunteering your time to review for BMVC 2024! To maintain a high-quality technical program, we rely very much on the time and expertise of our reviewers. This document explains what is expected of all members of the Reviewing Committee for BMVC 2024.
 
-**<span style="color:red">BMVC will implement a scoring system this year, where Area Chairs will rate each review submitted.</span>** Reviewers that fall below a quality threshold will not be acknoweldged as being part of the Reviewing Committee for BMVC 2024. It is, therefore, important to familiarise yourself with these guidelines to ensure that you are providing a quality review that the research community would benefit from.
+**<span style="color:red">BMVC will implement a scoring system this year, where Area Chairs will rate each review submitted.</span>** Reviewers that fall below a quality threshold will not be acknowledged as being part of the Reviewing Committee for BMVC 2024. It is, therefore, important to familiarise yourself with these guidelines to ensure that you are providing a quality review that the research community would benefit from.
 
 To contact the Programme Chairs, please send emails to: <a href="mailto:programme-chairs@bmvc2024.org">programme-chairs@bmvc2024.org</a>
 
