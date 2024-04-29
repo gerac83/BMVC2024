@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Area Chair Guidelines
-permalink: /authors/area-chair-guidelines-new/
+permalink: /authors/area-chair-guidelines/
 index: 4
 ---
 
