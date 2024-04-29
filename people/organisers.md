@@ -178,7 +178,7 @@ index: 0
 <br>
 
 
-<h4>Website Chairs <a href="mailto:website-chair@bmvc2023.org" style="font-size:15px;" hidden>website-chair@bmvc2023.org</a></h4>
+<h4>Website and Proceedings Chairs <a href="mailto:website-chair@bmvc2023.org" style="font-size:15px;" hidden>website-chair@bmvc2023.org</a></h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 

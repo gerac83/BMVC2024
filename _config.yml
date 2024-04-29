@@ -107,11 +107,11 @@ exclude:
   - index_v0.md
   - calls/doctoral-consortium.md
   - authors/rebuttal-instructions.md
-  - authors/reviewing-guidelines-new.md
+  # - authors/reviewing-guidelines-new.md
   - authors/faq.md
   - authors/submit-your-paper-old.md
-  # - authors/reviewing-guidelines.md
-  - authors/area-chair-guidelines.md
+  - authors/reviewing-guidelines-old.md
+  # - authors/area-chair-guidelines.md
 #  - attending/
 
 #main_sponsors:
