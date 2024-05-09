@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_sparse
 title: Call for Workshops
 permalink: /calls/call-for-workshops/
 ---

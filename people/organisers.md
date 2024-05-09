@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: default_sparse
 title: Organisers
 permalink: /people/organisers/
 index: 0
 ---
 
-<!-- <h3>Organising Committee</h3>
-<br> -->
+<h3>Organising Committee</h3>
+<br>
 
 <h4>General Chairs</h4>
 <br>

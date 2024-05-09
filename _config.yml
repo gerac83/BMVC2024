@@ -105,7 +105,7 @@ exclude:
   - sponsorship-backup.md
   - authors/instructions-for-presenting-authors.md
   - index_v0.md
-  - calls/doctoral-consortium.md
+  # - calls/doctoral-consortium.md
   - authors/rebuttal-instructions.md
   # - authors/reviewing-guidelines-new.md
   - authors/faq.md

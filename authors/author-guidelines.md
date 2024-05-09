@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: default_sparse
 title: Author Guidelines
 permalink: /authors/author-guidelines/
 ---
 
-<center><h1> BMVC Author Guidelines</h1></center>
+<!-- <center><h1> BMVC Author Guidelines</h1></center> -->
 
 ## Contents
 * Introduction
