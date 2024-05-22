@@ -21,7 +21,7 @@ Submission Guidelines:
 - Submission to the Doctoral Consortium while also presenting a paper at the main conference is permitted.
 - **The submission deadline is Wednesday 31st July (23:59 GMT).**
 
-**Submission for the Doctoral Consortium should be sent to <doctoral-consortium@bmvc2024.org>.**
+**Submission for the Doctoral Consortium should be sent to <doctoral.consortium@bmvc2024.org>.**
 
 Selection Process: Submissions will be reviewed by a panel of experts in computer vision. Selection will be based on the quality and potential impact of the research, as well as the clarity and organisation of the abstract.
 
@@ -40,4 +40,4 @@ We look forward to receiving your submissions and to a stimulating and productiv
 
 Organisers: Richard Menzies (University of Glasgow), Changrui Chen (University of Warwick)
 
-Contact: <doctoral-consortium@bmvc2024.org>
+Contact: <doctoral.consortium@bmvc2024.org>
