@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: default_sparse
 title: Area Chair Guidelines
 permalink: /authors/area-chair-guidelines/
 index: 4
 ---
 
-<center><h1> BMVC Area Chair Guidelines</h1></center>
+<!-- <center><h1> BMVC Area Chair Guidelines</h1></center> -->
 
 ## Contents
 * Introduction

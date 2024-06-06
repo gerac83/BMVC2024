@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_sparse
 title: Reviewing Guidelines
 permalink: /authors/reviewing-guidelines/
 index: 3

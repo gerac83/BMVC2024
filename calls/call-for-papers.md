@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_sparse
 title: Call for Papers
 permalink: /calls/call-for-papers/
 ---

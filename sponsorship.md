@@ -82,7 +82,7 @@ permalink: /sponsors/
                 <td align="center">✔</td>
             </tr>
             <tr>
-                <td>Company logo on conference programmee</td>
+                <td>Company logo on conference programme</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
