@@ -119,15 +119,15 @@ You can find below templates that can help you to communicate your decision to t
 
 ##### 1. (Rejected Paper)
 
-This paper was reviewed by three experts in the field. The recommendations are _(write scores here - e.g. Reject, Reject and Strong Reject)_.  The reviewers raised many concerns regarding the paper, e.g. _[RECAP A FEW CONCERNS, SUCH AS NOVELTY, EXPERIMENTAL RESULTS, ETC]_. Considering the reviewers' concerns, we regret that the paper cannot be recommended for acceptance at this time.  The authors are encouraged to consider the reviewers' comments when revising the paper for submission elsewhere.
+This paper was reviewed by three experts in the field.  The reviewers raised many concerns regarding the paper, e.g. _[RECAP A FEW CONCERNS, SUCH AS NOVELTY, EXPERIMENTAL RESULTS, ETC]_. Considering the reviewers' concerns, we regret that the paper cannot be recommended for acceptance at this time.  The authors are encouraged to consider the reviewers' comments when revising the paper for submission elsewhere.
 
 ##### 2. (Rejected Paper *with mixed review*) - please acknowledge that the reviews are mixed.
 
-This paper was reviewed by three experts in the field. The paper received mixed reviews _[write scores here - e.g., Accept, Neutral, and Reject]_. The reviewers raised the following concerns _[RECAP CONCERNS]_. Based on the reviews, _[give a reason why you side with reviewers' recommending not to accept the paper - in this case, you are welcome to read the paper and add your opinion as a tiebreaker]_. While the paper has merit, the decision is not to recommend acceptance. The authors are encouraged to consider the reviewers' comments when revising the paper for submission elsewhere.
+This paper was reviewed by three experts in the field. The reviewers raised the following concerns _[RECAP CONCERNS]_. Based on the reviews, _[give a reason why you side with reviewers' recommending not to accept the paper - in this case, you are welcome to read the paper and add your opinion as a tiebreaker]_. While the paper has merit, the decision is not to recommend acceptance. The authors are encouraged to consider the reviewers' comments when revising the paper for submission elsewhere.
 
 ##### 3. (Accepted Paper *with mixed review*) - please acknowledge that the reviews are mixed.
 
-This paper was reviewed by three experts in the field. The paper received mixed reviews _[write scores here - e.g., Accept, Neutral, and Reject]_. The reviewers raised the following concerns [RECAP CONCERNS]. Based on the reviews, _[give a reason why you side with reviewers' recommending accepting the paper - in this case, you are welcome to read the paper and add your opinion as a tiebreaker]_. We congratulate the authors on the acceptance of their paper!
+This paper was reviewed by three experts in the field. The reviewers raised the following concerns [RECAP CONCERNS]. Based on the reviews, _[give a reason why you side with reviewers' recommending accepting the paper - in this case, you are welcome to read the paper and add your opinion as a tiebreaker]_. We congratulate the authors on the acceptance of their paper!
 
 ##### 4. (Accept)
 
