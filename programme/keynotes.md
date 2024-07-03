@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Keynotes
-permalink: /programme/keynotes_/
+permalink: /programme/keynotes/
 index: 5
 ---
 
