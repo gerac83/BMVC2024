@@ -98,7 +98,7 @@ exclude:
   - programme/programme.md
   - programme/schedule.md
   - programme/workshop_papers.md
-  - programme/workshops.md
+  # - programme/workshops.md
   - old_index.md
   - attending/guides.md
   - attending/code-of-conduct.md
