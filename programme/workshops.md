@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: BMVC 2024 Workshops
+title: Workshops
 permalink: /programme/workshops/
 index: 15
 ---
