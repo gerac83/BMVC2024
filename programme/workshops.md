@@ -136,7 +136,7 @@ index: 15
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1">Privacy, Fairness, Accountability and Transparency in Computer Vision</h4>
         <!-- <p class=" mb-1"><b>Date:</b> TBC</p> -->
-        <p class=" mb-1"><b>Website:</b> <a href="" target="_blank">TBC</a></p>
+        <p class=" mb-1"><b>Website:</b> <a href="https://sites.google.com/view/pfatcvbmvc24/home" target="_blank">https://sites.google.com/view/pfatcvbmvc24/home</a></p>
         <p class=" mb-1 text-justify"><b>Organisers:</b> Dr. Fani Deligianni, University of Glasgow; Dr. Idris Zakariyya, University of Glasgow; Dr. Ng Pai Chet, Singapore Institute of Technology; Prof. Mubarak Shah, Center for Research in Computer Vision, University of Central Florida.</p>
         <!-- <p class=" mb-1"><b>Contact:</b> fani.deligianni@glasgow.ac.uk</p> -->
         <p class=" mb-1"><b>Venue:</b> Scottish Exhibition Centre, Glasgow.</p>
