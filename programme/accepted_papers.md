@@ -36,7 +36,7 @@ This year, BMVC received 1020 submissions and accepted 264 papers. Each paper ha
     <table>
         <thead>
             <tr>
-                <th colspan="6">Paper IDs</th>
+                <th colspan="6">Paper IDs (as registered in OpenReview)</th>
             </tr>
         </thead>
         <tbody>
