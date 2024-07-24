@@ -1,5 +1,5 @@
 ---
-layout: default_miniconf
+layout: default_sparse
 title: Venue
 permalink: /attending/venue/
 index: 1
