@@ -12,7 +12,7 @@ title: Home
     <p><strong>The list of accepted papers is now avialable at: <a href="{{ site.baseurl }}{% link programme/accepted_papers.md %}">[link]</a></strong></p>
     <!-- <p><strong>BMVC will not have a rebuttal period this year!</strong> Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p> -->
     <p><strong>Follow us on Twitter</strong> (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>) for real-time updates about deadlines, the venue and the city! </p>
-    <!-- <h6>BMVC'24 will be held in Glasgow!</h6> -->
+    <p>BMVC'24 will be held in Glasgow at the <a href="https://www.sec.co.uk/">Scottish Event Campus</a>!</p>
 </div>
 
 <!-- ## Call for Area Chairs and Reviewers
