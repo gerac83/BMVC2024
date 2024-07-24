@@ -102,6 +102,9 @@ exclude:
   - old_index.md
   - attending/guides.md
   - attending/code-of-conduct.md
+  - attending/about-the-city.md
+  - attending/plan-your-visit.md
+  - attending/student-funding.md
   - sponsorship-backup.md
   - authors/instructions-for-presenting-authors.md
   - index_v0.md
