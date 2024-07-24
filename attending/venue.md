@@ -5,7 +5,7 @@ permalink: /attending/venue/
 index: 1
 ---
 
-The 35th BMVC will now be an **in-person** event. 
+The 35th BMVC will now be an **in-person** event
 
 The meeting will be held at Scottish Event Campus, including workshop sessions.
 <br>
