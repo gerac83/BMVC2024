@@ -5,12 +5,12 @@ permalink: /authors/submit-your-paper/
 index: 2
 ---
 
-## How to NOT get your paper rejected
+<!-- ## How to NOT get your paper rejected -->
 
-We invite authors to familiarise with the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submitting a paper to BMVC. **PCs will reject a paper if the paper and authors do not adhere to these.**
+<!-- We invite authors to familiarise with the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submitting a paper to BMVC. **PCs will reject a paper if the paper and authors do not adhere to these.** -->
 <!-- Below, you can find a summary of the main points of this policy. -->
 
----
+<!-- --- -->
 
 ## Abstract and Paper Submission
 
@@ -83,3 +83,14 @@ The authors should appropriately refer to the supplementary material in the pape
 Supplementary material is to be submitted by the [supplemental material deadline]({{site.baseurl}}{% link dates.md %}).
 
 <!-- <p style="text-align: center;"><a class="btn btn-primary" role="button" href="" disabled>Submit your Paper via OpenReview</a></p> -->
+
+---
+
+## Camera ready copy (for accepted papers)
+Camera-ready submissions for accepted papers can be completed via Openreview (https://openreview.net/group?id=bmva.org/BMVC/2024/Conference). All papers will require one author to pay a registration fee. This will cover the costs of hosting the conference and proceedings. Papers for which no registered authors will be removed from the conference. For each accepted paper, authors should upload the following:
+
+* Final camera-ready paper (in PDF format)
+* Optional supplementary materials (ZIP file up to 100MB)
+* The name of your submission file must be of the form XXXX.pdf, where XXXX is the paper ID (zero-padded if necessary). For example, if your paper ID is 24, the filename must be 0024.pdf. If you upload supplementary materials, please name them as XXXX_supp.zip, where XXXX is the four-digit paper ID (zero-padded if necessary).
+
+**The paper length** of the final version must not exceed **10 pages**, *not counting* the acknowledgment and bibliography. **Only** the acknowledgment and bibliography should be *excluded* from the page count: **all** appendices must be counted within the *10-page* limit. or supplied as supplementary material. Papers must not have altered margins and formatting from those laid down by this style guide. The bibliography should begin immediately after the paper text. It may be of any length, within reason. It must *not* include annotations, figures, or any other paraphernalia intended to subvert the paper length requirement.
