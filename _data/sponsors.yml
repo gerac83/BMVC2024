@@ -41,16 +41,28 @@ sponsors:
   #   url: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
   #   url-external: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
 
-  # - name: Glasgow
-  #   type: Special
-  #   logo: Glasgow.png
-  #   url: "https://www.gla.ac.uk/schools/computing"
-  #   url-external: "https://www.gla.ac.uk/schools/computing/"
+  - name: Glasgow_City_Council
+    type: Supporter
+    logo: Glasgow_City_Council.png
+    url: "https://www.glasgow.gov.uk/"
+    url-external: "https://www.glasgow.gov.uk/"
 
-  # - name: NSC
-  #   type: Special
-  #   logo: NSC.png
-  #   url: "https://www.nationalsubseacentre.com/"
-  #   url-external: "https://www.nationalsubseacentre.com/"
+  - name: Paperlib
+    type: Supporter
+    logo: Paperlib.png
+    url: "https://www.paperlib.app/en/"
+    url-external: "https://www.paperlib.app/en/"
+
+  - name: Visit_Glasgow
+    type: Supporter
+    logo: PEOPLE-MAKE-GLASGOW-brand-image.jpg
+    url: "https://www.visitglasgow.org.uk/"
+    url-external: "https://www.visitglasgow.org.uk/"
+
+  - name: University_of_Glasgow
+    type: Supporter
+    logo: Univeristy_of_Glasgow.png
+    url: "https://www.gla.ac.uk/schools/computing"
+    url-external: "https://www.gla.ac.uk/schools/computing/"
 
 

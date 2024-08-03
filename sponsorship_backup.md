@@ -29,6 +29,7 @@ permalink: /sponsors/
 }
 </style>
 
+{% comment %}
 <p class="mb-3" align="center"><strong>We are very grateful to our sponsors for supporting the conference this year:</strong></p>
 
 {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" -%}
@@ -56,6 +57,8 @@ permalink: /sponsors/
         <h2 style="text-align: center;">Sponsoring BMVC</h2>
     </div>
 </div>
+
+{% endcomment %}
 
 <div class='text-justify'>
     <!-- <p>If you are interested in sponsoring BMVC 2024, please email <a href="mailto:sponsors@bmvc2024.org">sponsors@bmvc2024.org</a> 
