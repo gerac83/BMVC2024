@@ -10,10 +10,10 @@ permalink: /sponsors/
 }
 
 .image-block {
-  padding: 35px 0;
+  padding: 30px 0;
   background: #fff;
   width: 300px;
-  height: 120px;
+  /* height: 180px; */
   cursor: pointer;
   transition: all .3s ease;
   border: 1px solid transparent;
@@ -21,7 +21,7 @@ permalink: /sponsors/
 }
 
 .image-block img {
-  height: 50px;
+  height: 80px;
 }
 
 .image-block:hover {

@@ -47,6 +47,12 @@ sponsors:
     url: "https://www.glasgow.gov.uk/"
     url-external: "https://www.glasgow.gov.uk/"
 
+  - name: Glasgow_City_Council
+    type: Special
+    logo: GlasgowCrest.png
+    url: "https://www.glasgow.gov.uk/"
+    url-external: "https://www.glasgow.gov.uk/"
+
   - name: Paperlib
     type: Special
     logo: Paperlib.png
@@ -61,7 +67,7 @@ sponsors:
 
   - name: University_of_Glasgow
     type: Special
-    logo: Univeristy_of_Glasgow.png
+    logo: SoCS.png
     url: "https://www.gla.ac.uk/schools/computing"
     url-external: "https://www.gla.ac.uk/schools/computing/"
 
