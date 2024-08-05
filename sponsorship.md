@@ -35,12 +35,9 @@ permalink: /sponsors/
 
 <section class="sponsors section" align="center">
 {% for group in grouped_sponsors %}
-    <!-- <h3 align="left">{{-group.name-}}&nbsp;Sponsor</h3> -->
+    <h3 align="left">{{-group.name-}}&nbsp;Sponsors:</h3>
     {% for item in group.items %}
         <li class="list-inline-item">
-            <div class="col-12 mt-3 mb-3">
-                <h3>{{-group.name-}}</h3>
-            </div>
             <div class="image-block text-center">
                 <a href="{{item.url}}" target="_blank" >
                     <img src="{{ site.baseurl }}/imgs_2024/sponsors_logo/{{ item.logo }}" alt="sponsors-logo" class="img-fluid" style="max-height: 300px;">
@@ -60,7 +57,7 @@ permalink: /sponsors/
 <div class='text-justify'>
     <!-- <p>If you are interested in sponsoring BMVC 2024, please email <a href="mailto:sponsors@bmvc2024.org">sponsors@bmvc2024.org</a> 
       for more information. The deadline for expressing interest in sponsoring BMVC is <b>30th Septemeber 2024</b>. Thank you so much! -->
-    <p>Sponsoring BMVC2024 is the perfect opportunity to showcase your company's excellent work throughout the conference. As a sponsor, you will be provided with an exhibition stand to promote your business and work, and numerous opportunities will be available to engage with academic and industrial researchers in the field to explore potential future collaborations. We are open to customising the sponsorship package to best suit your needs, e.g. an industrial paper track to demonstrate select BMVC papers and an industrial night to socialise and forge new partnerships.</p>
+    <p>SSSSSSSSSSSponsoring BMVC2024 is the perfect opportunity to showcase your company's excellent work throughout the conference. As a sponsor, you will be provided with an exhibition stand to promote your business and work, and numerous opportunities will be available to engage with academic and industrial researchers in the field to explore potential future collaborations. We are open to customising the sponsorship package to best suit your needs, e.g. an industrial paper track to demonstrate select BMVC papers and an industrial night to socialise and forge new partnerships.</p>
     <p>If you are interested in sponsoring BMVC 2024, please email <a href="mailto:{{ site.email }}"> {{ site.email }}</a>. The deadline for expressing interest in sponsoring BMVC is <b>30th September 2024</b>.</p>
 </div>
 

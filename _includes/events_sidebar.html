@@ -1,4 +1,3 @@
-{% comment %}
 
 <div class="card mt-2">
   <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
@@ -8,9 +7,9 @@
     <div class="row mt-1 mb-1 justify-content-around align-items-center">
       <div class="col-12">
         {% if group.name == 'Gold' or group.name == 'Special' %} 
-        <b>{{-group.name-}}&nbsp;Sponsors</b>
+        <b>{{-group.name-}}&nbsp;Sponsors:</b>
         {% else %}
-        <b>{{-group.name-}}&nbsp;Sponsor</b>
+        <b>{{-group.name-}}&nbsp;Sponsor:</b>
         {% endif %}
       </div>
     {% for item in group.items %}
@@ -25,7 +24,6 @@
 </div>
 <br>
 
-{% endcomment %}
 
 <div class="card">
   <h5 class="card-header" style="text-align: center;">News</h5>

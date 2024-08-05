@@ -106,7 +106,7 @@ exclude:
   - attending/plan-your-visit.md
   - attending/student-funding.md
   - attending/registration_old.md
-  #- sponsorship_backup.md
+  - sponsorship_backup.md
   - authors/instructions-for-presenting-authors.md
   - index_v0.md
   # - calls/doctoral-consortium.md
