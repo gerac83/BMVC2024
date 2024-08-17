@@ -1,5 +1,5 @@
 ---
-layout: default_miniconf
+layout: default_sparse
 title: Plan Your Visit
 permalink: /attending/plan-your-visit/
 index: 1
