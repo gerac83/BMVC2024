@@ -42,31 +42,31 @@ sponsors:
   #   url-external: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
 
   - name: Glasgow_City_Council
-    type: Special
+    type: Supported by
     logo: Glasgow_City_Council.png
     url: "https://www.glasgow.gov.uk/"
     url-external: "https://www.glasgow.gov.uk/"
 
   - name: Glasgow_City_Council
-    type: Special
+    type: Supported by
     logo: GlasgowCrest.png
     url: "https://www.glasgow.gov.uk/article/5956/Lord-Provost"
     url-external: "https://www.glasgow.gov.uk/article/5956/Lord-Provost"
 
   - name: Paperlib
-    type: Special
+    type: Supported by
     logo: Paperlib.png
     url: "https://www.paperlib.app/en/"
     url-external: "https://www.paperlib.app/en/"
 
   - name: Visit_Glasgow
-    type: Special
+    type: Supported by
     logo: PEOPLE-MAKE-GLASGOW-brand-image.jpg
     url: "https://www.visitglasgow.org.uk/"
     url-external: "https://www.visitglasgow.org.uk/"
 
   - name: University_of_Glasgow
-    type: Special
+    type: Supported by
     logo: SoCS.png
     url: "https://www.gla.ac.uk/schools/computing"
     url-external: "https://www.gla.ac.uk/schools/computing/"
