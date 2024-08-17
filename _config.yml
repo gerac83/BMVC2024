@@ -101,9 +101,9 @@ exclude:
   # - programme/workshops.md
   - old_index.md
   - attending/guides.md
-  - attending/code-of-conduct.md
+  # - attending/code-of-conduct.md
   - attending/about-the-city.md
-  - attending/plan-your-visit.md
+  # - attending/plan-your-visit.md
   - attending/student-funding.md
   - attending/registration_old.md
   - sponsorship_backup.md

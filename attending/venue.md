@@ -7,8 +7,10 @@ index: 1
 
 The 35th BMVC will now be an **in-person** event.
 
-The meeting will be held at Scottish Event Campus, including workshop sessions.
-<br>
+The meeting will be held at Scottish Event Campus, including workshop sessions. For information on how to get to the Scottish Exhibition Centre, please follow this link:
+
+**<https://www.sec.co.uk/visitor-information/how-to-get-here>**
+
 
 
 <br>
