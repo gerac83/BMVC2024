@@ -1,15 +1,9 @@
 sponsors:
-  # - name: Meta
-  #   type: Platinum
-  #   logo: meta.png
-  #   url: "https://www.meta.com/"
-  #   url-external: "https://www.meta.com/"
-
-  # - name: IET
-  #   type: Gold
-  #   logo: IET_3.jpg
-  #   url: "https://www.theiet.org/"
-  #   url-external: "https://www.theiet.org/"
+  - name: Technovative Solutions
+    type: Platinum
+    logo: technovative_solutions.png
+    url: "https://technovativesolutions.co.uk/"
+    url-external: "https://technovativesolutions.co.uk/"
 
   # - name: Prime Video
   #   type: Gold

@@ -29,13 +29,17 @@ permalink: /sponsors/
 }
 </style>
 
-<p class="mb-3" align="center"><strong>We are very grateful to our sponsors for supporting the conference this year:</strong></p>
+<p class="mb-3" align="center"><strong>We are very grateful to our sponsors for supporting the conference this year.</strong></p>
 
 {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" -%}
 
 <section class="sponsors section" align="center">
 {% for group in grouped_sponsors %}
-    <h3 align="left">{{-group.name-}}&nbsp;Sponsors:</h3>
+    {% if group.name == 'Gold' or group.name == 'Platinum' %} 
+        <h3 align="left">{{-group.name-}}&nbsp;Sponsors:</h3>
+        {% else %}
+        <h3>{{-group.name-}}&nbsp;:</h3>
+    {% endif %}
     {% for item in group.items %}
         <li class="list-inline-item">
             <div class="image-block text-center">

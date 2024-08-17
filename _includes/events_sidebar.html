@@ -6,10 +6,10 @@
   {% for group in grouped_sponsors %}
     <div class="row mt-1 mb-1 justify-content-around align-items-center">
       <div class="col-12">
-        {% if group.name == 'Gold' or group.name == 'Special' %} 
+        {% if group.name == 'Gold' or group.name == 'Platinum' %} 
         <b>{{-group.name-}}&nbsp;Sponsors:</b>
         {% else %}
-        <b>{{-group.name-}}&nbsp;Sponsor:</b>
+        <b>{{-group.name-}}&nbsp;:</b>
         {% endif %}
       </div>
     {% for item in group.items %}
