@@ -24,6 +24,8 @@ Proposals should include the following information:
 - Description of how this proposal relates to previous workshops at BMVC/CVPR/ICCV/ECCV (be as specific as possible).
 - Any special space or equipment requests.
 
+BMVC will cover the costs for rooms, coffee breaks, and A/V equipment. However, any other activities with budget implications will be the responsibility of the workshop organizers.
+
 For any questions, please get in touch with the workshop chairs via [workshop-chairs@bmvc2024.org](mailto:workshop-chairs@bmvc2024.org).
 
 Google Form link: [https://forms.gle/V7nxEkMwWHtrD7286](https://forms.gle/V7nxEkMwWHtrD7286)
