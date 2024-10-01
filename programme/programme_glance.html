@@ -1,0 +1,260 @@
+---
+layout: default_sparse
+title: Programme
+permalink: /programme/programme/
+index: 20
+---
+
+<style>
+  .session {
+    padding-left: 10px;
+    margin: 5px;
+  }
+
+  .break {
+    border-left: 8px solid #dd6d1b;
+  }
+
+  .keynote {
+    border-left: 8px solid #d36eaa;
+
+  }
+  .information {
+    color: red;
+  }
+
+  .poster {
+    border-left: 8px solid #77b6e9;
+  }
+
+  .oral {
+    border-left: 8px solid #baeb5c;
+  }
+  .workshop {
+    border-left: 8px solid #3febcd;
+  }
+  .ws_poster {
+    border-left: 8px solid #3febcd;
+
+  }
+  .industrial {
+    border-left: 8px solid #dee2e6;
+  }
+  .ceremony {
+    border-left: 8px solid yellow;
+  }
+  .grid-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+
+  }
+  @media screen {
+    .header {     
+      padding: 15px 0;
+    }
+    .start-time {     
+      padding: 5px 0;
+    }
+  }
+
+  @media screen and (max-width: 992px){
+    body .header {     
+      padding: 10px 0;
+      font-size: 15px;
+    }
+    .start-time {     
+      padding: 0px 0;
+    }
+
+  }
+  @media screen and (max-width: 768px) {
+    .header {     
+      padding: 5px 0;
+    }
+    .start-time {     
+      font-size: 15px;
+      padding: 5px 0;
+    }
+    body .grid-container {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .programme-controls {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    body .filter-container {
+      position: static;
+      margin-bottom: 15px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+
+    }
+
+    .buttons-container {
+      width: 100%;
+    }
+
+    .buttons {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+  }
+  @media screen and (max-width: 576px) {
+    .header {     
+        padding: 5px 0;
+      }
+    body .grid-container {
+        display: block;
+      }
+  }
+  .header {
+    background-color: #003865;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+
+  }
+  .start-time {
+    background-color: #dee2e6;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .body-container {
+    padding: 10px;
+  }
+  .loc {
+    text-align: right;
+    color: #6c757d;
+  }
+
+  #session-filter {
+    text-align: left;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    cursor: pointer;
+  }
+
+  #session-filter:hover {
+    background-color: #e8e8e8;
+  }
+
+  .programme-controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    position: relative;
+
+  }
+
+  .filter-container {
+    position: absolute;
+    z-index: 1;
+  }
+
+  .buttons-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .btn:hover {
+      background-color: #e0e0e0;
+  }
+  .btn-primary:hover {
+      background-color: #0056b3;
+  }
+
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const sessionFilter = document.getElementById('session-filter');
+    const sessions = document.querySelectorAll('.session');
+    const time = document.querySelectorAll('.start-time');
+
+    sessionFilter.addEventListener('change', function () {
+      const filter = this.value;
+
+      sessions.forEach(session => {
+        if (filter === 'all' || session.getAttribute('data-type') === filter) {
+          session.style.display = '';
+        } else {
+          session.style.display = 'none';
+        }
+      });
+      time.forEach(session => {
+        if (filter === 'all' || session.getAttribute('data-type') === filter) {
+          session.style.display = '';
+        } else {
+          session.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
+
+<div class="programme-controls">
+  <div class="filter-container">
+    <select id="session-filter">
+      <option value="all">All Sessions</option>
+      <option value="workshop">Workshops</option>
+      <option value="keynote">Keynotes</option>
+      <option value="poster">Posters</option>
+      <option value="oral">Oral Sessions</option>
+      <!-- Add more options for other session types as needed -->
+    </select>
+  </div>
+  <div class="buttons-container">
+    <div class="buttons">
+      <a class="btn btn-primary" href="/programme/programme">Schedule</a>
+      <a class="btn" href="/programme/monday">Mon</a>
+      <a class="btn" href="/programme/tuesday">Tue</a>
+      <a class="btn" href="/programme/wednesday">Wed</a>
+      <a class="btn" href="/programme/thursday">Thu</a>
+    </div>
+  </div>
+</div>
+
+<div class="grid-container">
+  {% for day in site.data.schedule %}
+    {% assign day_name = day[0] %}
+    {% assign sessions = day[1] %}
+    <div class="container">
+      <div class="header">
+        {{ day_name }}
+      </div>
+      <div class="body-container">
+        {% for session in sessions %}
+          {% capture start %}{{ session.start-time | date: "%H:%M" }}{% endcapture %}
+          {% capture end %}{{ session.end-time | date: "%H:%M" }}{% endcapture %}
+          <div class="start-time" data-type="{{session.session-type}}">
+            {% if session.session-type == "workshop" %}
+              {{ session.start-time | date: "%H:%M" }} - {{ session.end-time | date: "%H:%M" }}
+              {% else %}
+              {{ start }}
+            {% endif %}
+          </div>
+          <div class="session {{session.session-type}}" data-type="{{session.session-type}}" >
+                <a href="{{site.baseurl}}{{session.local-url}}">{{- session.session -}}</a>
+              <div class="loc">
+                {{session.data}}
+              </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

@@ -2,7 +2,7 @@
 layout: default_sparse
 title: Tuesday Program
 permalink: /programme/tuesday/
-index: 5
+paper: true # Hack to hide it in the header
 ---
 <style>
     table {
@@ -22,7 +22,26 @@ index: 5
         padding: 8px;
         text-align: left;
     }
+    .centered {
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    }
+    .btn:hover {
+        background-color: #e0e0e0;
+    }
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
 </style>
+<div class="centered">
+  <a class="btn" href="/programme/programme">Schedule</a>
+  <a class="btn" href="/programme/monday">Mon</a>
+  <a class="btn btn-primary" href="/programme/tuesday">Tue</a>
+  <a class="btn" href="/programme/wednesday">Wed</a>
+  <a class="btn" href="/programme/thursday">Thu</a>
+</div>
 
 <table>
     <tr>
@@ -219,7 +238,6 @@ index: 5
         <th>12:30</th>
         <td>913</td>
         <td>Examining the Threat Landscape: Foundation Models and Model Theft</td>
-td>
     </tr>
     <tr>
         <th>12:45</th>
