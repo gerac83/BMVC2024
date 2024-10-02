@@ -49,6 +49,11 @@ monday:
     end-time: "18:00"
     session-type: "oral"
     data: "Room: TBC"
+  - session: End of the day
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "end"
+    data: "Room: TBC"
   - session: Welcoming Reception
     start-time: "19:00"
     end-time: "20:30"
@@ -106,6 +111,10 @@ tuesday:
     end-time: "17:30"
     session-type: "poster"
     data: "Room: TBC"
+- session: End of the day
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "end"
 
 wednesday:
   - session: Registration
@@ -167,7 +176,10 @@ wednesday:
     start-time: "15:30"
     end-time: "17:00"
     session-type: "poster"
-    data: "Room: TBC"
+  - session: End of the day
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "end"
   - session: Gala Dinner
     start-time: "19:00"
     end-time: "22:00"
@@ -235,3 +247,7 @@ thursday:
     end-time: "17:30"
     session-type: "ceremony"
     data: "Room: TBC"
+  - session: End of the day
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "end"
