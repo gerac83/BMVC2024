@@ -26,7 +26,9 @@ index: 20
   .poster {
     border-left: 8px solid #77b6e9;
   }
-
+  .meeting {
+    border-left: 8px solid #f3606c;
+  }
   .oral {
     border-left: 8px solid #baeb5c;
   }
@@ -42,6 +44,9 @@ index: 20
   }
   .ceremony {
     border-left: 8px solid yellow;
+  }
+  .break {
+    border-left: 8px solid rgb(248, 236, 128);
   }
   .grid-container {
     display: grid;
@@ -189,14 +194,14 @@ index: 20
       const filter = this.value;
 
       sessions.forEach(session => {
-        if (filter === 'all' || session.getAttribute('data-type') === filter) {
+        if (filter === 'all' || session.getAttribute('data-type').includes(filter)) {
           session.style.display = '';
         } else {
           session.style.display = 'none';
         }
       });
       time.forEach(session => {
-        if (filter === 'all' || session.getAttribute('data-type') === filter) {
+        if (filter === 'all' || session.getAttribute('data-type').includes(filter)) {
           session.style.display = '';
         } else {
           session.style.display = 'none';
@@ -210,10 +215,11 @@ index: 20
   <div class="filter-container">
     <select id="session-filter">
       <option value="all">All Sessions</option>
-      <option value="workshop">Workshops</option>
       <option value="keynote">Keynotes</option>
+      <option value="workshop">Workshops</option>
       <option value="poster">Posters</option>
       <option value="oral">Oral Sessions</option>
+      <option value="event">BMVC Sessions</option>
       <!-- Add more options for other session types as needed -->
     </select>
   </div>
@@ -243,7 +249,7 @@ index: 20
           <div class="start-time" data-type="{{session.session-type}}">
             {% if session.session-type == "workshop" %}
               {{ session.start-time | date: "%H:%M" }} - {{ session.end-time | date: "%H:%M" }}
-              {% else %}
+            {% else %}
               {{ start }}
             {% endif %}
           </div>
