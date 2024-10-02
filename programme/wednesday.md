@@ -9,14 +9,6 @@ paper: true # Hack to hide it in the header
         width: 100%;
         border-collapse: collapse;
     }
-    th {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: center;
-        color: white;
-        background: #003865;
-
-    }
     td {
         border: 1px solid black;
         padding: 8px;
@@ -34,6 +26,20 @@ paper: true # Hack to hide it in the header
     .btn-primary:hover {
         background-color: #0056b3;
     }
+    .poster {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        background: #77b6e9;
+    }
+
+    .oral {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        background: #baeb5c;
+    }
+
 </style>
 <div class="centered">
   <a class="btn" href="/programme/programme">Schedule</a>
@@ -45,8 +51,8 @@ paper: true # Hack to hide it in the header
 
 <table>
     <tr>
-        <th rowspan="44">Poster 5<br>Chair: Tanaya</th>
-        <th rowspan="44">10:00 - 11:45</th>
+        <th rowspan="44" class="poster">Poster 5<br>Chair: TBC</th>
+        <th rowspan="44" class="poster">10:00 - 11:45</th>
         <td>28</td>
         <td>SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters</td>
     </tr>
@@ -223,60 +229,60 @@ paper: true # Hack to hide it in the header
         <td>Revisiting Image Captioning Training Paradigm via Direct CLIP-based Optimization</td>
     </tr>
     <tr>
-        <th rowspan="5">Oral 4<br>Chair: Tanaya</th>
-        <th>11:45</th>
+        <th rowspan="5" class="oral">Oral 4<br>Chair: TBC</th>
+        <th class="oral">11:45</th>
         <td>103</td>
         <td>Prompting Diffusion Representations for Cross-Domain Semantic Segmentation</td>
     </tr>
     <tr>
-        <th>12:00</th>
+        <th class="oral">12:00</th>
         <td>200</td>
         <td>Towards Generative Class Prompt Learning for Fine-grained Visual Recognition</td>
     </tr>
     <tr>
-        <th>12:15</th>
+        <th class="oral">12:15</th>
         <td>406</td>
         <td>When Text and Images Don&#39;t Mix: Bias-Correcting Language-Image Similarity Scores for Anomaly Detection</td>
     </tr>
     <tr>
-        <th>12:30</th>
+        <th class="oral">12:30</th>
         <td>615</td>
         <td>Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation</td>
     </tr>
     <tr>
-        <th>12:45</th>
+        <th class="oral">12:45</th>
         <td>754</td>
         <td>Revisiting Image Captioning Training Paradigm via Direct CLIP-based Optimization</td>
     </tr>
     <tr>
-        <th rowspan="5">Oral 5<br>Chair: Jungong</th>
-        <th>14:00</th>
+        <th rowspan="5" class="oral">Oral 5<br>Chair: TBC</th>
+        <th class="oral">14:00</th>
         <td>14</td>
         <td>Efficiency-preserving Scene-adaptive Object Detection</td>
     </tr>
     <tr>
-        <th>14:15</th>
+        <th class="oral">14:15</th>
         <td>114</td>
         <td>Key-point Guided Deformable Image Manipulation Using Diffusion Model</td>
     </tr>
     <tr>
-        <th>14:30</th>
+        <th class="oral">14:30</th>
         <td>416</td>
         <td>Taming the Tail: Leveraging Asymmetric Loss and Padé Approximation to Overcome Long-Tailed Class Imbalance</td>
     </tr>
     <tr>
-        <th>14:45</th>
+        <th class="oral">14:45</th>
         <td>517</td>
         <td>Interpretable Long-term Action Quality Assessment</td>
     </tr>
     <tr>
-        <th>15:00</th>
+        <th class="oral">15:00</th>
         <td>545</td>
         <td>Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection</td>
     </tr>
     <tr>
-        <th rowspan="44">Poster 6<br>Chair: Jungong</th>
-        <th rowspan="44">15:15 - 17:00</th>
+        <th rowspan="44" class="poster">Poster 6<br>Chair: TBC</th>
+        <th rowspan="44" class="poster">15:15 - 17:00</th>
         <td>14</td>
         <td>Efficiency-preserving Scene-adaptive Object Detection</td>
     </tr>

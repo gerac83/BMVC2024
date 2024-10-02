@@ -9,13 +9,13 @@ paper: true # Hack to hide it in the header
         width: 100%;
         border-collapse: collapse;
     }
-    th {
+    /* th {
         border: 1px solid black;
         padding: 8px;
         text-align: center;
         color: white;
         background: #003865;
-    }
+    } */
     td {
         border: 1px solid black;
         padding: 8px;
@@ -33,6 +33,20 @@ paper: true # Hack to hide it in the header
     .btn-primary:hover {
         background-color: #0056b3;
     }
+    .poster {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        background: #77b6e9;
+    }
+
+    .oral {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        background: #baeb5c;
+    }
+
 </style>
 <div class="centered">
   <a class="btn" href="/programme/programme">Schedule</a>
@@ -44,8 +58,8 @@ paper: true # Hack to hide it in the header
 
 <table>
     <tr>
-        <th rowspan="43">Poster 1<br>Chair: Paul</th>
-        <th rowspan="43">10:00 - 11:45</th>
+        <th rowspan="43" class="poster">Poster 1<br>Chair: TBC</th>
+        <th rowspan="43" class="poster">10:00 - 11:45</th>
         <td>15</td>
         <td>Sequential Amodal Segmentation via Cumulative Occlusion Learning</td>
     </tr>
@@ -218,34 +232,34 @@ paper: true # Hack to hide it in the header
         <td>Horospherical Learning with Smart Prototypes</td>
     </tr>
     <tr>
-        <th rowspan="5">Oral 1<br>Chair: Paul</th>
-        <th>11:45</th>
+        <th rowspan="5" class="oral">Oral 1<br>Chair: TBC</th>
+        <th class="oral">11:45</th>
         <td>12</td>
         <td>CLIP Adaptation by Intra-Modal Overlap Reduction</td>
     </tr>
     <tr>
-        <th>12:00</th>
+        <th class="oral">12:00</th>
         <td>77</td>
         <td>PT43D: A Probabilistic Transformer for Generating 3D Shapes from Single Highly-Ambiguous RGB Images</td>
     </tr>
     <tr>
-        <th>12:15</th>
+        <th class="oral">12:15</th>
         <td>304</td>
         <td>Interpretable Representation Learning from Videos using Nonlinear Priors</td>
     </tr>
     <tr>
-        <th>12:30</th>
+        <th class="oral">12:30</th>
         <td>557</td>
         <td>Hybrid-CSR: Coupling Explicit and Implicit Reconstruction of Cortical Surface</td>
     </tr>
     <tr>
-        <th>12:45</th>
+        <th class="oral">12:45</th>
         <td>763</td>
         <td>Horospherical Learning with Smart Prototypes</td>
     </tr>
     <tr>
-        <th rowspan="43">Poster 2<br>Chair: Nico</th>
-        <th rowspan="43">14:00 - 15:45</th>
+        <th rowspan="43" class="poster">Poster 2<br>Chair: TBC</th>
+        <th rowspan="43" class="poster">14:00 - 15:45</th>
         <td>37</td>
         <td>DRAFT: Direct Radiance Fields Editing with Composable Operations</td>
     </tr>
@@ -418,28 +432,28 @@ paper: true # Hack to hide it in the header
         <td>Outlier detection by ensembling uncertainty with negative objectness</td>
     </tr>
     <tr>
-        <th rowspan="5">Oral 2<br>Chair: Nico</th>
-        <th>15:45</th>
+        <th rowspan="5" class="oral">Oral 2<br>Chair: TBC</th>
+        <th class="oral">15:45</th>
         <td>53</td>
         <td>NCA-Morph: Medical Image Registration with Neural Cellular Automata</td>
     </tr>
     <tr>
-        <th>16:00</th>
+        <th class="oral">16:00</th>
         <td>528</td>
         <td>SOFI: Multi-Scale Deformable Transformer for Camera Calibration with Enhanced Line Queries</td>
     </tr>
     <tr>
-        <th>16:15</th>
+        <th class="oral">16:15</th>
         <td>663</td>
         <td>Unsupervised Point Cloud Registration with Self-Distillation</td>
     </tr>
     <tr>
-        <th>16:30</th>
+        <th class="oral">16:30</th>
         <td>729</td>
         <td>Reconstructing Spheres by Fitting Planes</td>
     </tr>
     <tr>
-        <th>16:45</th>
+        <th class="oral">16:45</th>
         <td>779</td>
         <td>Outlier detection by ensembling uncertainty with negative objectness</td>
     </tr>

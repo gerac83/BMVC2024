@@ -9,14 +9,6 @@ paper: true # Hack to hide it in the header
         width: 100%;
         border-collapse: collapse;
     }
-    th {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: center;
-        color: white;
-        background: #003865;
-
-    }
     td {
         border: 1px solid black;
         padding: 8px;
@@ -34,6 +26,26 @@ paper: true # Hack to hide it in the header
     .btn-primary:hover {
         background-color: #0056b3;
     }
+    .poster {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        background: #77b6e9;
+    }
+
+    .oral {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        background: #baeb5c;
+    }
+    .industry {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        background: #dee2e6;
+    }
+
 </style>
 <div class="centered">
   <a class="btn" href="/programme/programme">Schedule</a>
@@ -45,8 +57,8 @@ paper: true # Hack to hide it in the header
 
 <table>
     <tr>
-        <th rowspan="43">Poster3<br>Chair: Carlos</th>
-        <th rowspan="43">10:00 - 11:45</th>
+        <th rowspan="43" class="poster">Poster3<br>Chair: TBC</th>
+        <th rowspan="43" class="poster">10:00 - 11:45</th>
         <td>9</td>
         <td>Federated Learning for Face Recognition via Intra-subject Self-supervised Learning</td>
     </tr>
@@ -219,60 +231,60 @@ paper: true # Hack to hide it in the header
         <td>CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation</td>
     </tr>
     <tr>
-        <th rowspan="5">Oral 3<br>Chair: Carlos</th>
-        <th>11:45</th>
+        <th rowspan="5" class="oral">Oral 3<br>Chair: TBC</th>
+        <th class="oral">11:45</th>
         <td>584</td>
         <td>ATLANTIS: A Framework for Automated Targeted Language-guided Augmentation Training for Robust Image Search</td>
     </tr>
     <tr>
-        <th>12:00</th>
+        <th class="oral">12:00</th>
         <td>670</td>
         <td>Leveraging Inductive Bias in ViT for Medical Image Diagnosis</td>
     </tr>
     <tr>
-        <th>12:15</th>
+        <th class="oral">12:15</th>
         <td>863</td>
         <td>CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning</td>
     </tr>
     <tr>
-        <th>12:30</th>
+        <th class="oral">12:30</th>
         <td>913</td>
         <td>Examining the Threat Landscape: Foundation Models and Model Theft</td>
     </tr>
     <tr>
-        <th>12:45</th>
+        <th class="oral">12:45</th>
         <td>967</td>
         <td>CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation</td>
     </tr>
     <tr>
-        <th rowspan="5">Industry<br>Chair: Edmond</th>
-        <th>14:30</th>
+        <th rowspan="5" class="industry">Industry<br>Chair: TBC</th>
+        <th class="industry">14:30</th>
         <td>113</td>
         <td>Text Removal In E-Commerce Images: A Comparison Of Inpainting Methods</td>
     </tr>
     <tr>
-        <th>14:45</th>
+        <th class="industry">14:45</th>
         <td>133</td>
         <td>MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM</td>
     </tr>
     <tr>
-        <th>15:00</th>
+        <th class="industry">15:00</th>
         <td>188</td>
         <td>A self-supervised and adversarial approach to hyperspectral demosaicking and RGB reconstruction in surgical imaging</td>
     </tr>
     <tr>
-        <th>15:15</th>
+        <th class="industry">15:15</th>
         <td>486</td>
         <td>DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference</td>
     </tr>
     <tr>
-        <th>15:30</th>
+        <th class="industry">15:30</th>
         <td>787</td>
         <td>MSA$^\text{2}$Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation</td>
     </tr>
     <tr>
-        <th rowspan="41">Poster 4<br>Chair: Gerardo</th>
-        <th rowspan="41">15:45 - 17:30</th>
+        <th rowspan="41" class="poster">Poster 4<br>Chair: TBC</th>
+        <th rowspan="41" class="poster">15:45 - 17:30</th>
         <td>328</td>
         <td>DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation and Adversarial Learning</td>
     </tr>
