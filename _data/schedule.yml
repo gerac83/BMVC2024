@@ -43,7 +43,6 @@ monday:
     start-time: "18:00"
     end-time: "18:00"
     session-type: "ceremony"
-    data: "Room: TBC"
   - session: Welcoming Reception
     start-time: "19:00"
     end-time: "20:30"
@@ -146,6 +145,7 @@ wednesday:
     start-time: "15:00"
     end-time: "17:00"
     session-type: "poster"
+    data: "Room: TBC"
   - session: End of the day
     start-time: "18:00"
     end-time: "18:00"
