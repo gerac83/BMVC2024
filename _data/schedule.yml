@@ -154,7 +154,7 @@ wednesday:
     start-time: "19:00"
     end-time: "22:00"
     session-type: "ceremony"
-    data: "Science Museum"
+    data: "Glasgow Science Centre, 50 Pacific Quay, Glasgow G51 1EA"
 
 thursday:
   - session: Registration
