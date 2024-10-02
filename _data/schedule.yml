@@ -47,7 +47,7 @@ monday:
     start-time: "19:00"
     end-time: "21:00"
     session-type: "ceremony"
-    data: "Room: TBC"
+    data: "Glasgow City Chambers, 82 George Square, Glasgow G2 1DU"
 
 tuesday:
   - session: Registration
@@ -154,7 +154,7 @@ wednesday:
     start-time: "19:00"
     end-time: "22:00"
     session-type: "ceremony"
-    data: "Room: TBC"
+    data: "Science Museum"
 
 thursday:
   - session: Registration
