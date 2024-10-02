@@ -91,7 +91,7 @@ tuesday:
     end-time: "17:30"
     session-type: "poster"
     data: "Room: TBC"
-- session: End of the day
+  - session: End of the day
     start-time: "18:00"
     end-time: "18:00"
     session-type: "ceremony"
