@@ -76,14 +76,14 @@ deadlines:
   #   date: 2024-11-01
   #   tags:
   #     - key: Authors (workshops) 
-  # - title: Poster Submissions
-  #   date: 2024-10-18
-  #   tags:
-  #     - key: Authors
-  # - title: Video Submissions
-  #   date: 2024-10-18
-  #   tags:
-  #     - key: Authors
+  - title: Poster Submissions
+    date: 2024-11-01
+    tags:
+      - key: Authors
+  - title: Video Submissions
+    date: 2024-11-01
+    tags:
+      - key: Authors
   - title: Conference Starts
     date: 2024-11-25
     tags:
