@@ -259,28 +259,28 @@ paper: true # Hack to hide it in the header
     <tr>
         <th rowspan="5" class="industry">Industry<br>Chair: TBC</th>
         <th class="industry">14:30</th>
-        <td>113</td>
-        <td>Text Removal In E-Commerce Images: A Comparison Of Inpainting Methods</td>
+        <td>--</td>
+        <td>TBC</td>
     </tr>
     <tr>
         <th class="industry">14:45</th>
-        <td>133</td>
-        <td>MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM</td>
+        <td>--</td>
+        <td>TBC</td>
     </tr>
     <tr>
         <th class="industry">15:00</th>
-        <td>188</td>
-        <td>A self-supervised and adversarial approach to hyperspectral demosaicking and RGB reconstruction in surgical imaging</td>
+        <td>--</td>
+        <td>TBC</td>
     </tr>
     <tr>
         <th class="industry">15:15</th>
-        <td>486</td>
-        <td>DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference</td>
+        <td>--</td>
+        <td>TBC</td>
     </tr>
     <tr>
         <th class="industry">15:30</th>
-        <td>787</td>
-        <td>MSA$^\text{2}$Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation</td>
+        <td>--</td>
+        <td>TBC</td>
     </tr>
     <tr>
         <th rowspan="41" class="poster">Poster 4<br>Chair: TBC</th>
