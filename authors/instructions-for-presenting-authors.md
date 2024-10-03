@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Presentating at BMVC
-permalink: /authors/instructions-for-presenting-authors/
+permalink: /authors/instructions-for-presenting-at-bmvc/
 ---
 
 These instructions provide details on how to prepare and upload video summaries and digital posters for BMVC 2024 papers for all accepted papers (both oral and poster presentation styles). These materials will be included in the conference proceedings.
