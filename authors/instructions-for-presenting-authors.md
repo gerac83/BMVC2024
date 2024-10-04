@@ -20,7 +20,7 @@ These instructions provide details on how to prepare and upload video summaries 
 
 All authors with accepted papers at BMVC 2024 will have the opportunity to present their work in one of the poster sessions (including oral presentations). For this, we ask that the e-poster image to be a non-transparent .pdf file that is at least 600 x 1000 px, 16:9 or A0 aspect ratio and no larger than 3 MB. Posters should be landscape. 
 
-For the conference, Please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. Details for the poster schedule can be found in the [conference schedule](https://bmvc2024.org/programme/programme/). We have no official template for your e-poster or video, but we would suggest you include our BMVC 2024 logo which can be downloaded from https://bmvc2024.org.
+For the conference, Please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. Details for the poster schedule can be found in the [conference schedule](https://bmvc2024.org/programme/programme/). We have no official template for your e-poster or video, but we would suggest you include our BMVC 2024 logo which can be downloaded from [https://bmvc2024.org](https://bmvc2024.org).
 
 
 **We will not have facilities to print posters, so participants are asked to bring their posters to the sign-in desk when registering on-site, and a volunteer team member will set up the poster.**
@@ -37,7 +37,7 @@ Please note that the video presentation will be publicly available in the confer
 
 ## Uploading your e-poster and videos
 
-Videos can be uploaded via OpenReview; similar to uploading your camera-ready paper. For this, we have created extra fields to accommodate posters and videos for each accepted submission. **The deadline for uploading videos and posters is 23:59 GMT on November 1st, 2024.**
+Videos can be uploaded via OpenReview; similar to uploading your camera-ready paper. For this, we have a new submission to accommodate posters and videos for each accepted submission which you can access via the menu on the top-right in the Openreview forum of your paper. **The deadline for uploading videos and posters is 23:59 GMT on November 1st, 2024.**
 
 ## Oral presentations
 
