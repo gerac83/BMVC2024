@@ -258,8 +258,8 @@ paper: true # Hack to hide it in the header
         <td>Horospherical Learning with Smart Prototypes</td>
     </tr>
     <tr>
-        <th rowspan="43" class="poster">Poster 2<br>Chair: TBC</th>
-        <th rowspan="43" class="poster">14:00 - 15:45</th>
+        <th rowspan="42" class="poster">Poster 2<br>Chair: TBC</th>
+        <th rowspan="42" class="poster">14:00 - 15:45</th>
         <td>37</td>
         <td>DRAFT: Direct Radiance Fields Editing with Composable Operations</td>
     </tr>
