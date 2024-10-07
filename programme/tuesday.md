@@ -57,8 +57,8 @@ paper: true # Hack to hide it in the header
 
 <table>
     <tr>
-        <th rowspan="43" class="poster">Poster3<br>Chair: TBC</th>
-        <th rowspan="43" class="poster">10:00 - 11:45</th>
+        <th rowspan="44" class="poster">Poster3<br>Chair: TBC</th>
+        <th rowspan="44" class="poster">10:00 - 11:45</th>
         <td>9</td>
         <td>Federated Learning for Face Recognition via Intra-subject Self-supervised Learning</td>
     </tr>
@@ -67,8 +67,8 @@ paper: true # Hack to hide it in the header
         <td>Spatial-Temporal NAS for Fast Surgical Segmentation</td>
     </tr>
     <tr>
-        <td>763</td>
-        <td>Horospherical Learning with Smart Prototypes</td>
+        <td>76</td>
+        <td>SagaGAN: Style Applied using Gram matrix Attribution based on StarGAN v2</td>
     </tr>
     <tr>
         <td>136</td>

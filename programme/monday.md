@@ -228,6 +228,10 @@ paper: true # Hack to hide it in the header
         <td>Hybrid-CSR: Coupling Explicit and Implicit Reconstruction of Cortical Surface</td>
     </tr>
     <tr>
+        <td>763</td>
+        <td>Horospherical Learning with Smart Prototypes</td>
+    </tr>
+    <tr>
         <th rowspan="5" class="oral">Oral 1<br>Chair: TBC</th>
         <th class="oral">11:45</th>
         <td>12</td>
@@ -274,10 +278,6 @@ paper: true # Hack to hide it in the header
     <tr>
         <td>60</td>
         <td>Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer</td>
-    </tr>
-    <tr>
-        <td>76</td>
-        <td>SagaGAN: Style Applied using Gram matrix Attribution based on StarGAN v2</td>
     </tr>
     <tr>
         <td>100</td>
