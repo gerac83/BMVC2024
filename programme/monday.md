@@ -228,10 +228,6 @@ paper: true # Hack to hide it in the header
         <td>Hybrid-CSR: Coupling Explicit and Implicit Reconstruction of Cortical Surface</td>
     </tr>
     <tr>
-        <td>763</td>
-        <td>Horospherical Learning with Smart Prototypes</td>
-    </tr>
-    <tr>
         <th rowspan="5" class="oral">Oral 1<br>Chair: TBC</th>
         <th class="oral">11:45</th>
         <td>12</td>

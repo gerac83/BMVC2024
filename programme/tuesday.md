@@ -67,6 +67,10 @@ paper: true # Hack to hide it in the header
         <td>Spatial-Temporal NAS for Fast Surgical Segmentation</td>
     </tr>
     <tr>
+        <td>763</td>
+        <td>Horospherical Learning with Smart Prototypes</td>
+    </tr>
+    <tr>
         <td>136</td>
         <td>PhysFlow: Skin tone transfer for remote heart rate estimation through conditional normalizing flows</td>
     </tr>
