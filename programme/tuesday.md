@@ -264,33 +264,53 @@ paper: true # Hack to hide it in the header
         <th rowspan="5" class="industry">Industry<br>Chair: TBC</th>
         <th class="industry">14:30</th>
         <td>--</td>
-        <td>TBC</td>
+        <td>133</td>
     </tr>
     <tr>
         <th class="industry">14:45</th>
         <td>--</td>
-        <td>TBC</td>
+        <td>787</td>
     </tr>
     <tr>
         <th class="industry">15:00</th>
         <td>--</td>
-        <td>TBC</td>
+        <td>188</td>
     </tr>
     <tr>
         <th class="industry">15:15</th>
         <td>--</td>
-        <td>TBC</td>
+        <td>113</td>
     </tr>
     <tr>
         <th class="industry">15:30</th>
         <td>--</td>
-        <td>TBC</td>
+        <td>328</td>
     </tr>
     <tr>
-        <th rowspan="41" class="poster">Poster 4<br>Chair: TBC</th>
-        <th rowspan="41" class="poster">15:45 - 17:30</th>
+        <th rowspan="46" class="poster">Poster 4<br>Chair: TBC</th>
+        <th rowspan="46" class="poster">15:45 - 17:30</th>
         <td>328</td>
         <td>DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation and Adversarial Learning</td>
+    </tr>
+    <tr>
+        <td>133</td>
+        <td>MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM</td>
+    </tr>
+    <tr>
+        <td>787</td>
+        <td>MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation</td>
+    </tr>
+    <tr>
+        <td>188</td>
+        <td>A self-supervised and adversarial approach to hyperspectral demosaicking and RGB reconstruction in surgical imaging</td>
+    </tr>
+    <tr>
+        <td>113</td>
+        <td>Text Removal In E-Commerce Images: A Comparison Of Inpainting Methods</td>
+    </tr>
+    <tr>
+        <td>486</td>
+        <td>DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference</td>
     </tr>
     <tr>
         <td>568</td>
