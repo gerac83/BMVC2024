@@ -131,7 +131,7 @@ This year, BMVC received 1020 submissions of which 264 papers were accepted. Eac
 <tr><td>256</td><td>IncreLM: Incremental 3D Line Mapping</td></tr>
 <tr><td>257</td><td>Motion Tracking with Rotated Bounding Boxes on Overhead Fisheye Imagery</td></tr>
 <tr><td>262</td><td>Toward Highly Efficient Semantic-Guided Machine Vision for Low-Light Object Detection</td></tr>
-<tr><td>263</td><td>Improving Object Detection via Local-global Image-translation</td></tr>
+<tr><td>263</td><td>Improving Object Detection via Local-global Contrastive Learning</td></tr>
 <tr><td>267</td><td>Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds</td></tr>
 <tr><td>287</td><td>A Super-pixel-based Approach to the Stable Interpretation of Neural Networks</td></tr>
 <tr><td>288</td><td>PawFACS: Leveraging Semi-Supervised Learning for Pet Facial Action Recognition</td></tr>
