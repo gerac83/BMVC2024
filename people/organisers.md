@@ -193,8 +193,8 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2024/Yaoyao_liu.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.cs.jhu.edu/~yyliu/">Yaoyao Liu</a></h4>
-        <p class="pb-2">Johns Hopkins University</p>
+        <h4 class="pt-2"><a href="https://yaoyaoliu.web.illinois.edu/">Yaoyao Liu</a></h4>
+        <p class="pb-2">University of Illinois Urbana-Champaign</p>
     </div>
 </div>
 
