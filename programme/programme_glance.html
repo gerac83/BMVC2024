@@ -247,11 +247,7 @@ index: 20
           {% capture start %}{{ session.start-time | date: "%H:%M" }}{% endcapture %}
           {% capture end %}{{ session.end-time | date: "%H:%M" }}{% endcapture %}
           <div class="start-time" data-type="{{session.session-type}}">
-            {% if session.session-type == "workshop" %}
               {{ session.start-time | date: "%H:%M" }} - {{ session.end-time | date: "%H:%M" }}
-            {% else %}
-              {{ start }}
-            {% endif %}
           </div>
           <div class="session {{session.session-type}}" data-type="{{session.session-type}}" >
                 {{- session.session -}}
