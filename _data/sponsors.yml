@@ -5,11 +5,11 @@ sponsors:
     url: "https://technovativesolutions.co.uk/"
     url-external: "https://technovativesolutions.co.uk/"
 
-  # - name: Prime Video
-  #   type: Gold
-  #   logo: prime.png
-  #   url: "https://www.primevideotech.com/"
-  #   url-external: "https://www.primevideotech.com/"
+  - name: VIVO TECH GmbH
+    type: Gold
+    logo: VIVO.png
+    url: "https://www.vivo.com/"
+    url-external: "https://www.vivo.com/"
 
   # - name: SICSA
   #   type: Gold
