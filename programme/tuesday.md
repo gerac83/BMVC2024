@@ -263,8 +263,8 @@ paper: true # Hack to hide it in the header
     <tr>
         <th rowspan="5" class="industry">Industry<br>Chair: TBC</th>
         <th class="industry">14:30</th>
-        <td>--</td>
-        <td>--</td>
+        <td>486</td>
+        <td>DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference</td>
     </tr>
     <tr>
         <th class="industry">14:45</th>
