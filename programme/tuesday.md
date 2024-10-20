@@ -263,8 +263,8 @@ paper: true # Hack to hide it in the header
     <tr>
         <th rowspan="5" class="industry">Industry<br>Chair: TBC</th>
         <th class="industry">14:30</th>
-        <td>133</td>
-        <td>MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM</td>
+        <td>--</td>
+        <td>--</td>
     </tr>
     <tr>
         <th class="industry">14:45</th>
