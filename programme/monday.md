@@ -249,8 +249,8 @@ paper: true # Hack to hide it in the header
     </tr>
     <tr>
         <th class="oral">12:30</th>
-        <td>557</td>
-        <td>Hybrid-CSR: Coupling Explicit and Implicit Reconstruction of Cortical Surface</td>
+        <td>--</td>
+        <td>--</td>
     </tr>
     <tr>
         <th class="oral">12:45</th>
