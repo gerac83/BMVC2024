@@ -62,6 +62,7 @@ index: 5
             </div>
         </div>
         <!-- 4th keynote speaker -->
+        <!--    commented out by Edmond
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
@@ -79,5 +80,6 @@ index: 5
                 </div>
             </div>
         </div>
+        //-->
     </div>
 </div>
