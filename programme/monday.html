@@ -17,10 +17,19 @@ paper: true # Hack to hide it in the header
         color: white;
         background: #003865;
     } */
-  td {
+  .tdoral {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
+  }
+  td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+  }
+  summary{
+    padding: 8px;
   }
   .centered {
     text-align: center;
@@ -60,7 +69,7 @@ paper: true # Hack to hide it in the header
   <tr>
     <th class="poster">Poster 1<br />Chair: TBC</th>
     <th class="poster">10:00 - 11:45</th>
-    <td colspan="2">
+    <td class="tdoral" colspan="2">
       <details>
         <summary>Papers Presented</summary>
         <div>
@@ -354,38 +363,38 @@ paper: true # Hack to hide it in the header
   <tr>
     <th rowspan="5" class="oral">Oral 1<br />Chair: TBC</th>
     <th class="oral">11:45</th>
-    <td>12</td>
-    <td>CLIP Adaptation by Intra-Modal Overlap Reduction</td>
+    <td class="tdoral">12</td>
+    <td class="tdoral">CLIP Adaptation by Intra-Modal Overlap Reduction</td>
   </tr>
   <tr>
     <th class="oral">12:00</th>
-    <td>77</td>
-    <td>
+    <td class="tdoral">77</td>
+    <td class="tdoral">
       PT43D: A Probabilistic Transformer for Generating 3D Shapes from Single
       Highly-Ambiguous RGB Images
     </td>
   </tr>
   <tr>
     <th class="oral">12:15</th>
-    <td>304</td>
-    <td>
+    <td class="tdoral">304</td>
+    <td class="tdoral">
       Interpretable Representation Learning from Videos using Nonlinear Priors
     </td>
   </tr>
   <tr>
     <th class="oral">12:30</th>
-    <td>--</td>
-    <td>--</td>
+    <td class="tdoral">--</td>
+    <td class="tdoral">--</td>
   </tr>
   <tr>
     <th class="oral">12:45</th>
-    <td>763</td>
-    <td>Horospherical Learning with Smart Prototypes</td>
+    <td class="tdoral">763</td>
+    <td class="tdoral">Horospherical Learning with Smart Prototypes</td>
   </tr>
   <tr>
     <th class="poster">Poster 2<br />Chair: TBC</th>
     <th class="poster">14:00 - 15:45</th>
-    <td colspan="2">
+    <td class="tdoral"  colspan="2">
       <details>
         <summary>Papers Presented</summary>
         <div>
@@ -663,31 +672,31 @@ paper: true # Hack to hide it in the header
   <tr>
     <th rowspan="5" class="oral">Oral 2<br />Chair: TBC</th>
     <th class="oral">15:45</th>
-    <td>53</td>
-    <td>NCA-Morph: Medical Image Registration with Neural Cellular Automata</td>
+    <td class="tdoral">53</td>
+    <td class="tdoral">NCA-Morph: Medical Image Registration with Neural Cellular Automata</td>
   </tr>
   <tr>
     <th class="oral">16:00</th>
-    <td>528</td>
-    <td>
+    <td class="tdoral">528</td>
+    <td class="tdoral">
       SOFI: Multi-Scale Deformable Transformer for Camera Calibration with
       Enhanced Line Queries
     </td>
   </tr>
   <tr>
     <th class="oral">16:15</th>
-    <td>663</td>
-    <td>Unsupervised Point Cloud Registration with Self-Distillation</td>
+    <td class="tdoral">663</td>
+    <td class="tdoral">Unsupervised Point Cloud Registration with Self-Distillation</td>
   </tr>
   <tr>
     <th class="oral">16:30</th>
-    <td>729</td>
-    <td>Reconstructing Spheres by Fitting Planes</td>
+    <td class="tdoral">729</td>
+    <td class="tdoral">Reconstructing Spheres by Fitting Planes</td>
   </tr>
   <tr>
     <th class="oral">16:45</th>
-    <td>779</td>
-    <td>
+    <td class="tdoral">779</td>
+    <td class="tdoral">
       Outlier detection by ensembling uncertainty with negative objectness
     </td>
   </tr>
