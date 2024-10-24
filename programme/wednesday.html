@@ -4,52 +4,10 @@ title: Wednesday Program
 permalink: /programme/wednesday/
 paper: true # Hack to hide it in the header
 ---
+<head>
+  <link rel="stylesheet" href="/static/css/programmes.css">
+</head>
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  .tdoral {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-  }
-  td {
-    padding: 8px;
-    text-align: left;
-    border-bottom: 1px solid black;
-    border-top: 1px solid black;
-  }
-  summary{
-    padding: 8px;
-  }
-  .centered {
-    text-align: center;
-    padding-bottom: 20px;
-    margin-bottom: 20px;
-    border-bottom: 1px solid #eee;
-  }
-  .btn:hover {
-    background-color: #e0e0e0;
-  }
-  .btn-primary:hover {
-    background-color: #0056b3;
-  }
-  .poster {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: center;
-    background: #77b6e9;
-  }
-
-  .oral {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: center;
-    background: #baeb5c;
-  }
-</style>
 <div class="centered">
   <a class="btn" href="/programme/programme">Schedule</a>
   <a class="btn" href="/programme/monday">Mon</a>
@@ -57,8 +15,126 @@ paper: true # Hack to hide it in the header
   <a class="btn btn-primary" href="/programme/wednesday">Wed</a>
   <a class="btn" href="/programme/thursday">Thu</a>
 </div>
+<details open name="events">
+  <summary class="dayevent keynote">Keynote Session</summary>
+  <table>
+        <tr>
+          <th class="keynote">Keynote: TBC</th>
+          <th class="keynote">09:00 - 10:00</th>
+          <th>Title: TBC</th>
+        </tr>
+  </table>
+</details>
 
-<table>
+<details open name="events">
+  <summary class="dayevent workshop">Workshops Session</summary>
+  <table>
+        <tr>
+          <th class="workshop">Doctoral Consortium</th>
+          <th class="workshop">09:00 - 13:00</th>
+          <th>Title: TBC</th>
+        </tr>
+        <tr>
+          <th class="workshop">Workshops 3</th>
+          <th class="workshop">09:00 - 18:00</th>
+          <th>Robust Recognition in the Open World</th>
+        </tr>
+        <tr>
+          <th class="workshop">Workshops 13</th>
+          <th class="workshop">14:00 - 18:00</th>
+          <th>DIFA: Deep Learning-based Image Fusion and Its Applications</th>
+        </tr>
+  </table>
+</details>
+
+<details name="events">
+  <summary class="dayevent oral">Oral Session</summary>
+  <table>
+  <tr>
+    <th rowspan="5" class="oral">Oral 4<br />Chair: TBC</th>
+    <th class="oral">11:45</th>
+    <td class="tdoral">103</td>
+    <td class="tdoral">
+      Prompting Diffusion Representations for Cross-Domain Semantic Segmentation
+    </td>
+  </tr>
+  <tr>
+    <th class="oral">12:00</th>
+    <td class="tdoral">200</td>
+    <td class="tdoral">
+      Towards Generative Class Prompt Learning for Fine-grained Visual
+      Recognition
+    </td>
+  </tr>
+  <tr>
+    <th class="oral">12:15</th>
+    <td class="tdoral">406</td>
+    <td class="tdoral">
+      When Text and Images Don&#39;t Mix: Bias-Correcting Language-Image
+      Similarity Scores for Anomaly Detection
+    </td>
+  </tr>
+  <tr>
+    <th class="oral">12:30</th>
+    <td class="tdoral">615</td>
+    <td class="tdoral">
+      Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation
+    </td>
+  </tr>
+  <tr>
+    <th class="oral">12:45</th>
+    <td class="tdoral">754</td>
+    <td class="tdoral">
+      Revisiting Image Captioning Training Paradigm via Direct CLIP-based
+      Optimization
+    </td>
+  </tr>
+  <tr>
+    <th rowspan="5" class="oral">Oral 5<br />Chair: TBC</th>
+    <th class="oral">14:00</th>
+    <td class="tdoral">14</td>
+    <td class="tdoral">Efficiency-preserving Scene-adaptive Object Detection</td>
+  </tr>
+  <tr>
+    <th class="oral">14:15</th>
+    <td class="tdoral">114</td>
+    <td class="tdoral">
+      Key-point Guided Deformable Image Manipulation Using Diffusion Model
+    </td>
+  </tr>
+  <tr>
+    <th class="oral">14:30</th>
+    <td class="tdoral">416</td>
+    <td class="tdoral">
+      Taming the Tail: Leveraging Asymmetric Loss and Padé Approximation to
+      Overcome Long-Tailed Class Imbalance
+    </td>
+  </tr>
+  <tr>
+    <th class="oral">14:45</th>
+    <td class="tdoral">517</td>
+    <td class="tdoral">Interpretable Long-term Action Quality Assessment</td>
+  </tr>
+  <tr>
+    <th class="oral">15:00</th>
+    <td class="tdoral">545</td>
+    <td class="tdoral">
+      Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
+    </td>
+  </tr>
+  </table>
+</details>
+<details name="events" >
+  <summary class="dayevent poster">Poster Session</summary>
+  <table>
+    <tr>
+      <th class="poster">Poster 1<br />Chair: TBC</th>
+      <th class="poster">10:00 - 11:45</th>
+      <td class="tdoral" colspan="2">
+        <details>
+          <summary>Papers Presented</summary>
+          <div>
+            <table>
   <tr>
     <th class="poster">Poster 5<br />Chair: TBC</th>
     <th class="poster">10:00 - 11:45</th>
@@ -354,79 +430,6 @@ paper: true # Hack to hide it in the header
           </table>
         </div>
       </details>
-    </td>
-  </tr>
-
-  <tr>
-    <th rowspan="5" class="oral">Oral 4<br />Chair: TBC</th>
-    <th class="oral">11:45</th>
-    <td class="tdoral">103</td>
-    <td class="tdoral">
-      Prompting Diffusion Representations for Cross-Domain Semantic Segmentation
-    </td>
-  </tr>
-  <tr>
-    <th class="oral">12:00</th>
-    <td class="tdoral">200</td>
-    <td class="tdoral">
-      Towards Generative Class Prompt Learning for Fine-grained Visual
-      Recognition
-    </td>
-  </tr>
-  <tr>
-    <th class="oral">12:15</th>
-    <td class="tdoral">406</td>
-    <td class="tdoral">
-      When Text and Images Don&#39;t Mix: Bias-Correcting Language-Image
-      Similarity Scores for Anomaly Detection
-    </td>
-  </tr>
-  <tr>
-    <th class="oral">12:30</th>
-    <td class="tdoral">615</td>
-    <td class="tdoral">
-      Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation
-    </td>
-  </tr>
-  <tr>
-    <th class="oral">12:45</th>
-    <td class="tdoral">754</td>
-    <td class="tdoral">
-      Revisiting Image Captioning Training Paradigm via Direct CLIP-based
-      Optimization
-    </td>
-  </tr>
-  <tr>
-    <th rowspan="5" class="oral">Oral 5<br />Chair: TBC</th>
-    <th class="oral">14:00</th>
-    <td class="tdoral">14</td>
-    <td class="tdoral">Efficiency-preserving Scene-adaptive Object Detection</td>
-  </tr>
-  <tr>
-    <th class="oral">14:15</th>
-    <td class="tdoral">114</td>
-    <td class="tdoral">
-      Key-point Guided Deformable Image Manipulation Using Diffusion Model
-    </td>
-  </tr>
-  <tr>
-    <th class="oral">14:30</th>
-    <td class="tdoral">416</td>
-    <td class="tdoral">
-      Taming the Tail: Leveraging Asymmetric Loss and Padé Approximation to
-      Overcome Long-Tailed Class Imbalance
-    </td>
-  </tr>
-  <tr>
-    <th class="oral">14:45</th>
-    <td class="tdoral">517</td>
-    <td class="tdoral">Interpretable Long-term Action Quality Assessment</td>
-  </tr>
-  <tr>
-    <th class="oral">15:00</th>
-    <td class="tdoral">545</td>
-    <td class="tdoral">
-      Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
     </td>
   </tr>
   <tr>
@@ -730,4 +733,7 @@ paper: true # Hack to hide it in the header
       </details>
     </td>
   </tr>
-</table>
+
+  </table>
+</details>
+
