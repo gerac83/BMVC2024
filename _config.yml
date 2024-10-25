@@ -116,7 +116,9 @@ exclude:
   - authors/submit-your-paper-old.md
   - authors/reviewing-guidelines-old.md
   # - authors/area-chair-guidelines.md
-#  - attending/
+  - people/area-chairs.md
+  - people/emergency-reviewers.md
+  - people/volunteers.md
 
 #main_sponsors:
 #  - name: IAPR
