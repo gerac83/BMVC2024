@@ -166,7 +166,12 @@ th {
   text-align: center;
   border: 1px solid black;
 }
-
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
 .session {
   padding-left: 10px;
   margin: 5px;
@@ -242,7 +247,7 @@ summary {
 }
 .dayevent{
   outline: 1px solid black;
-  margin-bottom: 1px;
+  margin-top: 8px;
 }
 .centered {
   text-align: center;
