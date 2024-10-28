@@ -1,5 +1,3 @@
----
---- 
 .grid-container {
   display: grid;
   grid-gap: 10px;
@@ -78,7 +76,7 @@
   background-color: #003865;
   color: white;
   text-align: center;
-  border-radius: 20px;
+  border-radius: 10px;
   text-transform: uppercase;
   font-size: 20px;
 }
@@ -135,6 +133,10 @@
   justify-content: center;
 }
 
+.btn {
+  border-radius: 10px;
+}
+
 .btn:hover {
   background-color: #e0e0e0;
 }
@@ -148,110 +150,144 @@ table {
   border-collapse: collapse;
 }
 
-/* th {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: center;
-    color: white;
-    background: #003865;
-} */
 .tdoral {
-  border: 1px solid black;
-  padding: 8px;
-  text-align: left;
+  border-left: 1px solid black;
 }
 
 th {
   padding: 8px;
   text-align: center;
-  border: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  width: 100px;
 }
+
 td {
   padding: 8px;
   text-align: left;
-  border-bottom: 1px solid black;
   border-top: 1px solid black;
 }
+
 .session {
   padding-left: 10px;
   margin: 5px;
 }
 
-.poster{
+.poster {
   background: #77b6e9;
 }
+
 .keynote {
   background: #d36eaa;
 }
+
 .meeting {
   background: #f3606c;
 }
+
 .oral {
   background: #baeb5c;
 }
+
 .workshop {
   background: #3febcd;
 }
+
 .ws_poster {
   background: #3febcd;
 }
+
 .industrial {
   background: #dee2e6;
 }
+
 .ceremony {
   background: yellow;
 }
+
 .break {
   background: rgb(248, 236, 128);
 }
 
-.session.poster{
+.session.poster {
   background: none;
-  border-left:  8px solid#77b6e9;
+  border-left: 8px solid#77b6e9;
 }
+
 .session.keynote {
   background: none;
-  border-left:   8px solid #d36eaa;
+  border-left: 8px solid #d36eaa;
 }
+
 .session.meeting {
   background: none;
-  border-left:  8px solid#f3606c;
+  border-left: 8px solid#f3606c;
 }
+
 .session.oral {
   background: none;
-  border-left:  8px solid#baeb5c;
+  border-left: 8px solid#baeb5c;
 }
+
 .session.workshop {
   background: none;
-  border-left:  8px solid#3febcd;
+  border-left: 8px solid#3febcd;
 }
+
 .session.ws_poster {
   background: none;
-  border-left:  8px solid#3febcd;
+  border-left: 8px solid#3febcd;
 }
+
 .session.industrial {
   background: none;
-  border-left:  8px solid#dee2e6;
+  border-left: 8px solid#dee2e6;
 }
+
 .session.ceremony {
   background: none;
-  border-left:  8px solid yellow;
+  border-left: 8px solid yellow;
 }
+
 .session.break {
   background: none;
-  border-left:  8px solid rgb(248, 236, 128);
+  border-left: 8px solid rgb(248, 236, 128);
 }
 
 summary {
   padding: 8px;
+
 }
-.dayevent{
+
+details summary {
+  border-radius: 10px;
+}
+
+details[open] summary {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.tableevent {
   outline: 1px solid black;
   margin-top: 8px;
+  border-radius: 10px;
 }
+
 .centered {
   text-align: center;
   padding-bottom: 20px;
   margin-bottom: 20px;
   border-bottom: 1px solid #eee;
+}
+
+.sidebyside {
+  width:48%;
+  display: inline-block;
+}
+
+.rightaligned {
+  text-align: right;
 }
