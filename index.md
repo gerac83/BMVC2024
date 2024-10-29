@@ -9,7 +9,7 @@ title: Home
 <p class="text-justify">The British Machine Vision Conference (BMVC) is the British Machine Vision Association's (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.</p>
 
 <div class="alert mt-3 alert-info" style="">
-    <p><strong>The list of outstanding reviewes is now avialable at: <a href="{{ site.baseurl }}{% link people/reviewers.md %}">[link]</a></strong></p>
+    <p><strong>The list of outstanding reviewers can be found at: <a href="{{ site.baseurl }}{% link people/reviewers.md %}">[link]</a></strong></p>
     <p>Glasgow Convention Bureau has negotiated <strong>discounted rates with a wide range of hotels</strong>. More information at: <a href="{{ site.baseurl }}{% link attending/plan-your-visit.md %}">[link]</a></p>
     <p><strong>The list of accepted papers is now avialable at: <a href="{{ site.baseurl }}{% link programme/accepted_papers.md %}">[link]</a></strong></p>
     <!-- <p><strong>BMVC will not have a rebuttal period this year!</strong> Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p> -->
