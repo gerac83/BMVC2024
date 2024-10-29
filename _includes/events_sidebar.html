@@ -1,25 +1,25 @@
-
 <div class="card mt-2">
-  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a>
+  </h5>
   {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
   <div class="container">
-  {% for group in grouped_sponsors %}
+    {% for group in grouped_sponsors %}
     <div class="row mt-1 mb-1 justify-content-around align-items-center">
       <div class="col-12">
-        {% if group.name == 'Gold' or group.name == 'Platinum' %} 
+        {% if group.name == 'Gold' or group.name == 'Platinum' %}
         <b>{{-group.name-}}&nbsp;Sponsors:</b>
         {% else %}
         <b>{{-group.name-}}&nbsp;:</b>
         {% endif %}
       </div>
-    {% for item in group.items %}
+      {% for item in group.items %}
       <!--<div class="col mb-1 text-center" style="padding-left: 10px; padding-right: 10px">-->
-        <a href="{{item.url}}" target="_blank"><img src="{{ site.baseurl }}/imgs_2024/sponsors_logo/{{item.logo}}" 
+      <a href="{{item.url}}" target="_blank"><img src="{{ site.baseurl }}/imgs_2024/sponsors_logo/{{item.logo}}"
           class="img-fluid" alt="{{ item.id }}" style="max-height: 50px;"></a>
       <!--</div>-->
-    {% endfor %}
+      {% endfor %}
     </div>
-  {% endfor %}
+    {% endfor %}
   </div>
 </div>
 <br>
@@ -27,15 +27,24 @@
 
 <div class="card">
   <h5 class="card-header" style="text-align: center;">News</h5>
-  <ul style="line-height: 1.5; padding: 20px 30px 10px 20px; padding-inline-start: 40px;"> 
- </li>
-    <li><strong>[14 Oct]</strong> The conference schedule is available now: here: <a href="{{ site.baseurl }}{% link aprogramme/programme.md %}">[link]</a> </li>
-    <li><strong>[15 August]</strong> Early-bird registration ends September 30th! Register here: <a href="{{ site.baseurl }}{% link attending/registration.md %}">[link]</a> </li>
-    <li><strong>[01 July]</strong> The list of accepted workshops is now avialable here: <a href="{{ site.baseurl }}{% link programme/workshops.md %}">[link]</a> </li>
-    <li><strong>[29 April]</strong> The <a href="{{ site.baseurl }}{% link authors/reviewing-guidelines.md %}">Reviewing Guidelines</a> and the <a href="{{ site.baseurl }}{% link authors/area-chair-guidelines.md %}">AC guidelines</a> are now out! </li>
-    <li><strong>[29 Mar]</strong> The <a href="{{ site.baseurl }}{% link authors/author-guidelines.md %}">Author Guidelines</a> and the <a href="{{ site.baseurl }}{% link authors/submit-your-paper.md %}">Paper Submission guidelines</a> are released. </li>
-    <li><strong>[20 Feb]</strong> The call for workshops is now available here: <a href="{{ site.baseurl }}/calls/call-for-workshops/">[link]</a>. Workshop proposal submission deadline: 17th May 2024. </li>
-    <li><strong>[13 Feb]</strong> <a href="{{ site.baseurl }}/dates/">Paper abstract and submission deadlines</a> have been released. </li>
+  <ul style="line-height: 1.5; padding: 20px 30px 10px 20px; padding-inline-start: 40px;">
+    </li>
+    <li><strong>[14 Oct]</strong> The conference schedule is available now: here: <a
+        href="{{ site.baseurl }}{% link programme/programme_glance.html %}">[link]</a> </li>
+    <li><strong>[15 August]</strong> Early-bird registration ends September 30th! Register here: <a
+        href="{{ site.baseurl }}{% link attending/registration.md %}">[link]</a> </li>
+    <li><strong>[01 July]</strong> The list of accepted workshops is now avialable here: <a
+        href="{{ site.baseurl }}{% link programme/workshops.md %}">[link]</a> </li>
+    <li><strong>[29 April]</strong> The <a href="{{ site.baseurl }}{% link authors/reviewing-guidelines.md %}">Reviewing
+        Guidelines</a> and the <a href="{{ site.baseurl }}{% link authors/area-chair-guidelines.md %}">AC guidelines</a>
+      are now out! </li>
+    <li><strong>[29 Mar]</strong> The <a href="{{ site.baseurl }}{% link authors/author-guidelines.md %}">Author
+        Guidelines</a> and the <a href="{{ site.baseurl }}{% link authors/submit-your-paper.md %}">Paper Submission
+        guidelines</a> are released. </li>
+    <li><strong>[20 Feb]</strong> The call for workshops is now available here: <a
+        href="{{ site.baseurl }}/calls/call-for-workshops/">[link]</a>. Workshop proposal submission deadline: 17th May
+      2024. </li>
+    <li><strong>[13 Feb]</strong> <a href="{{ site.baseurl }}/dates/">Paper abstract and submission deadlines</a> have
+      been released. </li>
   </ul>
 </div>
-
