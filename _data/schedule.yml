@@ -111,7 +111,7 @@ wednesday:
     end-time: "13:00"
     session-type: "workshop"
     data: "Room: TBC"
-  - session: W3
+  - session: Robust Recognition in the Open World
     start-time: "09:00"
     end-time: "18:00"
     session-type: "workshop"
@@ -131,7 +131,7 @@ wednesday:
     end-time: "14:00"
     session-type: "break"
     data: "Room: TBC"
-  - session: W13
+  - session: "DIFA: Deep Learning-based Image Fusion and Its Applications"
     start-time: "14:00"
     end-time: "18:00"
     session-type: "workshop"
@@ -167,17 +167,17 @@ thursday:
     end-time: "10:00"
     session-type: "keynote"
     data: "Room: TBC"
-  - session: W12
+  - session: Media authenticity in the age of artificial intelligence
     start-time: "09:00"
     end-time: "13:00"
     session-type: "workshop"
     data: "Room: TBC"
-  - session: W11
+  - session: Privacy, Fairness, Accountability and Transparency in Computer Vision
     start-time: "09:00"
     end-time: "13:00"
     session-type: "workshop"
     data: "Room: TBC"
-  - session: W1
+  - session: The 2nd Workshop in Video Understanding and its Applications
     start-time: "09:00"
     end-time: "18:00"
     session-type: "workshop"
@@ -187,7 +187,7 @@ thursday:
     end-time: "11:00"
     session-type: "meeting event"
     data: "Room: TBC"
-  - session: WS Posters
+  - session: Workshops Posters
     start-time: "11:00"
     end-time: "13:30"
     session-type: "ws_poster"
@@ -197,17 +197,17 @@ thursday:
     end-time: "14:00"
     session-type: "break"
     data: "Room: TBC"
-  - session: WS Posters
+  - session: Workshops Posters
     start-time: "14:00"
     end-time: "17:00"
     session-type: "ws_poster"
     data: "Room: TBC"
-  - session: W10
+  - session: Workshop on Machine Vision for Earth Observation and Environment Monitoring
     start-time: "14:00"
     end-time: "18:00"
     session-type: "workshop"
     data: "Room: TBC"
-  - session: W4
+  - session: "Synthetic Realities and Biometric Security: Advances in Forensic Analysis and Threat Mitigation (SRBS)"
     start-time: "14:00"
     end-time: "18:00"
     session-type: "workshop"
