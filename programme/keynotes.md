@@ -62,24 +62,22 @@ index: 5
             </div>
         </div>
         <!-- 4th keynote speaker -->
-        <!--    commented out by Edmond
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
-                    <img src="../../imgs_2024/phil_torr.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-                    <h4 class="pt-2"><a href="https://eng.ox.ac.uk/people/philip-torr/">Philip Torr</a></h4>
-                    <span class=""><small>University of Oxford</small></span>
+                    <img src="../../imgs_2024/Laura_Sevilla.webp" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://laurasevilla.me">Laura Sevilla</a></h4>
+                    <span class=""><small>University of Edinburgh</small></span>
                 </div>
             </div>
             <div class="col-12 col-md-8 col-lg-9">
                 <div class="">
-                    <h5 class="pt-1 text-center"><b></b></h5>
-                    <p class="text-center mb-1"><small></small></p>
-                    <p class="pb-1 mb-1">{{ person.abstract }}</p>
-                    <p class="pb-2 text-justify"><b>Bio: </b>Professor Philip Torr did his PhD (DPhil) at the Robotics Research Group of the University of Oxford under Professor David Murray of the Active Vision Group. He worked for another three years at Oxford as a research fellow, and still maintains close contact as visiting fellow there. He left Oxford to work for six years as a research scientist for Microsoft Research, first in Redmond, USA, in the Vision Technology Group, then in Cambridge founding the vision side of the Machine Learning and Perception Group. He then became a Professor in in Computer Vision and Machine Learning at Oxford Brookes University, where he has brought in over one million pounds in grants for which he is PI. Recently in 2013, Philip returned to Oxford as full professor where he has established the Torr Vision group. He won several awards including the Marr prize (the highest honour in vision) in 1998. He is a Royal Society Wolfson Research Merit Award Holder. Recently, together with members of his group, he has won several other awards including an honorary mention at the NIPS 2007 conference for the paper 'P. Kumar, V. Kolmorgorov, and P.H.S. Torr, An Analysis of Convex Relaxations for MAP Estimation', in NIPS 21, Neural Information Processing Conference, and (oral) Best Paper at Conference for 'O. Woodford, P.H.S. Torr, I. Reid, and A.W. Fitzgibbon, Global Stereo Reconstruction under Second Order Smoothness Priors', in Proceedings IEEE Conference of Computer Vision and Pattern Recognition, 2008. More recently he has been awarded best science paper at BMVC 2010 and ECCV 2010. He was involved in the algorithm design for Boujou released by 2D3. Boujou has won a clutch of industry awards, including Computer Graphics World Innovation Award, IABM Peter Wayne Award, and CATS Award for Innovation, and a technical EMMY. He then worked closely with this Oxford based company as well as other companies such as Sony on the Wonderbook project. He is a director of new Oxford based spin out OxSight, and Chief Scientific Advisor for Five AI. He was elected Fellow of the Royal Academy of Engineering (FREng) in 2019, and Fellow of the Royal Society (FRS) in 2021 for contributions to computer vision. In 2021 he was made Turing AI world leading researcher fellow.</p>
+                    <h5 class="pt-1 text-center"><b>Frontiers of Video Understanding</b></h5>
+                    <p class="text-center mb-1"><small></small></p> 
+                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>Video Understanding is a fundamental skill of intelligent systems. From autonomous robots to virtual assistants, understanding the world in motion is necessary to be able to move and interact with it. The last few years have seen amazing improvements in Video Understanding research. Still there is a remarkable gap between the almost uncanny performance of models in other modalities such as language and still images, and the performance of video. In this talk I will discuss what I believe are the current barriers for video, including efficiency, a tricky relationship with language and finding the right tasks. For each of these topics I will discuss both my recent work on them, as well as what I believe are interesting directions that I hope can be inspiring for the community.</p>
+                    <p class="pb-2 text-justify"><b>Bio: </b>Laura Sevilla is a Reader (Associate Professor) at the University of Edinburgh where she funded and leads the Video Understanding Lab. Her work over the years has advanced the state-of-the-art in many aspects of video understanding, from optical flow, object tracking, video object segmentation, low-shot action classification, action detection, affordance estimation, video captioning and more. She has been the recipient of a Google Faculty Award in 2020 and Google Scholar Award in 2022, as well as other funding from companies such as Meta. She has served as Program Chair for BMVC in 2021 and as Area Chair for ECCV, ICCV, CVPR and AAAI. She's also done work on outreach through the series of Computer Vision for Global Challenges. She's also been elected as an ELLIS Scholar.</p>
                 </div>
             </div>
         </div>
-        //-->
     </div>
 </div>
