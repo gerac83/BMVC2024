@@ -7,6 +7,25 @@ index: 5
 
 <div class="row justify-content-around pl-4 pr-4">
     <div class="col-12">
+        </div>
+        <!-- 4th keynote speaker -->
+        <div class="row pt-2 pb-2 align-items-center">
+            <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
+                <div class="text-center">
+                    <img src="../../imgs_2024/Laura_Sevilla.webp" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://laurasevilla.me">Laura Sevilla</a></h4>
+                    <span class=""><small>University of Edinburgh</small></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="">
+                    <h5 class="pt-1 text-center"><b>Frontiers of Video Understanding</b></h5>
+                    <p class="text-center mb-1"><small></small></p> 
+                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>Video Understanding is a fundamental skill of intelligent systems. From autonomous robots to virtual assistants, understanding the world in motion is necessary to be able to move and interact with it. The last few years have seen amazing improvements in Video Understanding research. Still there is a remarkable gap between the almost uncanny performance of models in other modalities such as language and still images, and the performance of video. In this talk I will discuss what I believe are the current barriers for video, including efficiency, a tricky relationship with language and finding the right tasks. For each of these topics I will discuss both my recent work on them, as well as what I believe are interesting directions that I hope can be inspiring for the community.</p>
+                    <p class="pb-2 text-justify"><b>Bio: </b>Laura Sevilla is a Reader (Associate Professor) at the University of Edinburgh where she funded and leads the Video Understanding Lab. Her work over the years has advanced the state-of-the-art in many aspects of video understanding, from optical flow, object tracking, video object segmentation, low-shot action classification, action detection, affordance estimation, video captioning and more. She has been the recipient of a Google Faculty Award in 2020 and Google Scholar Award in 2022, as well as other funding from companies such as Meta. She has served as Program Chair for BMVC in 2021 and as Area Chair for ECCV, ICCV, CVPR and AAAI. She's also done work on outreach through the series of Computer Vision for Global Challenges. She's also been elected as an ELLIS Scholar.</p>
+                </div>
+            </div>
+        </div>
         <!-- 1st keynote speaker -->
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
@@ -66,16 +85,16 @@ index: 5
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
                     <img src="../../imgs_2024/Laura_Sevilla.webp" class="rounded-circle img-fluid" style="max-width: 125px;">
-                    <h4 class="pt-2"><a href="https://laurasevilla.me">Laura Sevilla</a></h4>
-                    <span class=""><small>University of Edinburgh</small></span>
+                    <h4 class="pt-2"><a href="https://technovativesolutions.co.uk/">Md. Mostafa Kamal Sarker</a></h4>
+                    <span class=""><small>Technovative Solutions LTD (TVS)</small></span>
                 </div>
             </div>
             <div class="col-12 col-md-8 col-lg-9">
                 <div class="">
-                    <h5 class="pt-1 text-center"><b>Frontiers of Video Understanding</b></h5>
+                    <h5 class="pt-1 text-center"><b>Industrial Keynote</b></h5>
                     <p class="text-center mb-1"><small></small></p> 
-                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>Video Understanding is a fundamental skill of intelligent systems. From autonomous robots to virtual assistants, understanding the world in motion is necessary to be able to move and interact with it. The last few years have seen amazing improvements in Video Understanding research. Still there is a remarkable gap between the almost uncanny performance of models in other modalities such as language and still images, and the performance of video. In this talk I will discuss what I believe are the current barriers for video, including efficiency, a tricky relationship with language and finding the right tasks. For each of these topics I will discuss both my recent work on them, as well as what I believe are interesting directions that I hope can be inspiring for the community.</p>
-                    <p class="pb-2 text-justify"><b>Bio: </b>Laura Sevilla is a Reader (Associate Professor) at the University of Edinburgh where she funded and leads the Video Understanding Lab. Her work over the years has advanced the state-of-the-art in many aspects of video understanding, from optical flow, object tracking, video object segmentation, low-shot action classification, action detection, affordance estimation, video captioning and more. She has been the recipient of a Google Faculty Award in 2020 and Google Scholar Award in 2022, as well as other funding from companies such as Meta. She has served as Program Chair for BMVC in 2021 and as Area Chair for ECCV, ICCV, CVPR and AAAI. She's also done work on outreach through the series of Computer Vision for Global Challenges. She's also been elected as an ELLIS Scholar.</p>
+                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>TBC</p>
+                    <p class="pb-2 text-justify"><b>Bio: </b>Dr Sarker is the Lead AI Research Scientist at Technovative Solutions LTD (TVS) and a Visiting Fellow at the University of Oxford. He's an expert in artificial intelligence, computer vision, and deep learning. His research has significantly impacted clinical AI, biomedical image analysis, and digital healthcare, evident in his 40+ peer-reviewed publications.</p>
                 </div>
             </div>
         </div>
