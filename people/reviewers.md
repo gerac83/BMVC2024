@@ -66,7 +66,7 @@ The conference <a href="{{site.baseurl}}{% link people/organisers.md %}">organis
         <td>Durrant</td>
     </tr>
     <tr>
-        <td>Akisato</td>
+        <td>Akash</td>
         <td>Guna-R.T</td>
     </tr>
     <tr>
@@ -178,7 +178,7 @@ The conference <a href="{{site.baseurl}}{% link people/organisers.md %}">organis
         <td>Raposo</td>
     </tr>
     <tr>
-        <td>Di</td>
+        <td>Debao</td>
         <td>Huang</td>
     </tr>
     <tr>
