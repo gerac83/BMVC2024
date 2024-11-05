@@ -243,7 +243,7 @@ This year, BMVC received 1020 submissions of which 264 papers were accepted. Eac
 <tr><td>692</td><td>Spatio-Temporal Transformer with Rotary Position Embedding and Bone Priors for 3D Human Pose Estimation</td></tr>
 <tr><td>695</td><td>Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies</td></tr>
 <tr><td>697</td><td>Inverse Rendering of Outdoor Scenes with under Time-variant Illumination</td></tr>
-<tr><td>707</td><td>UKD: Unsupervised Knowledge Distillation for Face Recognition</td></tr>
+<tr><td>707</td><td>QUD: Unsupervised Knowledge Distillation for Deep Face Recognition</td></tr>
 <tr><td>721</td><td>Sign Stitching: A Novel Approach to Sign Language Production</td></tr>
 <tr><td>723</td><td>$ControlEdit: A MultiModal Local Clothing Image Editing Method$</td></tr>
 <tr><td>727</td><td>Optimising Diffusion Models for Histopathology Image Synthesis</td></tr>
