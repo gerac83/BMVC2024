@@ -84,7 +84,7 @@ index: 5
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
-                    <img src="../../imgs_2024/Laura_Sevilla.webp" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <img src="../../imgs_2024/mostafa.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
                     <h4 class="pt-2"><a href="https://technovativesolutions.co.uk/">Md. Mostafa Kamal Sarker</a></h4>
                     <span class=""><small>Technovative Solutions LTD (TVS)</small></span>
                 </div>
