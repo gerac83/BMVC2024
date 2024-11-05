@@ -80,7 +80,7 @@ index: 5
                 </div>
             </div>
         </div>
-        <!-- 4th keynote speaker -->
+        <!-- DC speaker -->
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
@@ -91,10 +91,9 @@ index: 5
             </div>
             <div class="col-12 col-md-8 col-lg-9">
                 <div class="">
-                    <h5 class="pt-1 text-center"><b>Industrial Keynote</b></h5>
+                    <h5 class="pt-1 text-center"><b>Doctoral Consortium Speaker</b></h5>
                     <p class="text-center mb-1"><small></small></p> 
-                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>TBC</p>
-                    <p class="pb-2 text-justify"><b>Bio: </b>Dr Sarker is the Lead AI Research Scientist at Technovative Solutions LTD (TVS) and a Visiting Fellow at the University of Oxford. He's an expert in artificial intelligence, computer vision, and deep learning. His research has significantly impacted clinical AI, biomedical image analysis, and digital healthcare, evident in his 40+ peer-reviewed publications.</p>
+                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>Dr Sarker is the Lead AI Research Scientist at Technovative Solutions LTD (TVS) and a Visiting Fellow at the University of Oxford. He's an expert in artificial intelligence, computer vision, and deep learning. His research has significantly impacted clinical AI, biomedical image analysis, and digital healthcare, evident in his 40+ peer-reviewed publications. At BMVC2024, he'll share his valuable insights and guide aspiring researchers on transitioning from academia to industry and discuss the exciting opportunities this path offers.</p>
                 </div>
             </div>
         </div>
