@@ -11,11 +11,11 @@ sponsors:
     url: "https://www.vivo.com/eu"
     url-external: "https://www.vivo.com/eu"
 
-  # - name: SICSA
-  #   type: Gold
-  #   logo: sicsa_blue.jpeg
-  #   url: "https://www.sicsa.ac.uk/"
-  #   url-external: "https://www.sicsa.ac.uk/"
+  - name: Nokia Bell Labs
+    type: Gold
+    logo: NBL_Logo_rgb.jpeg
+    url: "https://www.bell-labs.com/"
+    url-external: "https://www.bell-labs.com/"
 
   # - name: Attendr
   #   type: Special
