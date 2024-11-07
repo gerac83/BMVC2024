@@ -3,42 +3,42 @@ monday:
     start-time: "08:00"
     end-time: "09:00"
     session-type: "ceremony event"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Welcome
     start-time: "08:45"
     end-time: "09:00"
     session-type: "ceremony event"
-    data: "Room: TBC"
-  - session: Keynote 1
+    data: "Room: M1"
+  - session: Keynote - Margarita Chli
     start-time: "09:00"
     end-time: "10:00"
     session-type: "keynote"
-    data: "Room: TBC"
-  - session: Poster 1
+    data: "Room: M1"
+  - session: Poster Session 1
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: Oral Session 1
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Room: TBC"
-  - session: Poster 2
+    data: "Room: Hall 2"
+  - session: Poster Session 2
     start-time: "14:00"
     end-time: "15:45"
     session-type: "poster"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: Oral Session 2
     start-time: "15:45"
     end-time: "17:00"
     session-type: "oral"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: End of the day
     start-time: "17:00"
     end-time: "17:00"
