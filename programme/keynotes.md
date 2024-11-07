@@ -7,7 +7,6 @@ index: 5
 
 <div class="row justify-content-around pl-4 pr-4">
     <div class="col-12">
-        </div>
         <!-- 4th keynote speaker -->
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
@@ -55,9 +54,9 @@ index: 5
             </div>
             <div class="col-12 col-md-8 col-lg-9">
                 <div class="">
-                    <h5 class="pt-1 text-center"><b></b></h5>
+                    <h5 class="pt-1 text-center"><b>Vision-based robotic perception: are we there yet?</b></h5>
                     <p class="text-center mb-1"><small></small></p>
-                    <p class="pb-1 mb-1 text-justify">{{ person.abstract }}</p>
+                    <p class="pb-1 mb-1 text-justify">As vision plays a key role in how we interpret a situation, developing vision-based perception for robots promises to be a big step towards robotic navigation and intelligence, with a tremendous impact on automating robot navigation. This talk will discuss our recent progress in this area at the Vision for Robotics Lab of the University of Cyprus and ETH Zurich (<a href="http://www.v4rl.com">http://www.v4rl.com</a>), and some of the biggest challenges we are faced with.</p>
                     <p class="pb-2 text-justify"><b>Bio: </b>Margarita Chli is a Professor of Robotic Vision and the director of the Vision for Robotics Lab, at the University of Cyprus and ETH Zurich. Her work has contributed to the first vision-based autonomous flight of a small drone and the first demonstration of collaborative monocular SLAM for a small swarm of drones. Margarita has given invited keynotes at the World Economic Forum in Davos, TEDx, and ICRA, and she was featured in Robohub's 2016 list of "25 women in Robotics you need to know about". In 2023 she won the ERC Consolidator Grant, one of the most prestigious grants in Europe for blue-sky research, to grow her team at the University of Cyprus to research advanced robotic perception.</p>
                 </div>
             </div>
@@ -80,6 +79,33 @@ index: 5
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+---
+
+<div class="row justify-content-around pl-4 pr-4">
+    <div class="col-12">
+        <!-- DC speaker -->
+        <div class="row pt-2 pb-2 align-items-center">
+            <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
+                <div class="text-center">
+                    <img src="../../imgs_2024/Sohag_Portrait.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://technovativesolutions.co.uk/">Salauddin Sohag</a></h4>
+                    <span class=""><small>Technovative Solutions LTD (TVS)</small></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="">
+                    <h5 class="pt-1 text-center"><b>Industrial Keynote</b></h5>
+                    <p class="text-center mb-1"><small></small></p> 
+                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>In this keynote, Sohag will chart the company’s journey, recounting major innovations, achievements, and the challenges it has navigated to reach its current position. Sohag will also connect Technovative Solutions' advancements to emerging industry trends, illustrating how the company is strategically positioned to address current and future market demands through cutting-edge solutions and agile methodologies.</p>
+                    <p class="pb-2 text-justify"><b>Bio: </b>Salauddin Sohag is an experienced product leader with a passion for innovation and a proven track record of success. As the Head of Product at Technovative Solutions, he leads a talented team in bringing cutting-edge products to market, from conception and development to launch and beyond.
+                    With over 10 years of experience in product development, Sohag is an expert in Agile methodologies, including SAFe and Design Thinking. He leverages his deep understanding of these principles, along with Lean methodologies, to drive impactful business outcomes and deliver exceptional customer experiences.
+                    Sohag's career is marked by significant achievements, including leading e-commerce integration solutions at Vertex Inc. and transforming customer journeys with innovative mobile solutions at Lloyds Banking Group. He is also a strong advocate for continuous improvement and cross-functional collaboration, driving the company’s mission to innovate and excel in the realm of product management.</p>
+                </div>
+            </div>
+        </div>
         <!-- DC speaker -->
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
@@ -93,7 +119,7 @@ index: 5
                 <div class="">
                     <h5 class="pt-1 text-center"><b>Doctoral Consortium Speaker</b></h5>
                     <p class="text-center mb-1"><small></small></p> 
-                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>Dr Sarker is the Lead AI Research Scientist at Technovative Solutions LTD (TVS) and a Visiting Fellow at the University of Oxford. He's an expert in artificial intelligence, computer vision, and deep learning. His research has significantly impacted clinical AI, biomedical image analysis, and digital healthcare, evident in his 40+ peer-reviewed publications. At BMVC2024, he'll share his valuable insights and guide aspiring researchers on transitioning from academia to industry and discuss the exciting opportunities this path offers.</p>
+                    <p class="pb-1 mb-1 text-justify"><b>Bio: </b>Dr Sarker is the Lead AI Research Scientist at Technovative Solutions LTD (TVS) and a Visiting Fellow at the University of Oxford. He's an expert in artificial intelligence, computer vision, and deep learning. His research has significantly impacted clinical AI, biomedical image analysis, and digital healthcare, evident in his 40+ peer-reviewed publications. At BMVC2024, he'll share his valuable insights and guide aspiring researchers on transitioning from academia to industry and discuss the exciting opportunities this path offers.</p>
                 </div>
             </div>
         </div>
