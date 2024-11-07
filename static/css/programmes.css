@@ -178,7 +178,7 @@ td {
 }
 
 .keynote {
-  background: #d36eaa;
+  background: #E59EDD;
 }
 
 .meeting {
@@ -216,7 +216,7 @@ td {
 
 .session.keynote {
   background: none;
-  border-left: 8px solid #d36eaa;
+  border-left: 8px solid #E59EDD;
 }
 
 .session.meeting {

@@ -19,7 +19,7 @@ monday:
     end-time: "11:45"
     session-type: "poster"
     data: "Room: Hall 2"
-  - session: Oral Session 1
+  - session: Oral Session 1 - Explainability in Vision
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
@@ -34,7 +34,7 @@ monday:
     end-time: "15:45"
     session-type: "poster"
     data: "Room: Hall 2"
-  - session: Oral Session 2
+  - session: Oral Session 2 - Cyberphysical Vision
     start-time: "15:45"
     end-time: "17:00"
     session-type: "oral"
@@ -54,42 +54,42 @@ tuesday:
     start-time: "08:00"
     end-time: "09:00"
     session-type: "ceremony event"
-    data: "Room: TBC"
-  - session: Keynote 2
+    data: "Room: M1"
+  - session: Keynote - Mubarak Shah
     start-time: "09:00"
     end-time: "10:00"
     session-type: "keynote"
-    data: "Room: TBC"
-  - session: Poster 3
+    data: "Room: M1"
+  - session: Poster Session 3
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
-    data: "Room: TBC"
-  - session: Oral Session 3
+    data: "Room: Hall 2"
+  - session: Oral Session 3 - Real World Applications
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: Industrial Keynote - Technovative Solutions
     start-time: "14:00"
     end-time: "14:30"
     session-type: "keynote"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Industrial Session
     start-time: "14:30"
     end-time: "15:45"
     session-type: "industrial"
-    data: "Room: TBC"
-  - session: Poster 4
+    data: "Room: M1"
+  - session: Poster Session 4
     start-time: "15:45"
     end-time: "17:30"
     session-type: "poster"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: End of the day
     start-time: "17:30"
     end-time: "17:30"
@@ -100,52 +100,52 @@ wednesday:
     start-time: "08:00"
     end-time: "09:00"
     session-type: "ceremony event"
-    data: "Room: TBC"
-  - session: Keynote 3
+    data: "Room: M1"
+  - session: Keynote - Laura Sevilla
     start-time: "09:00"
     end-time: "10:00"
     session-type: "keynote"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Doctoral Consortium
     start-time: "09:00"
     end-time: "13:00"
     session-type: "workshop"
-    data: "Room: TBC"
+    data: "Room: M2"
   - session: Robust Recognition in the Open World
     start-time: "09:00"
     end-time: "18:00"
     session-type: "workshop"
-    data: "Room: TBC"
-  - session: Poster 5
+    data: "Room: M3"
+  - session: Poster Session 5
     start-time: "10:00"
     end-time: "11:45"
     session-type: "poster"
-    data: "Room: TBC"
-  - session: Oral Session 4
+    data: "Room: Hall 2"
+  - session: Oral Session 4 - Machine Vision in Challenging Scenarios
     start-time: "11:45"
     end-time: "13:00"
     session-type: "oral"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: "DIFA: Deep Learning-based Image Fusion and Its Applications"
     start-time: "14:00"
     end-time: "18:00"
     session-type: "workshop"
-    data: "Room: TBC"
-  - session: Oral Session 5
+    data: "Room: M2"
+  - session: Oral Session 5 - Image Quality Algorithms
     start-time: "14:00"
     end-time: "15:15"
     session-type: "oral"
-    data: "Room: TBC"
-  - session: Poster 6
+    data: "Room: M1"
+  - session: Poster Session 6
     start-time: "15:15"
     end-time: "17:00"
     session-type: "poster"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: End of the day
     start-time: "18:00"
     end-time: "18:00"
@@ -161,62 +161,62 @@ thursday:
     start-time: "08:00"
     end-time: "09:00"
     session-type: "ceremony event"
-    data: "Room: TBC"
-  - session: Keynote 4
+    data: "Room: M1"
+  - session: Keynote - Federico Tombari
     start-time: "09:00"
     end-time: "10:00"
     session-type: "keynote"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Media authenticity in the age of artificial intelligence
     start-time: "09:00"
     end-time: "13:00"
     session-type: "workshop"
-    data: "Room: TBC"
+    data: "Room: M2"
   - session: Privacy, Fairness, Accountability and Transparency in Computer Vision
     start-time: "09:00"
     end-time: "13:00"
     session-type: "workshop"
-    data: "Room: TBC"
+    data: "Room: M4"
   - session: The 2nd Workshop in Video Understanding and its Applications
     start-time: "09:00"
     end-time: "18:00"
     session-type: "workshop"
-    data: "Room: TBC"
+    data: "Room: M3"
   - session: Town Hall
     start-time: "10:00"
     end-time: "11:00"
     session-type: "meeting event"
-    data: "Room: TBC"
+    data: "Room: M1"
   - session: Workshops Posters
     start-time: "11:00"
     end-time: "13:30"
     session-type: "ws_poster"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: Lunch
     start-time: "13:00"
     end-time: "14:00"
     session-type: "break"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: Workshops Posters
     start-time: "14:00"
     end-time: "17:00"
     session-type: "ws_poster"
-    data: "Room: TBC"
+    data: "Room: Hall 2"
   - session: Workshop on Machine Vision for Earth Observation and Environment Monitoring
     start-time: "14:00"
     end-time: "18:00"
     session-type: "workshop"
-    data: "Room: TBC"
+    data: "Room: M4"
   - session: "Synthetic Realities and Biometric Security: Advances in Forensic Analysis and Threat Mitigation (SRBS)"
     start-time: "14:00"
     end-time: "18:00"
     session-type: "workshop"
-    data: "Room: TBC"
-  - session: Poster Awards
-    start-time: "17:00"
-    end-time: "17:30"
-    session-type: "ceremony event"
-    data: "Room: TBC"
+    data: "Room: M1"
+  # - session: Poster Awards
+  #   start-time: "17:00"
+  #   end-time: "17:30"
+  #   session-type: "ceremony event"
+  #   data: "Room: TBC"
   - session: End of the day
     start-time: "18:00"
     end-time: "18:00"
