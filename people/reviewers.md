@@ -70,7 +70,7 @@ The conference <a href="{{site.baseurl}}{% link people/organisers.md %}">organis
         <td>Guna-R.T</td>
     </tr>
     <tr>
-        <td>Alan</td>
+        <td>Akisato</td>
         <td>Kimura</td>
     </tr>
     <tr>
