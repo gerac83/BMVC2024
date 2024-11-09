@@ -19,4 +19,19 @@ For group bookings of 10 rooms or more or other accommodation enquiries please e
 
 **No telephone bookings.**
 <br>
-<br>
+
+## City Map
+
+This is the city map illustrating addresses of hotels and public transport points, please use it for your convenience.
+
+<div style='display:block;width:100%;height:100%;margin-bottom:15px;'>
+    <img style='width:100%;height:100%' src="/imgs_2024/citymap/HOTEL MAP_February 2024_00.png" alt="City Map">
+</div>
+
+<p>Glasgow provides delegate offer on tours and restaurants for the conference attendees, please see detail inforamtion here: <a href="/imgs_2024/citymap/Delegate_offers.pdf">Delegate Offers</a></p>
+
+<p>Or you can scan the QR code to get it.</p>
+
+<div style='display:block;width:40%;height:40%'>
+    <img style='width:100%;height:100%' src="/imgs_2024/citymap/QR_code.png" alt="QR code">
+</div>
