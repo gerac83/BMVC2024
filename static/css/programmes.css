@@ -184,7 +184,7 @@ td {
 }
 
 .keynote {
-  background: #ff97a0;
+  background: #ffbac0;
 }
 
 .meeting {
@@ -196,11 +196,11 @@ td {
 }
 
 .workshop {
-  background: #b0fdf0;
+  background: #ccffe5;
 }
 
 .ws_poster {
-  background: #b0fdf0;
+  background: #ccffe5;
 }
 
 .industrial {
@@ -222,7 +222,7 @@ td {
 
 .session.keynote {
   background: none;
-  border-left: 8px solid #ff97a0;
+  border-left: 8px solid #ffbac0;
 }
 
 .session.meeting {
@@ -237,12 +237,12 @@ td {
 
 .session.workshop {
   background: none;
-  border-left: 8px solid#b0fdf0;
+  border-left: 8px solid#ccffe5;
 }
 
 .session.ws_poster {
   background: none;
-  border-left: 8px solid#b0fdf0;
+  border-left: 8px solid#ccffe5;
 }
 
 .session.industrial {
