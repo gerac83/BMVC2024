@@ -83,7 +83,7 @@ tuesday:
   - session: Industrial Session
     start-time: "14:30"
     end-time: "15:45"
-    session-type: "industrial"
+    session-type: "industrial oral"
     data: "Room: M1"
   - session: Poster Session 4
     start-time: "15:45"
