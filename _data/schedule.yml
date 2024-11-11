@@ -212,6 +212,11 @@ thursday:
     end-time: "18:00"
     session-type: "workshop"
     data: "Room: M1"
+  - session: "1st Workshop on Advancing Non-invasive Human Motion Characterization in the Clinical Domain: Methods and Applications"
+    start-time: "14:00"
+    end-time: "18:00"
+    session-type: "workshop"
+    data: "Room: M2"
   # - session: Poster Awards
   #   start-time: "17:00"
   #   end-time: "17:30"

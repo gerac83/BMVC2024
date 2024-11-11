@@ -93,7 +93,8 @@
 
 .loc {
   text-align: right;
-  color: #6c757d;
+  color: #424242;
+  font-weight: 500;
 }
 
 #session-filter {
@@ -179,27 +180,27 @@ td {
 }
 
 .poster {
-  background: #77b6e9;
+  background: #b7dfff;
 }
 
 .keynote {
-  background: #E59EDD;
+  background: #ff97a0;
 }
 
 .meeting {
-  background: #f3606c;
+  background: #fff9a3;
 }
 
 .oral {
-  background: #baeb5c;
+  background: #dffaad;
 }
 
 .workshop {
-  background: #3febcd;
+  background: #b0fdf0;
 }
 
 .ws_poster {
-  background: #3febcd;
+  background: #b0fdf0;
 }
 
 .industrial {
@@ -216,32 +217,32 @@ td {
 
 .session.poster {
   background: none;
-  border-left: 8px solid#77b6e9;
+  border-left: 8px solid#b7dfff;
 }
 
 .session.keynote {
   background: none;
-  border-left: 8px solid #E59EDD;
+  border-left: 8px solid #ff97a0;
 }
 
 .session.meeting {
   background: none;
-  border-left: 8px solid#f3606c;
+  border-left: 8px solid#ffd195;
 }
 
 .session.oral {
   background: none;
-  border-left: 8px solid#baeb5c;
+  border-left: 8px solid#dffaad;
 }
 
 .session.workshop {
   background: none;
-  border-left: 8px solid#3febcd;
+  border-left: 8px solid#b0fdf0;
 }
 
 .session.ws_poster {
   background: none;
-  border-left: 8px solid#3febcd;
+  border-left: 8px solid#b0fdf0;
 }
 
 .session.industrial {
@@ -251,7 +252,7 @@ td {
 
 .session.ceremony {
   background: none;
-  border-left: 8px solid yellow;
+  border-left: 8px solid #456e9b;
 }
 
 .session.break {
@@ -291,6 +292,7 @@ details[open] summary {
 .sidebyside {
   width:48%;
   display: inline-block;
+  font-weight: 500;
 }
 
 .rightaligned {
