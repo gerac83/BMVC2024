@@ -196,7 +196,8 @@ td {
 
 summary {
   padding: 8px;
-
+  text-align: left;
+  
 }
 
 details summary {
@@ -226,14 +227,10 @@ details[open] summary {
 .sidebyside {
   width:48%;
   display: inline-block;
-  font-weight: 500;
 }
 
 .rightaligned {
   text-align: right;
-}
-summary {
-  text-align: left;
 }
 
 @media screen {
@@ -296,8 +293,8 @@ summary {
   .sidebyside {
     width:46%;
     display: inline-block;
-    font-weight: 500;
   }
+
   th {
     width: 17%;
   }
