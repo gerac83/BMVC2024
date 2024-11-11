@@ -159,19 +159,28 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
+        <img src="../../imgs_2024/Richard_Menzies.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.linkedin.com/in/richard-menzies-8113001ba/?originalSubdomain=uk">Richard Menzies</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/george_killick.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.liverpool.ac.uk/cooper-group/people/george,killick/">George Killick</a></h4>
+        <p class="pb-2">University of Liverpool</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
         <img src="../../imgs_2024/Changrui_Chen.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://geoch.top/">Changrui Chen</a></h4>
         <p class="pb-2">University of Warwick</p>
     </div>
 </div>
 
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Richard_Menzies.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.linkedin.com/in/richard-menzies-8113001ba/?originalSubdomain=uk">Richard Menzies</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
 
 </div>
 <br>
