@@ -17,11 +17,11 @@ sponsors:
     url: "https://www.bell-labs.com/"
     url-external: "https://www.bell-labs.com/"
 
-  # - name: Attendr
-  #   type: Special
-  #   logo: logo_attendr.png
-  #   url: "https://www.attendr.app/"
-  #   url-external: "https://www.attendr.app/"
+  - name: Living Optics
+    type: Gold
+    logo: LO_Logo_Horizontal_RGB_Black.png
+    url: "https://www.livingoptics.com/"
+    url-external: "https://www.livingoptics.com/"
 
   # - name: Frontiers
   #   type: Special
