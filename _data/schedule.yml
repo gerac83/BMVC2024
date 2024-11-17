@@ -107,7 +107,7 @@ wednesday:
     session-type: "keynote"
     data: "Room: M1"
   - session: Doctoral Consortium
-    start-time: "09:00"
+    start-time: "10:00"
     end-time: "13:00"
     session-type: "workshop"
     data: "Room: M2"
