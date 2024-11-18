@@ -152,7 +152,7 @@ wednesday:
     session-type: "break event"
   - session: Gala Dinner
     start-time: "19:00"
-    end-time: "22:00"
+    end-time: "24:00"
     session-type: "ceremony event"
     data: "Glasgow Science Centre, 50 Pacific Quay, Glasgow G51 1EA"
 
