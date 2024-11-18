@@ -45,3 +45,4 @@ Please prepare your presentations following these guidelines:
 * Each talk will be assigned to a specific Oral session (program details sent separately) 
 * We are allocating 15 minutes for each talk: 12 min for the presentation + 3 min for Q&A
 * All speakers for an oral session must make themselves known to the session chair at least 10 minutes BEFORE the session begins, as well as to try out connections. At 5-minutes before, the chair will likely drop the paper for no-show authors from the session.
+* Bring your presentation in a USB stick or your laptop.
