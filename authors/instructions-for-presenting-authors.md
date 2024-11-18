@@ -18,12 +18,12 @@ These instructions provide details on how to prepare and upload video summaries 
 
 ## Posters
 
-All authors with accepted papers at BMVC 2024 will have the opportunity to present their work in one of the poster sessions (including oral presentations). For this, we ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px, A0 aspect ratio and no larger than 3 MB. Posters should be in portrait. 
+All authors with accepted papers at BMVC 2024 will have the opportunity to present their work in one of the poster sessions (including oral presentations). For this, we ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in portrait, A0 aspect ratio and no larger than 3 MB. Posters should be in portrait. 
 
-For the conference, please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. Details for the poster schedule can be found in the [conference schedule](https://bmvc2024.org/programme/programme/). We have no official template for your e-poster or video, but we would suggest you include our BMVC 2024 logo which can be downloaded from [https://bmvc2024.org](https://bmvc2024.org).
+For the conference, please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. Details for the poster schedule can be found in the [conference schedule](https://bmvc2024.org/programme/programme/). We have no official template for your, poster, e-poster or video, but we would suggest you include our BMVC 2024 logo which can be downloaded from [https://bmvc2024.org](https://bmvc2024.org).
 
 
-**We will not have facilities to print posters, so participants are asked to bring their posters to the sign-in desk when registering on-site, and a volunteer team member will set up the poster.**
+**We will not have facilities to print posters, so participants are asked to bring their posters.**
 
 ## Video summaries
 
