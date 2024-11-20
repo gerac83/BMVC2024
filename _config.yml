@@ -95,7 +95,7 @@ exclude:
   - programme/accepted-papers.md
   - programme/papers.md
   - programme/poster.md
-  - programme/programme.md
+  # - programme/programme.md
   - programme/schedule.md
   - programme/workshop_papers.md
   # - programme/workshops.md
