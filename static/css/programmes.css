@@ -4,7 +4,14 @@
   grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
 }
 
-
+.responsive-table tr {
+  display: grid;
+  grid-template-areas: "number title author";
+  grid-template-columns: 50px repeat(2, 1fr); /* 5 columns on larger screens */
+}
+  .authorcell{
+  grid-area: author;
+}
 .header {
   background-color: #003865;
   color: white;
@@ -88,7 +95,6 @@ table {
   text-align: center;
   border-left: 1px solid black;
 }
-
 th {
   padding: 8px;
   text-align: center;
@@ -297,6 +303,20 @@ details[open] summary {
 
   th {
     width: 17%;
+  }
+  .responsive-table tr{
+
+    grid-template-columns: 50px 1fr; /* Single column on smaller screens */
+    grid-template-areas: 
+    "num title"
+    "author author";
+    border-top: 2px solid black;
+  }
+  .responsive-table tr ~ tr {
+    border-top: none;
+  }
+  .authorcell{
+    border-bottom: 2px solid black;
   }
 }
 
