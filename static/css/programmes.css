@@ -213,7 +213,7 @@ td {
 summary {
   padding: 8px;
   text-align: left;
-  
+  box-sizing: content-box;
 }
 
 details summary {
