@@ -152,6 +152,46 @@ index: 0
 <br>
 <br>
 
+<h4>Local Arrangement Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Ozgu_Goksu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/ozgugoksu/">Ozgu Goksu</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Florent_Audonnet.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/florentphilippejeanaudonnet/">Florent Audonnet</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Yingdong_Ru.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/yingdongru/">Yingdong Ru</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Oliver_Summerell.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/oliversummerell/">Oliver Summerell</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
 
 <h4>Doctoral Consortium Chairs <a href="mailto:doctoral.consortium@bmvc2024.org" style="font-size:15px;" hidden>doctoral.consortium@bmvc2024.org</a></h4>
 <br>
@@ -186,6 +226,30 @@ index: 0
 <br>
 <br>
 
+<h4>Social Media Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Lipeng_Zhuang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/lipengzhuang/">Lipeng Zhuang</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2024/Yufan_Shi.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/shiyufan/">Shiyu Fan</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
 
 <h4>Website and Proceedings Chairs <a href="mailto:website-chair@bmvc2023.org" style="font-size:15px;" hidden>website-chair@bmvc2023.org</a></h4>
 <br>
@@ -211,70 +275,6 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2024/Zijun_Long.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.linkedin.com/in/zijun-long-10a273197/">Zijun Long</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-</div>
-<br>
-<br>
-
-<h4>Social Media Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Lipeng_Zhuang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/lipengzhuang/">Lipeng Zhuang</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Yufan_Shi.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/shiyufan/">Shiyu Fan</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-</div>
-<br>
-<br>
-
-<h4>Local Arrangement Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Ozgu_Goksu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/ozgugoksu/">Ozgu Goksu</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Florent_Audonnet.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/florentphilippejeanaudonnet/">Florent Audonnet</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Yingdong_Ru.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/yingdongru/">Yingdong Ru</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2024/Oliver_Summerell.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/oliversummerell/">Oliver Summerell</a></h4>
         <p class="pb-2">University of Glasgow</p>
     </div>
 </div>
