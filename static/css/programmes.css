@@ -227,6 +227,14 @@ details[open] summary {
   border-bottom-right-radius: 0px;
 }
 
+summary::before {
+  content: "►";
+  /* list-style-position: inside; */
+}
+details[open] summary:before {
+  content: " ▼";
+}
+
 .tableevent {
   outline: 1px solid black;
   margin-top: 8px;
@@ -241,8 +249,8 @@ details[open] summary {
 }
 
 .sidebyside {
-  width:48%;
-  display: inline-block;
+  display: grid;
+  grid-template-columns: 17px 1fr 1fr;
 }
 
 .rightaligned {
@@ -307,8 +315,8 @@ details[open] summary {
   }
 
   .sidebyside {
-    width:46%;
-    display: inline-block;
+    display: grid;
+    grid-template-columns: 17px 1fr 1fr;
   }
 
   th {
