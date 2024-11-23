@@ -226,13 +226,22 @@ details[open] summary {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
 }
+summary::marker {
+  content: "";
+}
 
 summary::before {
-  content: "►";
+  content: " ⮞";
   /* list-style-position: inside; */
 }
-details[open] summary:before {
-  content: " ▼";
+details[open] summary::before  {
+  content: " ⮟";
+}
+details[open] details summary::before  {
+  content: " ⮞";
+}
+details[open] details[open] summary::before  {
+  content: " ⮟";
 }
 
 .tableevent {
