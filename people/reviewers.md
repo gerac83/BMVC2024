@@ -178,7 +178,7 @@ The conference <a href="{{site.baseurl}}{% link people/organisers.md %}">organis
         <td>Dayal-Mohan</td>
     </tr>
     <tr>
-        <td>Debao</td>
+        <td>Di</td>
         <td>Huang</td>
     </tr>
     <tr>
