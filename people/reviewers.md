@@ -171,11 +171,11 @@ The conference <a href="{{site.baseurl}}{% link people/organisers.md %}">organis
     </tr>
     <tr>
         <td>Debao</td>
-        <td>Dayal-Mohan</td>
+        <td>Huang</td>
     </tr>
     <tr>
         <td>Deen</td>
-        <td>Raposo</td>
+        <td>Dayal-Mohan</td>
     </tr>
     <tr>
         <td>Debao</td>
