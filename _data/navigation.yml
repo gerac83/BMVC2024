@@ -1,6 +1,8 @@
 pages:
   - title: Home
     url: /
+  # - title: Proceedings
+  #   url: /proceedings/
   - title: Dates
     url: /dates/
   - title: Calls
