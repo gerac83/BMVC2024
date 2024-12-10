@@ -1,8 +1,6 @@
 pages:
   - title: Home
     url: /
-  # - title: Proceedings
-  #   url: /proceedings/
   - title: Dates
     url: /dates/
   - title: Calls
@@ -16,6 +14,8 @@ pages:
   - title: Programme
     url: /programme/
     dropdown: true
+  - title: Proceedings
+    url: /proceedings/
   - title: Authors
     url: /authors/
     dropdown: true
