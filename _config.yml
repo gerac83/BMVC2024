@@ -137,3 +137,6 @@ exclude:
 #  - name: AVA
 #    url: http://www.theava.net/
 #    logo: /img/affiliates/logo-ava.jpg
+# webrick:
+#   headers:
+#     content-disposition: attachment

@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "JetJet-Alternate",
+    "[html]": {
+        "editor.defaultFormatter": "Wscats.qf",
+        "editor.formatOnSave": true
+    }
+}

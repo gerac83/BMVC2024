@@ -1,3 +1,4 @@
+from collections import defaultdict
 import xlrd
 import pdb
 import os
@@ -16,8 +17,18 @@ for rx in range(sh.nrows):
         paper_authors = sh.cell_value(rowx=rx, colx=3)
         paper_emails = sh.cell_value(rowx=rx, colx=4)
         paper_files = sh.cell_value(rowx=rx, colx=5)
+        split_files = paper_files.split("; ")
         # paper_github = sh.cell_value(rowx=rx, colx=11)        
         paper_id_str = "%04d" % paper_id
+        items = defaultdict(lambda: None)
+        for el in split_files:
+            if "video" in el:
+                items["video"] = el
+            elif "poster" in el:
+                items["poster"] = el
+            elif "supplementary" in el:
+                items["supplementary"] = el
+            
 
         author_list = paper_authors.split(";")
 
@@ -57,17 +68,17 @@ for rx in range(sh.nrows):
         f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
         f.write('Paper_' + paper_id_str_short + '/paper.pdf')
         f.write('" role="button">PDF</a>')
-        if "poster" in paper_files:
+        if items["poster"] != None:
             f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
-            f.write('Paper_' + paper_id_str_short + '/poster.pdf')
+            f.write('Paper_' + paper_id_str_short + "/" + items["poster"])
             f.write('" role="button">Poster</a>')
-        if "video.mp4" in paper_files:
+        if items["video"] != None:
             f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
-            f.write('Paper_' + paper_id_str_short + '/video.mp4')
+            f.write('Paper_' + paper_id_str_short + "/" + items["video"])
             f.write('" role="button">Video (Right click to download)</a>')
-        if "supplementary" in paper_files:
+        if items["supplementary"] != None:
             f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
-            f.write('Paper_' + paper_id_str_short + '/supplementary'+ paper_id_str_short +'.zip')
+            f.write('Paper_' + paper_id_str_short + "/" + items["supplementary"])
             f.write('" role="button">Supplementary</a>')
         # if os.path.exists('./' +  paper_id_str + '_supp.pdf'):
         #     f.write('<a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2024/')
