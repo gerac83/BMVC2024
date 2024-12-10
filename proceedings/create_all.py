@@ -17,18 +17,17 @@ for rx in range(sh.nrows):
         paper_authors = sh.cell_value(rowx=rx, colx=3)
         paper_emails = sh.cell_value(rowx=rx, colx=4)
         paper_files = sh.cell_value(rowx=rx, colx=5)
-        split_files = paper_files.split("; ")
+        split_files = paper_files.split(";")
         # paper_github = sh.cell_value(rowx=rx, colx=11)        
         paper_id_str = "%04d" % paper_id
         items = defaultdict(lambda: None)
         for el in split_files:
             if "video" in el:
-                items["video"] = el
+                items["video"] = el.strip()
             elif "poster" in el:
-                items["poster"] = el
+                items["poster"] = el.strip()
             elif "supplementary" in el:
-                items["supplementary"] = el
-            
+                items["supplementary"] = el.strip()
 
         author_list = paper_authors.split(";")
 
