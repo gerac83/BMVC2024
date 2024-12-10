@@ -67,7 +67,7 @@ for rx in range(sh.nrows):
             f.write('" role="button">Video (Right click to download)</a>')
         if "supplementary" in paper_files:
             f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
-            f.write('Paper_' + paper_id_str_short + '/supplementrary'+ paper_id_str_short +'.zip')
+            f.write('Paper_' + paper_id_str_short + '/supplementary'+ paper_id_str_short +'.zip')
             f.write('" role="button">Supplementary</a>')
         # if os.path.exists('./' +  paper_id_str + '_supp.pdf'):
         #     f.write('<a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2024/')
