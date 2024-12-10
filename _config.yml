@@ -98,6 +98,8 @@ exclude:
   - programme/programme.md
   - programme/schedule.md
   - programme/workshop_papers.md
+  - proceedings/create_all.py
+  - proceedings/CameraReadyPapers.py
   # - programme/workshops.md
   - old_index.md
   - attending/guides.md
