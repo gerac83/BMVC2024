@@ -74,7 +74,7 @@ for rx in range(sh.nrows):
         if items["video"] != None:
             f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
             f.write('Paper_' + paper_id_str_short + "/" + items["video"])
-            f.write('" role="button">Video (Right click to download)</a>')
+            f.write('" role="button">Video</a>')
         if items["supplementary"] != None:
             f.write('<a href="https://bmva-archive.org.uk/bmvc/2024/papers/')
             f.write('Paper_' + paper_id_str_short + "/" + items["supplementary"])
@@ -92,7 +92,7 @@ for rx in range(sh.nrows):
         f.write('<br><br>')
 
         # if os.path.exists('./Paper_' + paper_id_str_short + '/video.mp4'):
-        #     f.write('<h2>Video</h2><center><iframe height="540" width="960" style="max-width:100%;max-height:100%;" src="https://bmva-archive.org.uk/bmvc/2024/papers/' + 'Paper_' + paper_id_str_short + '/video.mp4'+ '" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></center><br><br>')
+        f.write('<h2>Video</h2><center><iframe height="540" width="960" style="max-width:100%;max-height:100%;" src="https://bmva-archive.org.uk/bmvc/2024/papers/' + 'Paper_' + paper_id_str_short + '/video.mp4'+ '" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></center><br><br>')
 
         f.write('<h2>Citation</h2><div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{')
 
