@@ -27,11 +27,18 @@ permalink: /proceedings/workshop-proceedings/
                                 <td class="text-center"><strong> </strong><br /><span
                                                 style="opacity: 0.5;"><strong>ANIMA</strong></span></td>
                                 <td><strong><a href="/proceedings/14/">AMonitoring Support System Based on HRNet+DEKR for Neonatal Intensive Care Units</a></strong><br />
-                                Greta Di Marino (Scuola Superiore Sant’Anna Pisa, IT), Lucia Migliorelli (Università Politecnica delle Marche Ancona, IT), Sara Moccia (Università degli Studi ’G. d’Annunzio’ Chieti), Matteo Lorenzo Bramucci (Università Politecnica delle Marche Ancona, IT), Jacopo Carpaneto ()
+                                Greta Di Marino (Scuola Superiore Sant’Anna Pisa, IT), Lucia Migliorelli (Università Politecnica delle Marche Ancona, IT), Sara Moccia (Università degli Studi ’G. d’Annunzio’ Chieti), Matteo Lorenzo Bramucci (Università Politecnica delle Marche Ancona, IT), Jacopo Carpaneto (Scuola Superiore Sant’Anna Pisa, IT), Alessandro Cacciatore (Università di Macerata), Daniele Berardini (Università Politecnica delle Marche)
                                 <br /><a class="btn btn-primary btn-sm mt-1"
                                                 href="https://bmva-archive.org.uk/bmvc/2024/workshops/ANIMA/paper3.pdf"
                                                 role="button">PDF</a>&nbsp;</td>
                         </tr>
+                </tbody>
+        </table>
+</div>
+
+<div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-left"> 
+        <table class="table table-striped table-bordered">
+                <tbody>
                         <tr id="paper">
                                 <td class="text-center"><strong> </strong><br /><span
                                                 style="opacity: 0.5;"><strong>15</strong></span></td>
