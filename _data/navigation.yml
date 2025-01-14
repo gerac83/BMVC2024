@@ -8,14 +8,12 @@ pages:
     dropdown: true
   #- title: Keynotes
   #  url: /keynotes/
-  - title: Attending
-    url: /attending/
-    dropdown: true
+  # - title: Attending
+  #   url: /attending/
+  #   dropdown: true
   - title: Programme
     url: /programme/
     dropdown: true
-  - title: Proceedings
-    url: /proceedings/
   - title: Authors
     url: /authors/
     dropdown: true
@@ -24,3 +22,6 @@ pages:
     dropdown: true
   - title: Sponsors
     url: /sponsors/
+  - title: Proceedings
+    url: /proceedings/
+    dropdown: true
