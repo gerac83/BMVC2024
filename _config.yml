@@ -100,7 +100,7 @@ exclude:
   - programme/workshop_papers.md
   - proceedings/create_all.py
   - proceedings/CameraReadyPapers.py
-  - proceedings/workshop-proceedings.md
+  # - proceedings/workshop-proceedings.md
   # - programme/workshops.md
   - old_index.md
   - attending/guides.md
