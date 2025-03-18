@@ -7,3 +7,5 @@ Then
 gem install minima
 gem install github-pages
 
+Old template 
+
