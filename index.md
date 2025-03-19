@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default_sidebar
-title: Home 
+title: Home
 ---
 
 <p class="text-justify">The British Machine Vision Conference (BMVC) is the British Machine Vision Association's (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.</p>
