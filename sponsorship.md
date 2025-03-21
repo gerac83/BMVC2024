@@ -49,7 +49,7 @@ permalink: /sponsors/
             </div>
         </li>
     {% endfor %}
-{% endfor %}
+{% endfor %} 
 </section><br>
 
 <div class="align-items-center mb-3">
